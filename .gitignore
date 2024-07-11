@@ -163,5 +163,3 @@ cython_debug/
 
 # Ignore all files in `data` directory
 /data/pipelines
-
-**/[Rr]esult.jsonl*
