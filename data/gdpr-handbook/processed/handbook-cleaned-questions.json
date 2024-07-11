@@ -482,21 +482,11 @@
       "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
       "section_heading": "Brud på persondatasikkerheden",
       "phrases": [
-        "Der i udsendte breve ved en fejl er flettet oplysninger om en anden borger ind, f.eks. ydelsesoplysninger, cpr-nummer, navn mv."
-      ],
-      "reference_answers": [
-        "Ja, der er tale om et sikkerhedsbrud, når CPR-numre er synlige på breve."
-      ]
-    },
-    {
-      "question": "Er der tale om sikkerhedsbrud når CPR er synligt breve?",
-      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
-      "section_heading": "Brud på persondatasikkerheden",
-      "phrases": [
+        "Der i udsendte breve ved en fejl er flettet oplysninger om en anden borger ind, f.eks. ydelsesoplysninger, cpr-nummer, navn mv.",
         "Et cpr-nummer optræder i adressefelt og derved er synligt på fysiske breve."
       ],
       "reference_answers": [
-        "Ja, der er tale om et sikkerhedsbrud, når et CPR-nummer er synligt på fysiske breve."
+        "Ja, der er tale om et sikkerhedsbrud, når CPR-numre er synlige på breve."
       ]
     },
     {
