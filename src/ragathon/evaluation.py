@@ -105,7 +105,7 @@ class PipelineEvaluator:
 async def main():
     eval = PipelineEvaluator(
         pipeline_results_path=Path(
-            "data/pipelines/naive-128-overlap-50-retriever-bm25-generator-gpt4o-v1/result.jsonl"
+            "data/pipelines/naive-100-overlap-210-retriever-vector-generator-gpt4o-v1/result.jsonl"
         ),
         questions_file_path=Path(
             "data/gdpr-handbook/processed/handbook-cleaned-questions.json"

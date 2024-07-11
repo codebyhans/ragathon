@@ -324,8 +324,11 @@ class QueryRetrievalMetric(BaseModel):
     """Represents an evaluation metric for a specific query."""
 
     query_id: str = Field(..., description="ID of the query.")
+    query: str = Field(..., description="Query string.")
     measure_name: str = Field(..., description="Name of the evaluation metric.")
-    k: int = Field(..., description="Which k value this metric is for.")
+    k: Optional[int] = Field(
+        default=None, description="Which k value this metric is for."
+    )
     value: float = Field(..., description="Value of the evaluation metric.")
 
 

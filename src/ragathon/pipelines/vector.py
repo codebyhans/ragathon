@@ -40,7 +40,7 @@ class NaiveChunkingVectorPipeline(RAGPipeline):
         self._config = RAGPipelineConfig(
             version="1",
             chunking_method="naive",
-            max_chunk_size=180,
+            max_chunk_size=210,
             chunk_overlap=100,
             retrieval_method="vector",
             generation_model_name="gpt4o",
