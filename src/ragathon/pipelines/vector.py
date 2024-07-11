@@ -40,10 +40,11 @@ class NaiveChunkingVectorPipeline(RAGPipeline):
         self._config = RAGPipelineConfig(
             version="1",
             chunking_method="naive",
-            max_chunk_size=128,
-            chunk_overlap=50,
+            max_chunk_size=180,
+            chunk_overlap=100,
             retrieval_method="vector",
             generation_model_name="gpt4o",
+            #generation_model_name="gpt35turbo",
         )
 
         self._output_dir = self._config.get_dir(parent_dir=output_dir)
