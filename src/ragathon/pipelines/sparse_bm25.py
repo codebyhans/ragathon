@@ -159,7 +159,7 @@ class NaiveChunkingBM25Pipeline(RAGPipeline):
         messages = [
             ChatMessage(
                 role=MessageRole.SYSTEM,
-                content="You are a helpful assistant. Answer the question based on the provided context.",
+                content="You are a helpful assistant. Answer the question based on the provided context. You will answer questions about GPDR",
             ),
             ChatMessage(
                 role=MessageRole.USER,
