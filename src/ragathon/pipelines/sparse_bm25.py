@@ -29,8 +29,6 @@ from ragathon.pipelines.common import (
     RetrievedChunk,
 )
 from ragathon.utils.date import utcnow
-import nltk 
-nltk.download('stopwords')
 
 
 class NaiveChunkingBM25Pipeline(RAGPipeline):
@@ -224,21 +222,43 @@ async def main():
         output_dir=Path("data/pipelines"),
     )
     await pipeline.build_or_load()
-    question = "Hvilket princip skal der følges, når man behandler personoplysninger?"
+
     # Load the questions
-    #questions_file_path = Path(
-    #    "data/gdpr-handbook/processed/handbook-cleaned-questions.json"
-    #)
-    #async with aio_open(questions_file_path, mode="r") as file:
-    #    content = await file.read()
-    #    q_set = SyntheticQuestionSet.model_validate_json(json_data=content)
-#
-    #for question in q_set.questions:
-    result = await pipeline.run(query=question, max_retrieve_docs=5)
-    logger.debug(
-        f"Question: {question}\nAnswer:\n{result.model_dump_json(indent=2)}"
+    questions_file_path = Path(
+        "data/gdpr-handbook/processed/handbook-cleaned-questions.json"
     )
-     #   break
+    async with aio_open(questions_file_path, mode="r") as file:
+        content = await file.read()
+        q_set = SyntheticQuestionSet.model_validate_json(json_data=content)
+
+    pipeline_output_file = pipeline._output_dir / "result.jsonl"
+    pipeline_result: List[RAGPipelineOutput] = []
+
+    if pipeline_output_file.exists():
+        async with aio_open(pipeline_output_file, mode="r") as file:
+            async for line in file:
+                pipeline_result.append(
+                    RAGPipelineOutput.model_validate_json(json_data=line)
+                )
+
+    async def save_pipeline_result():
+        async with aio_open(pipeline_output_file, mode="w") as file:
+            for result in pipeline_result:
+                await file.write(result.model_dump_json() + "\n")
+
+    for question in q_set.questions:
+        if any(
+            [
+                result.query_info.original_query == question.question
+                for result in pipeline_result
+            ]
+        ):
+            logger.info(f"Skipping question: {question.question}")
+            continue
+
+        result = await pipeline.run(query=question.question, max_retrieve_docs=5)
+        pipeline_result.append(result)
+        await save_pipeline_result()
 
 
 if __name__ == "__main__":
