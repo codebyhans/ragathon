@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # Ignore all files in `data` directory
-#/data
+/data/pipelines

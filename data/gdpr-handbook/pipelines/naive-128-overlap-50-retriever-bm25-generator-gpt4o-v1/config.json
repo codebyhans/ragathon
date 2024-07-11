@@ -1,8 +1,0 @@
-{
-  "version": "1",
-  "chunking_method": "naive",
-  "max_chunk_size": 128,
-  "chunk_overlap": 50,
-  "retrieval_method": "bm25",
-  "generation_model_name": "gpt4o"
-}
