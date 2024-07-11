@@ -1,0 +1,961 @@
+{
+  "sections": [
+    {
+      "id": "0bff0af3-414c-53e3-af87-c2fda409b903",
+      "level": 1,
+      "heading": "H\u00e5ndbog for behandling af personoplysninger i ATP Koncernen",
+      "text": "Som medarbejder i ATP skal du v\u00e6re bevidst om databeskyttelsesreglerne og implementere rutiner i det daglige arbejde for at sikre korrekt h\u00e5ndtering og beskyttelse af personoplysninger. N\u00e5r du behandler personoplysninger, uanset om det er elektronisk eller ikke-elektronisk behandling, er du forpligtet til at behandle personoplysningerne omhyggeligt og med omtanke.\n",
+      "parent_id": null,
+      "children_ids": [
+        "b079874b-287f-5c24-9ca5-b2547979ecb0",
+        "41d9dc90-c454-53aa-8769-b850647700b1"
+      ]
+    },
+    {
+      "id": "b079874b-287f-5c24-9ca5-b2547979ecb0",
+      "level": 2,
+      "heading": "10 GODE GDPR-VANER",
+      "text": "1. Tilg\u00e5 kun personoplysninger, hvis du har et arbejdsrelateret behov for at til g\u00e5 dem \u2013 aldrig til privat brug.\n2. Behandl personoplysninger efter princippet om \u201dneed to have\u201d og ikke \u201dnice to have\u201d.\n3. Ved brud p\u00e5 persondatasikkerheden skal du straks orientere din leder, som vil h\u00e5ndtere bruddet efter denne [procedure](https://atpdk.sharepoint.com/sites/Fagligt/SitePages/Saadan-anmelder-du-et-persondatabrud.aspx?web=1).\n4. Rettighedsanmodninger, fx anmodning om indsigt, skal h\u00e5ndteres hurtigt efter proceduren i din afdeling.\n5. Kommunik\u00e9r sikkert med personer udenfor ATP. Hvis Digital Post ikke er mulig, skal e-mail med fortrolige eller f\u00f8lsomme personoplysninger krypteres \u2013 f\u00f8lg denne [vejledning](https://atpdk.sharepoint.com/sites/Praktisk/SitePages/Saadan-sender-du-sikre,-krypterede-mails.aspx?web=1).\n6. Tjek altid din e-mail: 1) Er indholdet af e-mailen er korrekt? 2) Har du angivet det korrekte modtagere.\n7. Videregiv kun personoplysninger til rette modtager \u2013 stil kontrolsp\u00f8rgsm\u00e5l, hvis du er i tvivl og henvis evt. i sidste ende til skriftligt svar via Digital Post.\n8. Opbevar kun personoplysninger i de systemer, hvor de er tilt\u00e6nkt. Undlad un\u00f8dige download, print og lokal lagring.\n9. E-mail og tilh\u00f8rende vedh\u00e6ftninger, som du sender eller modtager, skal overf\u00f8res til relevant system og herefter slettes fra indbakken.\n10. Kend og efterlev dine GDPR-vaner sammen med ATP\u2019s \u201d[11 gode vaner til Informationssikkerhed](https://atpdk.sharepoint.com/sites/Praktisk/SitePages/11-gode-vaner-til-informationssikkerhed.aspx?web=1)\u201d.\n\nDe \u201d10 gode GDPR-vaner\u201d er gode tommelfingerregler i vores daglige arbejde. De uddybes og suppleres yderligere i H\u00e5ndbogen, som introduceres p\u00e5 n\u00e6ste side.\n",
+      "parent_id": "0bff0af3-414c-53e3-af87-c2fda409b903",
+      "children_ids": []
+    },
+    {
+      "id": "41d9dc90-c454-53aa-8769-b850647700b1",
+      "level": 2,
+      "heading": "INTRODUKTION",
+      "text": "Denne H\u00e5ndbog for Behandling af Personoplysninger i ATP Koncernen (herefter \"H\u00e5ndbog\") er udarbejdet for ATP med det form\u00e5l at vejlede og guide medarbejderne hos ATP i h\u00e5ndteringen af personoplysninger. H\u00e5ndbogen g\u00e6lder for hele ATP Koncernen og alle medarbejdere.\n\nI ATP behandler vi personoplysninger om medlemmer og borgere samt disses relationer. Herudover behandler vi personoplysninger om egne medarbejdere og bestyrelses- og repr\u00e6sentantskabsmedlemmer. \u201dBehandling\u201d inkluderer enhver aktivitet eller r\u00e6kke af aktiviteter med eller uden brug af automatisk behandling, som personoplysninger eller en samling af personoplysninger g\u00f8res til genstand for. Behandlingen kan f.eks. relatere sig til indsamling, registrering, organisering, systematisering, opbevaring, tilpasning, \u00e6ndring, samk\u00f8ring eller sletning.\n",
+      "parent_id": "0bff0af3-414c-53e3-af87-c2fda409b903",
+      "children_ids": [
+        "369fb88f-56cc-5366-afc5-a64f65700ffa",
+        "9df18566-3eb6-587b-a8b4-136ac27c4886"
+      ]
+    },
+    {
+      "id": "369fb88f-56cc-5366-afc5-a64f65700ffa",
+      "level": 3,
+      "heading": "FORM\u00c5LET MED H\u00c5NDBOGEN",
+      "text": "Beskyttelse af personoplysninger er af stor betydning for ATP. Alle medarbejdere i ATP behandler personoplysninger i deres dagligdag. Det er derfor vigtigt, at alle er orienteret om og indforst\u00e5et med lovligheden af den behandling, der foretages. Denne H\u00e5ndbog guider dig gennem de generelle regler og principper i databeskyttelsesforordningen og freml\u00e6gger ATP\u2019s interne leveregler for behandling af personoplysninger i overensstemmelse med databeskyttelsesreglerne. Den kan ogs\u00e5 anvendes som opslagsv\u00e6rk.\n\nH\u00e5ndbogen skal sikre, at behandlingen af personoplysninger hos ATP sker i overensstemmelse med den til enhver tid g\u00e6ldende lovgivning, som finder anvendelse p\u00e5 behandling og beskyttelse af personoplysninger i EU og E\u00d8S, herunder databeskyttelsesforordningen og databeskyttelsesloven.\n\nHvis du efter at have l\u00e6st denne H\u00e5ndbog har nogle sp\u00f8rgsm\u00e5l, noget du \u00f8nsker at f\u00e5 afklaret yderligere eller har brug for assistance til at l\u00f8se en problemstilling vedr\u00f8rende behandling af personoplysninger, er du velkommen til at kontakte Koncernjura.\n",
+      "parent_id": "41d9dc90-c454-53aa-8769-b850647700b1",
+      "children_ids": []
+    },
+    {
+      "id": "9df18566-3eb6-587b-a8b4-136ac27c4886",
+      "level": 3,
+      "heading": "OMFANGET AF H\u00c5NDBOG",
+      "text": "Du skal l\u00e6se og v\u00e6re indforst\u00e5et med denne H\u00e5ndbog, som vil blive opdateret regelm\u00e6ssigt. H\u00e5ndbogen er inddelt i to dele. Del I indeholder en introduktion til de grundl\u00e6ggende regler og principper samt ATP-specifikke leveregler, der er relevante for alle medarbejdere i ATP. Del II indeholder leveregler fordelt p\u00e5 omr\u00e5derne: Administrationsforretningen, P&I, de tv\u00e6rg\u00e5ende enheder, bestyrelses- og repr\u00e6sentantskabsbetjeningen, datterselskaber samt personaleadministration. Relevansen af del II er begr\u00e6nset til det/de omr\u00e5de/r, du er besk\u00e6ftiget indenfor. Dog vil afsnit 15 om personaleadministrationen v\u00e6re relevant for alle ledere.\n\nH\u00e5ndbogen udg\u00f8r ikke en udt\u00f8mmende liste over typer af behandlinger af personoplysninger, som finder sted i ATP, men freml\u00e6gger ATP\u2019s tv\u00e6rg\u00e5ende leveregler og skal anvendes i forbindelse med vores behandlingsaktiviteter.\n",
+      "parent_id": "41d9dc90-c454-53aa-8769-b850647700b1",
+      "children_ids": []
+    },
+    {
+      "id": "eac00a9d-b01d-50e7-9ec1-f6fcbdb7df95",
+      "level": 1,
+      "heading": "H\u00e5ndbogens DEL I \u2013 Behandling af personoplysninger p\u00e5 tv\u00e6rs af ATP",
+      "text": "Del I i H\u00e5ndbogen introducerer grundl\u00e6ggende begreber og principper samt indeholder leveregler, som er g\u00e6ldende p\u00e5 tv\u00e6rs af ATP Koncernen, uanset hvilken afdeling du er tilknyttet, og uanset hvilke konkrete opgaver du varetager.\n",
+      "parent_id": null,
+      "children_ids": ["86f5560a-fd34-5419-855c-fd549284759c"]
+    },
+    {
+      "id": "86f5560a-fd34-5419-855c-fd549284759c",
+      "level": 2,
+      "heading": "Hvad er \"personoplysninger\" og \"behandling af personoplysninger\"",
+      "text": "",
+      "parent_id": "eac00a9d-b01d-50e7-9ec1-f6fcbdb7df95",
+      "children_ids": [
+        "760d7763-e63a-54cc-b4f6-83a278acded4",
+        "0174cc6c-93d2-5574-8e9b-a30906302377"
+      ]
+    },
+    {
+      "id": "760d7763-e63a-54cc-b4f6-83a278acded4",
+      "level": 3,
+      "heading": "Personoplysninger",
+      "text": "*Betyder enhver form for information om en identificeret eller identificerbar fysisk person (\u00bbden registrerede\u00ab); ved identificerbar fysisk person forst\u00e5s en fysisk person, der direkte eller indirekte kan identificeres, navnlig ved en identifikator som f.eks. et navn, et identifikationsnummer, lokaliseringsdata, en onlineidentifikator eller et eller flere elementer, der er s\u00e6rlige for denne fysiske persons fysiske, fysiologiske, genetiske, psykiske, \u00f8konomiske, kulturelle eller sociale identitet..\n\nPersonoplysninger er derfor enhver oplysning, der direkte eller indirekte er en oplysning om en fysisk person. En oplysning, som du ikke selv er i stand til at genkende eller afkode, vil fortsat v\u00e6re en personoplysning, hvis oplysningen p\u00e5 en eller anden m\u00e5de (af dig eller andre f.eks. en leverand\u00f8r) i sidste ende vil kunne henf\u00f8res til en fysisk person. Eksempelvis er en krypteret oplysning i udgangspunktet en personoplysning, fordi det er muligt at dekryptere og herefter henf\u00f8re oplysningen til en bestemt fysisk person.\n\nI Administrationsforretningen vil de typiske typer af personoplysninger, vi behandler, v\u00e6re oplysninger om identifikation, herunder navn, adresse, cpr-nummer, samt oplysninger relateret til medlemmets/borgerens sag, herunder ind- og udbetalinger, oplysning om indt\u00e6gt, ydelsestype og eventuelt relevante helbredsm\u00e6ssige forhold.\n\nI P&I vil behandlingen af personoplysninger i almindelighed v\u00e6re begr\u00e6nset til identitets- og kontaktoplysninger, herunder navn, stillingsbetegnelse, mailadresse, telefonnummer samt oplysninger relateret til transaktioner. Aktuariatet behandler dog yderligere typer af personoplysninger.\n\nI de tv\u00e6rg\u00e5ende funktioner, herunder 1st.- 2nd.- og 3rd. line s\u00e5 som Corporate Functions, Business Support, Risikostyring & Compliance, Intern Revision samt tv\u00e6rg\u00e5ende udvalg, komit\u00e9er og fora, vil de typer af personoplysninger, som behandles, hovedsageligt udg\u00f8re oplysninger relateret til interne mailkorrespondancer og medarbejderoplysninger, men kan ogs\u00e5 omfatte sagsspecifikke oplysninger i forbindelse med den konkrete r\u00e5dgivning af forretningen.\n",
+      "parent_id": "86f5560a-fd34-5419-855c-fd549284759c",
+      "children_ids": []
+    },
+    {
+      "id": "0174cc6c-93d2-5574-8e9b-a30906302377",
+      "level": 3,
+      "heading": "Behandling",
+      "text": "*Betyder enhver aktivitet eller r\u00e6kke af aktiviteter \u2014 med eller uden brug af automatisk behandling \u2014 som personoplysninger eller en samling af personoplysninger g\u00f8res til genstand for, f.eks. indsamling, registrering, organisering, systematisering, opbevaring, tilpasning eller \u00e6ndring, genfinding, s\u00f8gning, brug, videregivelse ved transmission, formidling eller enhver anden form for overladelse, sammenstilling eller samk\u00f8ring, begr\u00e6nsning, sletning eller tilintetg\u00f8relse..\n\nBehandling af personoplysninger er derfor enhver h\u00e5ndtering af personoplysninger b\u00e5de aktivt og passivt. F.eks. vil der v\u00e6re tale om en \"behandling\", n\u00e5r vi *modtager* en henvendelse, herefter *besvarer* denne, *lagrer* den i systemet og senere *sletter* denne. Herudover er der ogs\u00e5 tale om en \"behandling\", n\u00e5r oplysningen blot *ligger* passivt i en database uden anden form for h\u00e5ndtering.\n",
+      "parent_id": "86f5560a-fd34-5419-855c-fd549284759c",
+      "children_ids": ["4aacd5aa-29bc-5dee-b6e5-5fb51eec41ca"]
+    },
+    {
+      "id": "4aacd5aa-29bc-5dee-b6e5-5fb51eec41ca",
+      "level": 2,
+      "heading": "Roller og ansvar for behandlingen",
+      "text": "",
+      "parent_id": "0174cc6c-93d2-5574-8e9b-a30906302377",
+      "children_ids": [
+        "ce464b7c-a773-5222-937f-ece5c7308723",
+        "6c93280c-35bd-5d38-be60-c38b51840190",
+        "3244f0bb-96f2-569e-85f9-73425ce8439f"
+      ]
+    },
+    {
+      "id": "ce464b7c-a773-5222-937f-ece5c7308723",
+      "level": 3,
+      "heading": "\u201dDataansvarlig\u201d og \u201ddatabehandler\u201d",
+      "text": "Den \u201ddataansvarlige\u201d er den fysiske eller juridiske person, en offentlig myndighed, en institution eller et andet organ, der alene eller sammen med andre afg\u00f8r, til hvilke form\u00e5l og med hvilke hj\u00e6lpemidler der m\u00e5 foretages behandling af personoplysninger. Det er s\u00e5ledes den dataansvarlige, der, inden for rammerne af databeskyttelsesreglerne, bestemmer, hvilke personoplysninger der skal indsamles, opbevares og eventuelt videregives, hvordan behandlingen i \u00f8vrigt skal finde sted, og hvorn\u00e5r personoplysningerne skal slettes. Det er ogs\u00e5 den dataansvarlige, som er forpligtet til at sikre, at de personer, hvis personoplysninger undergives behandling, informeres om behandlingen, jf. afsnit 5.1.1 om oplysningspligt nedenfor.\n\nEn \u201ddatabehandler\u201d er en fysisk eller juridisk person, en offentlig myndighed, en institution eller et andet organ, der behandler personoplysninger p\u00e5 den dataansvarliges vegne. En databehandler har s\u00e5ledes ikke et selvst\u00e6ndigt form\u00e5l med behandlingen af personoplysninger, men bist\u00e5r den dataansvarlige og handler udelukkende p\u00e5 vegne og efter instruks af den dataansvarlige. F.eks. er en it-leverand\u00f8r en databehandler, idet leverand\u00f8ren tilr\u00e5dighedsstiller et system, hvori personoplysninger fra den dataansvarlige lagres og behandles. For yderligere om databehandlere henvises til afsnit 6 nedenfor.\n",
+      "parent_id": "4aacd5aa-29bc-5dee-b6e5-5fb51eec41ca",
+      "children_ids": []
+    },
+    {
+      "id": "6c93280c-35bd-5d38-be60-c38b51840190",
+      "level": 3,
+      "heading": "ATP som dataansvarlig",
+      "text": "ATP er dataansvarlig for behandlingen af personoplysninger i forbindelse med ATP Livslang Pension samt personaleadministrationen p\u00e5 tv\u00e6rs af koncernen. I disse tilf\u00e6lde afg\u00f8r ATP, til hvilket form\u00e5l (henholdsvis varetagelse af sagsbehandlingen i ATP Livslang Pension, forvaltning af investeringer samt h\u00e5ndtering af personale) og med hvilke hj\u00e6lpemidler (den personalem\u00e6ssige sammens\u00e6tning samt it-underst\u00f8ttelsen, herunder udviklet af ATP selv eller bist\u00e5et af eksterne leverand\u00f8rer) der m\u00e5 foretages behandling af personoplysninger.\n",
+      "parent_id": "4aacd5aa-29bc-5dee-b6e5-5fb51eec41ca",
+      "children_ids": []
+    },
+    {
+      "id": "3244f0bb-96f2-569e-85f9-73425ce8439f",
+      "level": 3,
+      "heading": "ATP som databehandler \u2013 ordningerne som dataansvarlige",
+      "text": "ATP yder teknisk og administrativ bistand til ordningerne ved, at ATP etablerer systemunderst\u00f8ttelse, stiller medarbejdere og lokaler til r\u00e5dighed m.v. ATP\u2019s bistand kan s\u00e5ledes i vidt omfang sidestilles med en leverand\u00f8rs levering af en tjenesteydelse, da ATP ikke har et selvst\u00e6ndigt form\u00e5l med behandlingen. Det er ordningerne selv, der afg\u00f8r, til hvilke form\u00e5l der m\u00e5 foretages behandling af personoplysninger, f.eks. til brug for behandlingen af en arbejdsskadesag, og ATP er ved lov eller aftale valgt som leverand\u00f8r til at bist\u00e5 hermed. I relation til Administrationsforretningen er de enkelte ordninger s\u00e5ledes dataansvarlige[[1]](#footnote-1), mens ATP er databehandler.\n",
+      "parent_id": "4aacd5aa-29bc-5dee-b6e5-5fb51eec41ca",
+      "children_ids": ["d9697d05-1d53-539c-9e3b-ff496ca52db8"]
+    },
+    {
+      "id": "d9697d05-1d53-539c-9e3b-ff496ca52db8",
+      "level": 2,
+      "heading": "Grundl\u00e6ggende behandlingsprincipper",
+      "text": "N\u00e5r vi behandler personoplysninger, skal det ske i overensstemmelse med f\u00f8lgende grundl\u00e6ggende principper:\n\n- Lovlighed, rimelighed og gennemsigtighed\n- Form\u00e5lsbegr\u00e6nsning\n- Dataminimering\n- Rigtighed\n- Opbevaringsbegr\u00e6nsning\n- Fortrolighed, integritet og tilg\u00e6ngelighed\n- Ansvarlighed\n",
+      "parent_id": "3244f0bb-96f2-569e-85f9-73425ce8439f",
+      "children_ids": [
+        "eaa38f43-a800-5425-9d8f-9ada91e92f1d",
+        "45f92766-0a3d-5f2a-aae3-cb733c4603fa",
+        "ee8046d1-e1fa-59b0-b891-8afcb2f87cfc",
+        "4d7e54e9-88fe-50dd-bbfe-809822a1265d",
+        "8265d8f8-e1ee-526d-8e2e-123541dfb808",
+        "57ab827a-722f-5f41-a5ae-469b6f08b232",
+        "4944c5c4-02c5-5376-925a-7967ab3094c4"
+      ]
+    },
+    {
+      "id": "eaa38f43-a800-5425-9d8f-9ada91e92f1d",
+      "level": 3,
+      "heading": "Lovlighed, rimelighed og gennemsigtighed",
+      "text": "ATP skal behandle personoplysninger lovligt, rimeligt og gennemsigtigt over for de registrerede. Dette betyder, at ATP skal overholde reglerne for behandling af oplysninger og skal give let tilg\u00e6ngelig information om behandlingen af personoplysninger. Det indeb\u00e6rer dels, at du som medarbejder ikke m\u00e5 sl\u00e5 op i systemer og tilg\u00e5 personoplysninger, medmindre du har et arbejdsbetinget behov, og dels at den person, der behandles oplysninger om (\u201dden registrerede\u201d), skal have oplyst, at det er ATP, der er ansvarlig for behandlingen af p\u00e5g\u00e6ldendes personoplysninger, og hvad ATP\u2019s form\u00e5l med behandlingen af personoplysningerne er.\n",
+      "parent_id": "d9697d05-1d53-539c-9e3b-ff496ca52db8",
+      "children_ids": []
+    },
+    {
+      "id": "45f92766-0a3d-5f2a-aae3-cb733c4603fa",
+      "level": 3,
+      "heading": "Form\u00e5lsbegr\u00e6nsning",
+      "text": "ATP m\u00e5 kun indsamle personoplysninger til specifikke, udtrykkelige og legitime form\u00e5l. Behandling, som er uforenelig med disse form\u00e5l, er ikke tilladt. N\u00e5r der indsamles oplysninger, skal ATP g\u00f8re sig klart, hvilke form\u00e5l oplysningerne indsamles til, og form\u00e5lene skal v\u00e6re saglige. ATP m\u00e5 ikke indsamle oplysninger med den begrundelse, at det m\u00e5ske senere kan vise sig nyttigt at v\u00e6re i besiddelse af oplysningerne. Vurdering af, om indsamlingen af en personoplysning tjener et sagligt form\u00e5l, kan bl.a. bed\u00f8mmes ud fra, om indsamlingen sker i forbindelse med l\u00f8sningen af en opgave, som det er naturligt for ATP at l\u00f8se. F.eks. vil det v\u00e6re naturligt i Administrationsforretningen af indhente oplysninger fra Skattestyrelsen, f\u00f8r udbetaling af en indt\u00e6gtsafh\u00e6ngig ydelse.\n",
+      "parent_id": "d9697d05-1d53-539c-9e3b-ff496ca52db8",
+      "children_ids": []
+    },
+    {
+      "id": "ee8046d1-e1fa-59b0-b891-8afcb2f87cfc",
+      "level": 3,
+      "heading": "Dataminimering",
+      "text": "ATP m\u00e5 kun behandle personoplysninger, der er tilstr\u00e6kkelige og relevante samt begr\u00e6nset til det, der er n\u00f8dvendigt i relation til de form\u00e5l, personoplysningerne er indsamlet til. Popul\u00e6rt sagt m\u00e5 der alene behandles de personoplysninger, som er \u201dneed to have\u201d og ikke personoplysninger, som er \u201dnice to-have\u201d.\n",
+      "parent_id": "d9697d05-1d53-539c-9e3b-ff496ca52db8",
+      "children_ids": []
+    },
+    {
+      "id": "4d7e54e9-88fe-50dd-bbfe-809822a1265d",
+      "level": 3,
+      "heading": "Rigtighed",
+      "text": "ATP skal sikre, at personoplysninger, som behandles, er rigtige og ajourf\u00f8rte. Urigtige personoplysninger skal berigtiges og efter omst\u00e6ndighederne slettes. For Administrationsforretningens vedkommende, herunder de enkelte ordninger, vil dette i flere tilf\u00e6lde ske automatisk ved, at der med faste intervaller indhentes data fra autoritative kilder s\u00e5 som cpr-registret og indkomstregistret.\n",
+      "parent_id": "d9697d05-1d53-539c-9e3b-ff496ca52db8",
+      "children_ids": []
+    },
+    {
+      "id": "8265d8f8-e1ee-526d-8e2e-123541dfb808",
+      "level": 3,
+      "heading": "Opbevaringsbegr\u00e6nsning",
+      "text": "ATP skal slette personoplysninger, n\u00e5r de ikke l\u00e6ngere er n\u00f8dvendige at behandle for at opfylde form\u00e5let, hvortil de var indsamlet. F.eks. vil det sj\u00e6ldent v\u00e6re relevant at bevare personoplysninger relateret til en konkret udbetalingssag, efter klage- og for\u00e6ldelsesfristen er udl\u00f8bet. Det er derfor afg\u00f8rende, at det allerede fra starten af en behandlingsaktivitet indt\u00e6nkes, efter hvilken rutine sletning skal ske og om muligt automatisere sletningen.\n",
+      "parent_id": "d9697d05-1d53-539c-9e3b-ff496ca52db8",
+      "children_ids": []
+    },
+    {
+      "id": "57ab827a-722f-5f41-a5ae-469b6f08b232",
+      "level": 3,
+      "heading": "Fortrolighed, Integritet og tilg\u00e6ngelighed",
+      "text": "ATP skal sikre, at den forn\u00f8dne behandlingssikkerhed er implementeret, n\u00e5r der behandles personoplysninger. Personoplysninger skal beskyttes mod uautoriseret eller ulovlig behandling, ligesom det skal sikres, at oplysninger ikke g\u00e5r tabt eller bliver beskadiget. Databeskyttelsesreglerne indeholder en r\u00e6kke regler om, hvorn\u00e5r man m\u00e5 indsamle og registrere personoplysninger, videregive dem osv. Ogs\u00e5 andre regels\u00e6t end databeskyttelsesreglerne kan indeholde regler om, at en behandling af personoplysninger kan eller skal finde sted. Hvilke regler man skal f\u00f8lge i den enkelte situation, afh\u00e6nger af oplysningernes karakter og form\u00e5let med databehandlingen. I sagsbehandlingen hos de enkelte ordninger i Administrationsforretningen vil databeskyttelsesreglerne supplere specifikke s\u00e6rlove s\u00e5 som UDK-loven, AES-loven, LG-loven m.fl. Disse s\u00e6rlove definerer, hvilke personoplysninger der er n\u00f8dvendige at behandle for at opfylde den retlige forpligtelse og udf\u00f8re den myndighedsopgave, som den p\u00e5g\u00e6ldende ordning ved lov er p\u00e5lagt.\n",
+      "parent_id": "d9697d05-1d53-539c-9e3b-ff496ca52db8",
+      "children_ids": []
+    },
+    {
+      "id": "4944c5c4-02c5-5376-925a-7967ab3094c4",
+      "level": 3,
+      "heading": "Ansvarlighed",
+      "text": "ATP skal kunne p\u00e5vise, at de grundl\u00e6ggende principper overholdes. Der g\u00e6lder s\u00e5ledes et krav om, at der skal f\u00f8res \u2013 og p\u00e5 foresp\u00f8rgsel skal freml\u00e6gges \u2013 dokumentation p\u00e5, at behandlingen af personoplysninger sker lovligt. Som et led i dette f\u00f8rer ATP internt en r\u00e6kke kontroller til sikring af behandling, ligesom eksterne revisionserkl\u00e6ringer indhentes. Herudover har ATP bl.a. oprettet s\u00e5kaldte \u201dFortegnelser\u201d for alle behandlingsaktiviteter, hvori behandlingen, lovligheden mv. beskrives. Fortegnelserne, som findes i [Dokumentationsreolen](http://medarbejderportalen.prod.atp.local/proces/processer%20og%20dokumentation/dokumentationsreoler/Sider/Produktion.aspx) p\u00e5 medarbejderportalen, opdateres ved behov og minimum \u00e9n gang \u00e5rligt.\n",
+      "parent_id": "d9697d05-1d53-539c-9e3b-ff496ca52db8",
+      "children_ids": []
+    },
+    {
+      "id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "level": 1,
+      "heading": "Lovligheden af behandlingen",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "74fa15dd-14ab-5687-b4cc-1ea137bf7f30",
+        "1c2722fc-e5ca-5e57-8c16-2802a97cfad9",
+        "67d0ffee-4077-558a-b0ca-a0bc1f82f2ff",
+        "c84227bc-27f7-5b20-81b1-dbe5c1109813",
+        "c7761ecd-05ec-52c1-9ce3-c16bc464a94a",
+        "d613df78-76d1-57b5-838c-02f393867b38"
+      ]
+    },
+    {
+      "id": "74fa15dd-14ab-5687-b4cc-1ea137bf7f30",
+      "level": 2,
+      "heading": "Databeskyttelsesreglerne",
+      "text": "Personoplysninger kan inddeles i forskellige kategorier. Grundlaget for behandlingen afh\u00e6nger af, hvilken kategori af personoplysninger behandlingen vedr\u00f8rer.\n",
+      "parent_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "children_ids": []
+    },
+    {
+      "id": "1c2722fc-e5ca-5e57-8c16-2802a97cfad9",
+      "level": 2,
+      "heading": "Almindelige personoplysninger",
+      "text": "Almindelige personoplysninger er f.eks. navn, f\u00f8dselsdato, kontaktoplysninger s\u00e5som adresse, telefonnummer og e-mail, indkomstoplysninger, oplysninger relateret til indberetning, opkr\u00e6vning og udbetaling af bel\u00f8b p\u00e5 ydelse mv. (*ikke udt\u00f8mmende liste*).\n\nI Administrationsforretningen vil almindelige personoplysninger ofte kunne behandles som led i udf\u00f8relsen af en myndighedsopgave, som ATP, herunder en ordning i ATP, er blevet p\u00e5lagt i henhold til s\u00e6rlov.\n\nI P&I vil almindelige personoplysninger normalvis kunne behandles som led i udf\u00f8relsen af en myndighedsopgave, som best\u00e5r i forsvarlig forvaltning af midler med henblik p\u00e5 at sikre de h\u00f8jest mulige pensionsudbetalinger og samtidigt undg\u00e5 un\u00f8dvendige risici, hvilket er til gavn for ATP\u2019s medlemmer.\n",
+      "parent_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "children_ids": []
+    },
+    {
+      "id": "67d0ffee-4077-558a-b0ca-a0bc1f82f2ff",
+      "level": 2,
+      "heading": "F\u00f8lsomme personoplysninger (s\u00e6rlige kategorier af personoplysninger)",
+      "text": "F\u00f8lsomme personoplysninger er oplysninger om race eller etnisk oprindelse, politisk, religi\u00f8s eller filosofisk overbevisning, fagforeningsm\u00e6ssigt tilh\u00f8rsforhold, genetiske og biometriske data med det form\u00e5l entydigt at identificere en fysisk person, helbredsoplysninger eller oplysninger om seksuelle forhold eller seksuel orientering (*listen er udt\u00f8mmende*).\n\nBehandling af f\u00f8lsomme personoplysninger er som hovedregel forbudt. Dog kan behandling af denne kategori af personoplysninger finde sted, f.eks. p\u00e5 baggrund af et samtykke fra de registrerede, p\u00e5 grundlag af arbejdsretlige forpligtelser eller til brug for, at et retskrav kan fastl\u00e6gges, g\u00f8res g\u00e6ldende eller forsvares.\n\nI ATP-sammenh\u00e6ng vil det ofte v\u00e6re helbredsoplysninger, som er n\u00f8dvendige at behandle for visse ordninger, herunder s\u00e6rligt AES og UDK. Retsgrundlaget for behandlingen vil i dette tilf\u00e6lde v\u00e6re den/de specifikke s\u00e6rlov/e, hvorunder sagsbehandlingen varetages og i sidste ende, fordi et retskrav kan fastl\u00e6gges, g\u00f8res g\u00e6ldende eller forsvares.\n",
+      "parent_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "children_ids": []
+    },
+    {
+      "id": "c84227bc-27f7-5b20-81b1-dbe5c1109813",
+      "level": 2,
+      "heading": "Personoplysninger om tidligere straffedomme og lovovertr\u00e6delser",
+      "text": "Personoplysninger om tidligere straffedomme og lovovertr\u00e6delser er f.eks. oplysninger om en bestemt afg\u00f8relse eller dom, b\u00f8de, straf eller anden sanktion og udg\u00f8r en s\u00e6rlig type af personoplysninger. Behandling af disse personoplysninger kr\u00e6ver som udgangspunkt udtrykkeligt samtykke fra de registrerede, men kan ogs\u00e5 ske, hvis det er n\u00f8dvendigt for at varetage en myndighedsopgave.\n\nI ATP indhentes straffeattester forud for ans\u00e6ttelse, idet der kr\u00e6ves en vis agtelse og sikring af fortrolighed for at bestride stillinger i ATP, ligesom de indhentes i forbindelse med fit and proper-vurderinger. Straffeattesterne indhentes p\u00e5 baggrund af kandidatens forudg\u00e5ende samtykke.\n\nN\u00e5r ordningerne registrerer oplysning om en borgers adresse i et f\u00e6ngsel, er der tale om en oplysning om et strafbart forhold. Denne oplysning kan behandles uden samtykke, da det er n\u00f8dvendigt for at varetage myndighedsopgaven.\n",
+      "parent_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "children_ids": []
+    },
+    {
+      "id": "c7761ecd-05ec-52c1-9ce3-c16bc464a94a",
+      "level": 2,
+      "heading": "CPR-numre",
+      "text": "CPR-numre er ogs\u00e5 en s\u00e6rlig type af personoplysninger, og der skal udvises s\u00e6rlig agtp\u00e5givenhed i forbindelse med indsamling og behandling heraf. Der findes ingen regler i databeskyttelsesforordningen om cpr-numre, men databeskyttelsesloven indeholder bestemmelser herom. Efter databeskyttelseslovens \u00a7 11 er det bl.a. muligt for offentlige myndigheder at behandle oplysning om cpr-numre for at sikre entydig identifikation.\n\nB\u00e5de i personalem\u00e6ssig sammenh\u00e6ng og i Administrationsforretningen anvendes cpr-numre for at sikre entydig identifikation af henholdsvis medarbejdere og medlemmer/borgere. Videregivelse af cpr-numre kan finde sted for at sikre entydig identifikation samt for at leve op til en retlig forpligtelse, herunder indberetning af oplysninger til Skattestyrelsen.\n",
+      "parent_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "children_ids": []
+    },
+    {
+      "id": "d613df78-76d1-57b5-838c-02f393867b38",
+      "level": 2,
+      "heading": "Fortrolige personoplysninger",
+      "text": "Ovenfor under afsnit 2.2 og 2.3 er kategorierne \u201dalmindelige personoplysninger\u201d og \u201df\u00f8lsomme personoplysninger\u201d beskrevet. Disse kategorier af personoplysninger kan ogs\u00e5 v\u00e6re fortrolige.\n\nFortrolige oplysninger er en s\u00e6rlig kategori af oplysninger, der ikke n\u00e6vnes udtrykkeligt i databeskyttelsesreglerne, men hvor s\u00e6rlige beskyttelsesbehov kan have betydning ved anvendelsen af databeskyttelsesreglerne. Fortrolige oplysninger vil endvidere ofte v\u00e6re underlagt s\u00e6rregulering.\n\nF\u00f8lsomme personoplysninger vil per definition v\u00e6re fortrolige. Men omvendt vil en fortrolig oplysning ikke n\u00f8dvendigvis ogs\u00e5 v\u00e6re f\u00f8lsom. Visse almindelige personoplysninger kan ogs\u00e5 v\u00e6re fortrolige. F.eks. vil oplysninger om \u00f8konomi og indt\u00e6gt v\u00e6re en almindelig, men fortrolig, personoplysning. Herudover er cpr-nummer og oplysninger om strafbare forhold (som beskrevet under afsnit 2.4 og 2.5) fortrolige oplysninger, der er s\u00e6rskilt reguleret i databeskyttelsesloven.\n\nDet afg\u00f8rende for, om en oplysning skal anses for fortrolig, vil v\u00e6re en vurdering af, om oplysningen efter den almindelige opfattelse i samfundet b\u00f8r kunne forlanges unddraget offentlighedens kendskab. Dette f\u00f8lger af straffelovens \u00a7 152 sammenholdt med forvaltningslovens \u00a7 27. Oplysninger, der kan henf\u00f8res til bestemte personer, og som ikke kan n\u00e6gtes udleveret efter offentlighedslovens regler om aktindsigt[[2]](#footnote-2), vil ikke v\u00e6re af fortrolig karakter. Det g\u00e6lder f.eks. oplysninger af rent objektiv karakter, s\u00e5som oplysninger om udstedelse af pas, k\u00f8rekort, jagttegn, civilstatus, alder osv.\n",
+      "parent_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "children_ids": []
+    },
+    {
+      "id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "level": 1,
+      "heading": "Udlevering af personoplysninger",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "84ea7fca-551d-514f-8370-72c0223be299",
+        "9d3600b1-678f-545c-900a-2f3c4124497c"
+      ]
+    },
+    {
+      "id": "84ea7fca-551d-514f-8370-72c0223be299",
+      "level": 2,
+      "heading": "Databeskyttelsesreglerne",
+      "text": "ATP m\u00e5 kun udlevere personoplysninger til de personer, som er berettiget til at modtage dem.\n\nHvis du skal *udlevere personoplysninger til sagsparten selv*, skal du i udgangspunktet sende oplysninger via Digital Post, se afsnit 4. Ved telefonsamtaler er det vigtigt, at du sikrer dig, at det rent faktisk er sagsparten, du taler med, s\u00e5ledes at du ikke kommer til at videregive oplysninger uberettiget, da dette i givet fald vil v\u00e6re et brud p\u00e5 persondatasikkerheden, se afsnit 7.\n\nI nogle tilf\u00e6lde kan du komme ud for, at du bliver bedt om at *udlevere personoplysninger til andre end sagsparten*. I disse situationer skal du sikre dig, at modtageren er berettiget til at f\u00e5 udleveret oplysningerne. Skal personoplysninger udleveres til andre, skal de grundl\u00e6ggende principper for behandling af personoplysninger v\u00e6re overholdt, jf. afsnit 1.3, og der skal v\u00e6re et retsgrundlag for behandlingen, jf. afsnit 2. Har p\u00e5g\u00e6ldende en fuldmagt eller et v\u00e6rgem\u00e5l over sagsparten, kan oplysningerne udleveres uden videre, forudsat oplysningerne er inden for fuldmagtens/v\u00e6rgem\u00e5lets rammer.\n",
+      "parent_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "children_ids": []
+    },
+    {
+      "id": "9d3600b1-678f-545c-900a-2f3c4124497c",
+      "level": 2,
+      "heading": "S\u00e5dan g\u00f8r vi i ATP",
+      "text": "Du skal udvise omhu ved udlevering af personoplysninger. Mere pr\u00e6cist skal du.\n\n- Unders\u00f8ge identiteten p\u00e5 den virksomhed/myndighed/den person, der anmoder om personoplysningerne og unders\u00f8ge, om denne er berettiget til at modtage de efterspurgte personoplysninger.\n- Stille sagsspecifikke kontrolsp\u00f8rgsm\u00e5l, som kun parten i en sag kender svaret p\u00e5. Det kan f.eks. v\u00e6re datoen for, hvorn\u00e5r p\u00e5g\u00e6ldende sidst modtog et brev fra ATP, det udbetalte bel\u00f8b, navnet p\u00e5 \u00e6gtef\u00e6lle og b\u00f8rn, tidligere arbejdsplads og lignende.\n- Ved tvivl, s\u00e5 foresl\u00e5, at den p\u00e5g\u00e6ldende sender en skriftlig anmodning, s\u00e5 du har mulighed for at sikre identiteten og grundlaget for at videregive personoplysningerne. Alternativt kan du foresl\u00e5, at du fremsender et skriftligt svar til sagspartens (og ikke den anden persons) e-Boks.\n\nHusk at dokumentere dine vurderinger ved journalisering/notat i relevant system.\n\nModtager du en *anmodning om udlevering af data fra ATP-ordningen til forskningsform\u00e5l*, skal du rette henvendelse til Koncernjura, som herefter vil h\u00e5ndtere anmodningen efter en n\u00e6rmere procedure. Anmodninger om udlevering af data fra andre ordninger end ATP-ordningen vurderes i udgangspunktet af ordningerne selv, evt. bist\u00e5et af Koncernjura.\n",
+      "parent_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "children_ids": []
+    },
+    {
+      "id": "38f48bc5-6535-5565-bca1-c18fe3037fa4",
+      "level": 1,
+      "heading": "Sikker kommunikation",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "9d3f37f0-2dbb-5694-9faf-c8a4427549d3",
+        "33d0f2c5-cfc0-54a2-a96e-f6cf9b5bbab7"
+      ]
+    },
+    {
+      "id": "9d3f37f0-2dbb-5694-9faf-c8a4427549d3",
+      "level": 2,
+      "heading": "Databeskyttelsesreglerne",
+      "text": "Databeskyttelsesforordningen forpligter ATP til at indf\u00f8re passende tekniske og organisatoriske foranstaltninger for at beskytte personoplysninger og im\u00f8deg\u00e5 identificerede risici. N\u00e5r der skal fremsendes personoplysninger til personer uden for ATP, skal du derfor anvende sikre kommunikationskanaler eller v\u00e6rkt\u00f8jer til beskyttelse.\n",
+      "parent_id": "38f48bc5-6535-5565-bca1-c18fe3037fa4",
+      "children_ids": []
+    },
+    {
+      "id": "33d0f2c5-cfc0-54a2-a96e-f6cf9b5bbab7",
+      "level": 2,
+      "heading": "S\u00e5dan g\u00f8r vi i ATP",
+      "text": "Som altovervejende udgangspunkt skal du anvende Digital Post, som findes via e-Boks eller p\u00e5 borger.dk i din kommunikation med medlemmer, borgere, virksomheder og andre, som du qua dine opgaver skal i kontakt med, ligesom vi skal henvise borgere til at kontakte os via disse kanaler eller selvbetjeningsl\u00f8sninger for at sikre bedst mulig beskyttelse.\n\nEr det undtagelsesvist ikke muligt at anvende Digital Post, men alene almindelig e-mail \u2013 og skal du fremsende fortrolige (afsnit 2.6 ovenfor) eller f\u00f8lsomme personoplysninger (afsnit 2.3 ovenfor) \u2013 skal der anvendes kryptering[[3]](#footnote-3) ved transmissionen.\n\nSkal du alene fremsende almindelige ikke-f\u00f8lsomme og ikke-fortrolige personoplysninger via e-mail, g\u00e6lder der ikke et tilsvarende krypteringskrav, men du kan v\u00e6lge det alligevel for at sikre bedst mulig beskyttelse. Er du i tvivl om, hvorvidt indholdet er fortroligt eller f\u00f8lsomt, skal du altid v\u00e6lge at sende krypteret. Bem\u00e6rk, at hvis du kan fremsende via Digital Post, skal du altid v\u00e6lge denne metode, selvom der kun er tale om fremsendelse af almindelige ikke-fortrolige og ikke-f\u00f8lsomme personoplysninger.\n\nSe vejledningen p\u00e5 medarbejderportalen [her](https://atpdk.sharepoint.com/sites/Praktisk/SitePages/Saadan-sender-du-sikre,-krypterede-mails.aspx?web=1) om, hvordan du sender sikkert.\n",
+      "parent_id": "38f48bc5-6535-5565-bca1-c18fe3037fa4",
+      "children_ids": []
+    },
+    {
+      "id": "846fc59b-dd43-5b2d-9fd0-026ec85479cf",
+      "level": 1,
+      "heading": "De registreredes rettigheder",
+      "text": "",
+      "parent_id": null,
+      "children_ids": ["a8a10a1a-d1dc-5740-b2ce-cf950a316c84"]
+    },
+    {
+      "id": "a8a10a1a-d1dc-5740-b2ce-cf950a316c84",
+      "level": 2,
+      "heading": "Databeskyttelsesreglerne",
+      "text": "N\u00e5r der behandles personoplysninger, bliver individerne, som personoplysningerne vedr\u00f8rer, til \"de registrerede\". De registrerede har en r\u00e6kke rettigheder, som de til enhver tid kan g\u00f8re g\u00e6ldende. .\n\nATP skal behandle en anmodning om ud\u00f8velse af disse rettigheder hurtigst muligt og senest indenfor en m\u00e5ned efter modtagelse af en anmodning. Denne periode kan dog under s\u00e6rlige omst\u00e6ndigheder udvides med yderligere to m\u00e5neder. Vurderingen af, om en anmodning skal im\u00f8dekommes, skal bero p\u00e5 en konkret vurdering og dokumenteres i relevant system. Selvom visse rettigheder er mindre relevante end andre, fordi de ofte vil kunne afsl\u00e5s af ATP med henvisning til udf\u00f8relse af en myndighedsopgave, er der ikke desto mindre tale om rettigheder, som den registrerede har ret til at p\u00e5ber\u00e5be sig. Samtlige rettighedsanmodninger skal derfor tages alvorligt og behandles med forn\u00f8den hurtighed.\n\nDe registrerede har under n\u00e6rmere angivne omst\u00e6ndigheder f\u00f8lgende rettigheder efter databeskyttelsesforordningen:\n\n- Oplysningspligt: Der henvises til afsnit 5.1.1.\n- Indsigtsret: Form\u00e5let med retten er at give den registrerede mulighed for at se, hvilke personoplysninger ATP behandler om den p\u00e5g\u00e6ldende. Den registrerede kan p\u00e5 den baggrund kontrollere, at personoplysningerne er korrekte og i \u00f8vrigt behandles lovligt. Retten indeb\u00e6rer: i) at den registrerede har ret til at se de personoplysninger, som behandles om den p\u00e5g\u00e6ldende, og ii) at modtage en r\u00e6kke oplysninger om behandlingen, f.eks. form\u00e5let, retsgrundlaget, opbevaringsperioden, beskrivelse af de \u00f8vrige rettigheder mv.\n- Ret til berigtigelse: Den registrerede har ret til at f\u00e5 urigtige (forkerte) personoplysninger om sig selv rettet samt ret til at f\u00e5 fuldst\u00e6ndiggjort ufuldst\u00e6ndige personoplysninger, hvilket bl.a. kan ske ved, at den registrerede freml\u00e6gger en supplerende erkl\u00e6ring.\n- Ret til sletning (\u201dretten til at blive glemt\u201d): Den registrerede har med visse undtagelser ret til at f\u00e5 slettet (uigenkaldeligt!) oplysninger om sig selv uden un\u00f8dig forsinkelse. Retten kan dog for ATP\u2019s vedkommende ofte afvises med henvisning til, at oplysningerne behandles p\u00e5 baggrund af en opgave, som henh\u00f8rer under offentlig myndighedsud\u00f8velse.\n- Ret til begr\u00e6nsning af behandling: Den registrerede har i visse tilf\u00e6lde ret til at f\u00e5 begr\u00e6nset behandlingen af sine personoplysninger, s\u00e5ledes at oplysningerne ikke m\u00e5 underl\u00e6gges andre behandlinger end ren opbevaring. Retten kan dog ofte afvises af ATP med begrundelse om, at behandlingen som led i udf\u00f8relsen af myndighedsopgaven er n\u00f8dvendig for at vurdere, om et retskrav kan fastl\u00e6gges, g\u00f8res g\u00e6ldende eller forsvares.\n- Ret til dataportabilitet: Den registrerede har med visse undtagelser ret til at modtage egne personoplysninger, som den registrerede har afgivet, i et struktureret, almindeligt anvendt og maskinl\u00e6sbart format til personlig brug uden hindring samt ret til at f\u00e5 overf\u00f8rt sine personoplysninger fra \u00e9n dataansvarlig til en anden. Retten vil ofte kunne afvises af ATP, fordi retsgrundlaget beror p\u00e5 myndighedsud\u00f8velse.\n- Ret til indsigelse: Den registrerede har til enhver tid ret til \u2013 af grunde, der vedr\u00f8rer den p\u00e5g\u00e6ldendes s\u00e6rlige situation \u2013 at g\u00f8re indsigelse mod en ellers lovlig behandling af sine personoplysninger. Retten vil normalt kunne afvises af ATP, da behandlingen er n\u00f8dvendig for at udf\u00f8re en lovf\u00e6stet myndighedsopgave.\n- Ret til ikke at v\u00e6re genstand for automatiske individuelle afg\u00f8relser: Den registrerede har ret til ikke at blive underlagt en afg\u00f8relse, herunder profilering, der alene er baseret p\u00e5 automatisk behandling, som har retsvirkning eller p\u00e5 tilsvarende vis betydeligt p\u00e5virker vedkommende. Dette kan dog ofte afvises af ATP med den begrundelse, at afg\u00f8relsen er hjemlet i s\u00e6rlov.\n",
+      "parent_id": "846fc59b-dd43-5b2d-9fd0-026ec85479cf",
+      "children_ids": ["6efe6bec-04f3-509c-9fde-a5458044dc25"]
+    },
+    {
+      "id": "6efe6bec-04f3-509c-9fde-a5458044dc25",
+      "level": 3,
+      "heading": "Oplysningspligten",
+      "text": "ATP er forpligtet til at informere de registrerede om en r\u00e6kke forhold p\u00e5 det tidspunkt, hvor indsamlingen af personoplysningerne finder sted. F\u00f8lgende oplysninger skal som minimum gives, n\u00e5r *oplysningerne indsamles hos den registrerede selv*:\n\n- ATP\u2019s kontaktoplysninger\n- DPO\u2019s kontaktoplysninger\n- Form\u00e5let med behandlingen\n- Retsgrundlaget for behandlingen, f.eks. retlig forpligtelse eller som led i udf\u00f8relsen af en myndighedsopgave\n- Hvis behandlingen sker for at varetage ATP\u2019s legitime interesser, en beskrivelse af de p\u00e5g\u00e6ldende interesser\n- Modtagere eller kategorierne af modtagere som f.eks. leverand\u00f8rer og samarbejdspartnere og relevante tredjeparter, f.eks. Skattestyrelsen og andre offentlige myndigheder\n- Om ATP agter at overf\u00f8re personoplysninger til lande uden for E\u00d8S-omr\u00e5det og en henvisning til de forn\u00f8dne garantier vedr\u00f8rende beskyttelsesniveau som f.eks. EU-standardkontrakter indg\u00e5et mellem ATP og modtageren.\n\nN\u00e5r yderligere information er n\u00f8dvendig for at sikre gennemsigtighed i behandlingen af personoplysninger \u2013 hvilket i almindelighed vil v\u00e6re tilf\u00e6ldet - skal ATP ogs\u00e5 oplyse f\u00f8lgende.\n\n- Opbevaringsperiode eller, hvis opbevaringsperioden ikke er mulig at angive pr\u00e6cis, kriterierne for fastl\u00e6ggelse af opbevaringsperioden\n- De registreredes rettigheder - retten til at anmode om indsigt, berigtigelse, sletning, begr\u00e6nsning af behandlingen, indsigelse eller retten til dataportabilitet\n- S\u00e5fremt der er givet samtykke til behandlingen, muligheden for at tr\u00e6kke samtykket tilbage, uden at den behandling, der er sket forud for tilbagetr\u00e6kningen, dermed bliver ulovlig\n- Retten til at indgive en klage til Datatilsynet\n- Om meddelelse af personoplysninger er lovpligtig eller et krav i henhold til en kontrakt eller et krav, der skal v\u00e6re opfyldt for at indg\u00e5 en kontrakt, samt om den registrerede har pligt til at afgive personoplysninger og de eventuelle konsekvenser af ikke at afgive s\u00e5danne personoplysninger\n- Forekomsten af automatiske afg\u00f8relser samt logikken bag disse, betydningen og de forventede konsekvenser.\n\nATP har ogs\u00e5 en oplysningspligt over for de registrerede, *hvis personoplysningerne ikke er indhentet hos den registrerede selv*. Denne pligt svarer til de ovenfor beskrevne oplysninger, men der skal tillige oplyses om: i) kilden, hvorfra de p\u00e5g\u00e6ldende personoplysninger hidr\u00f8rer samt ii) de ber\u00f8rte kategorier af personoplysninger, som behandles, f.eks. at der behandles almindelige personoplysninger s\u00e5 som navn og adresse mv. eller f\u00f8lsomme personoplysninger s\u00e5 som helbredsoplysninger eller fagforeningsm\u00e6ssigt tilh\u00f8rsforhold.\n\nBem\u00e6rk, at s\u00e6rlige undtagelser kan g\u00f8re sig g\u00e6ldende i forbindelse med oplysningspligten, f.eks. hvis den registrerede allerede er bekendt med de oplysninger, som skal meddeles, eller hvis den registreredes interesse i at f\u00e5 kendskab til oplysningerne m\u00e5 vige for afg\u00f8rende hensyn til private eller offentlige interesser. Herudover g\u00e6lder oplysningspligten ikke i de tilf\u00e6lde, hvor en s\u00e5dan information viser sig at v\u00e6re umulig at give eller vil medf\u00f8re en uforholdsm\u00e6ssig stor indsats, s\u00e6rligt i forbindelse med videnskabelige unders\u00f8gelser, eller hvor indsamlingen og videregivelsen er udtrykkeligt fastsat ved lov.\n",
+      "parent_id": "a8a10a1a-d1dc-5740-b2ce-cf950a316c84",
+      "children_ids": ["b4d66772-c462-5c32-914e-05850102ac64"]
+    },
+    {
+      "id": "b4d66772-c462-5c32-914e-05850102ac64",
+      "level": 2,
+      "heading": "S\u00e5dan g\u00f8r vi i ATP",
+      "text": "",
+      "parent_id": "6efe6bec-04f3-509c-9fde-a5458044dc25",
+      "children_ids": [
+        "0c1dd1f3-1309-5035-86a5-1c6fdf5040b3",
+        "3001a344-6f86-5da5-8904-7bd2976f8802"
+      ]
+    },
+    {
+      "id": "0c1dd1f3-1309-5035-86a5-1c6fdf5040b3",
+      "level": 3,
+      "heading": "Oplysningspligten",
+      "text": "ATP har pligt til at udarbejde information om behandlingen af personoplysninger om medlemmer, borgere, egne ansatte og andre, hvis personoplysninger behandles, samt sikre, at informationen n\u00e5r ud til de p\u00e5g\u00e6ldende. Dette kan f.eks. g\u00f8res ved at implementere informationen i processer og flow (om muligt systemunderst\u00f8ttet) i form af tekst p\u00e5 selvbetjeningsl\u00f8sninger, et link i mailsignaturen eller autogenererede svarbreve. Det er v\u00e6sentligt, at informationen n\u00e5r ud til de registrerede p\u00e5 tidspunktet for indsamlingen af personoplysningerne.\n\nDa de enkelte ordninger i ATP er selvst\u00e6ndigt dataansvarlige og har hver deres lovgrundlag, som definerer deres specifikke form\u00e5l med behandlingen, er der udarbejdet s\u00e6rskilte tekster med information om behandlingen til ordningernes respektive medlemmer/borgere, som er implementeret i de forskellige kommunikationskanaler.\n\nF\u00f8lgende skal derfor sikres: 1) at identificere alle kommunikationskanaler med de registrerede s\u00e5 som selvbetjeningsblanketter, e-mail mv., hvor der opn\u00e5s den f\u00f8rste kontakt med den registrerede, 2) at udforme tekst om behandlingen af personoplysninger, som afspejler de specifikke behandlingsaktiviteter, 3) at implementere teksten i diverse kommunikationskanaler og 4) at f\u00f8re en versioneringslog over teksterne, s\u00e5ledes at det altid er muligt at redeg\u00f8re for, hvilken tekst der blev fremvist for den registrerede p\u00e5 et givent tidspunkt.\n\nFor vores repr\u00e6sentantskab og bestyrelse vil der udarbejdes s\u00e6rskilt information om behandlingen, og tilsvarende g\u00e6lder for vores medarbejdere. Herudover findes en information om behandlingen af personoplysninger og en s\u00e6rskilt information om cookies p\u00e5 vores hjemmeside: [www.atp.dk/privatlivspolitik](https://atp.dk/privatlivspolitik).\n",
+      "parent_id": "b4d66772-c462-5c32-914e-05850102ac64",
+      "children_ids": []
+    },
+    {
+      "id": "3001a344-6f86-5da5-8904-7bd2976f8802",
+      "level": 3,
+      "heading": "Andre rettigheder",
+      "text": "Proces for h\u00e5ndtering af anmodninger om ud\u00f8velse af rettigheder, instrukser mv. findes decentralt hos ordningerne. Ret henvendelse til Koncernjura, hvis der er behov for sparring mv.\n",
+      "parent_id": "b4d66772-c462-5c32-914e-05850102ac64",
+      "children_ids": []
+    },
+    {
+      "id": "03c2c5bd-b1da-5e17-952e-54257ddc8aa6",
+      "level": 1,
+      "heading": "Databehandleres h\u00e5ndtering af personoplysninger",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "bd36b495-a292-5420-b115-dc34aca78c76",
+        "1074f9cc-c124-5379-a540-12ad1bb19d7f"
+      ]
+    },
+    {
+      "id": "bd36b495-a292-5420-b115-dc34aca78c76",
+      "level": 2,
+      "heading": "Databeskyttelsesreglerne",
+      "text": "ATP har antaget visse databehandlere, dvs. leverand\u00f8rer, til at bist\u00e5 med behandlingen af personoplysninger p\u00e5 vegne og efter instruks af ATP. Disse databehandlere kan f.eks. v\u00e6re softwareudbydere, serviceudbydere og andre tredjeparter, som kan have adgang, opbevare eller p\u00e5 anden m\u00e5de foretage behandling af personoplysningerne i overensstemmelse med de instruktioner, som ATP har givet. Bem\u00e6rk, at ogs\u00e5 vikarer og konsulenter, som ATP hyrer ind for en midlertidig periode for at bist\u00e5 med udvikling, projekter eller andet efter omst\u00e6ndighederne kan v\u00e6re databehandlere, hvis deres arbejdsopgaver hos ATP best\u00e5r i behandling af personoplysninger, og hvis ATP har instruktionsbef\u00f8jelsen[[4]](#footnote-4).\n\nHvis behandlingen foretages af en databehandler, skal der udarbejdes en skriftlig aftale mellem parterne, der som minimum skal indeholde f\u00f8lgende.\n\n- Behandlingens karakter og form\u00e5l (f.eks. hvilke ydelser der tilbydes af databehandleren)\n- Genstanden for behandlingen\n- Hvor l\u00e6nge behandlingen skal varetages af databehandleren\n- Kategorier af personoplysninger\n- Kategorier af de registrerede\n- ATP\u2019s rettigheder og forpligtelser (f.eks. skal ATP straks orienteres, hvis databehandleren modtager en indsigtsanmodning, og en s\u00e5dan anmodning m\u00e5 ikke besvares af databehandleren)\n- At databehandleren alene behandler personoplysningerne efter instruks fra ATP.\n\nYderligere krav til en databehandleraftale f\u00f8lger af artikel 28 i databeskyttelsesforordningen. ATP har udarbejdet en standard for databehandleraftale, som skal anvendes, n\u00e5r der skal indg\u00e5s samarbejde med ny databehandler, der skal behandle personoplysninger p\u00e5 ATP\u2019s vegne. Kontakt Koncernjura, som ligger inde med denne standard.\n\nN\u00e5r en databehandleraftale er indg\u00e5et, skal ATP som dataansvarlig l\u00f8bende kontrollere, at databehandlerens behandling af personoplysninger sker i overensstemmelse med instruksen. Der findes ikke et fast krav til form eller format for kontrollen, men den skal v\u00e6re d\u00e6kkende og betrygge ATP i, at databehandlingen foreg\u00e5r som aftalt. Kontrollen skal dokumenteres og freml\u00e6gges for Datatilsynet efter anmodning.\n",
+      "parent_id": "03c2c5bd-b1da-5e17-952e-54257ddc8aa6",
+      "children_ids": []
+    },
+    {
+      "id": "1074f9cc-c124-5379-a540-12ad1bb19d7f",
+      "level": 2,
+      "heading": "S\u00e5dan g\u00f8r vi i ATP",
+      "text": "Der skal altid foretages en individuel vurdering af, om en tredjepart behandler personoplysninger p\u00e5 vegne af ATP. Hvis det er tilf\u00e6ldet, skal der udarbejdes en databehandleraftale, som skal underskrives af b\u00e5de ATP og databehandleren, og som skal journaliseres.\n\nKoncernindk\u00f8b skal kontaktes i alle tilf\u00e6lde, hvor der skal indg\u00e5s kontrakter for 50.000 kr. og derudover, og Koncernindk\u00f8b vil sikre indg\u00e5else af databehandleraftale i den forbindelse, herunder tage kontakt til Koncernjura. For indg\u00e5else af aftaler under 50.000 kr., som indeb\u00e6rer behandling af personoplysninger p\u00e5 ATP\u2019s vegne, skal Koncernjura kontaktes ang\u00e5ende databehandleraftale.\n\nI forbindelse med indg\u00e5elsen af databehandleren skal du samtidig g\u00f8re dig klart, hvordan du vil sikre l\u00f8bende kontrol af databehandlerens behandling af personoplysninger. For at leve op til dette krav om kontrol binder ATP ofte databehandleren kontraktuelt til at f\u00e5 udarbejdet en revisionserkl\u00e6ring (ISAE 3000 vedr\u00f8rende databeskyttelse) fra ekstern uafh\u00e6ngig revisor \u2013 inddrag Security i sp\u00f8rgsm\u00e5let om kontrol.\n",
+      "parent_id": "03c2c5bd-b1da-5e17-952e-54257ddc8aa6",
+      "children_ids": []
+    },
+    {
+      "id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "level": 1,
+      "heading": "Brud p\u00e5 persondatasikkerheden",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "49c39617-7cfd-57bc-aa51-36ca39e70034",
+        "af9ac717-7ba6-5081-9056-4a2db03caa5b"
+      ]
+    },
+    {
+      "id": "49c39617-7cfd-57bc-aa51-36ca39e70034",
+      "level": 2,
+      "heading": "Databeskyttelsesreglerne",
+      "text": "Selvom vi i ATP har truffet en r\u00e6kke sikkerhedsforanstaltninger for at beskytte personoplysninger, bl.a. i vores systemer, kan det h\u00e6nde, at der sker et sikkerhedsbrud.\n\nEt sikkerhedsbrud kan fx v\u00e6re, at:\n\n- En borger logger p\u00e5 sin selvbetjeningsl\u00f8sning og konstaterer, at han, udover egne data, ogs\u00e5 kan tilg\u00e5 en anden borgers fortrolige data.\n- Vi ved en fejl offentligg\u00f8r et brev eller en liste over et sagsomr\u00e5de med personoplysninger p\u00e5, f.eks. hjemmesiden.\n- Et cpr-nummer optr\u00e6der i adressefelt og derved er synligt p\u00e5 fysiske breve.\n- Der i udsendte breve ved en fejl er flettet oplysninger om en anden borger ind, f.eks. ydelsesoplysninger, cpr-nummer, navn mv.\n- Du kommer til at sende en mail eller et fysisk brev indeholdende personoplysninger til en forkert modtager indenfor eller udenfor ATP.\n- Der sker hacking i vores systemer og lignende.\n- Et arkivskab, som indeholder f\u00f8lsomme personoplysninger, st\u00e5r uafl\u00e5st.\n- Man mister sin mobiltelefon, computer eller n\u00f8glekort.\n- En kollega tilg\u00e5r personoplysninger, der ikke er n\u00f8dvendige for den p\u00e5g\u00e6ldendes stilling, f.eks. ved at have for brede it-adgange.\n- En medarbejder kommer ved et uheld til at \u00e6ndre eller slette personoplysninger.\n- Vi sender en mail med fortrolige eller f\u00f8lsomme personoplysninger ukrypteret.\n\nEr der sket et sikkerhedsbrud, skal Datatilsynet i udgangspunktet \u2013 og i visse tilf\u00e6lde ogs\u00e5 de ber\u00f8rte registrerede, dvs. de personer, hvis personoplysninger er blevet kompromitteret - underrettes. Datatilsynet skal underrettes hurtigst muligt og senest 72 timer, efter ATP er blevet opm\u00e6rksomme p\u00e5 bruddet.\n",
+      "parent_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "children_ids": []
+    },
+    {
+      "id": "af9ac717-7ba6-5081-9056-4a2db03caa5b",
+      "level": 2,
+      "heading": "S\u00e5dan g\u00f8r vi i ATP",
+      "text": "Det er ikke altid klart, hvorvidt der har v\u00e6ret et sikkerhedsbrud, da alle sikkerhedsbrud er forskellige. Hvis du bliver opm\u00e6rksom p\u00e5 et sikkerhedsbrud, eller hvis du har mistanke til et sikkerhedsbrud, skal du derfor straks orientere din n\u00e6rmeste leder, som herefter vil h\u00e5ndtere sagen. Det er vigtigt, dels at du reagerer hurtigt p\u00e5 grund af 72-timers-fristen, dels at du s\u00f8rger for at anmelde bruddet, da ATP er forpligtet til at f\u00f8re en liste over samtlige brud, som p\u00e5 anmodning skal freml\u00e6gges for Datatilsynet.\n\nBrud skal anmeldes via vores interne blanket p\u00e5 medarbejderportalen. ATP har udarbejdet en procedure, instruks og forretningsgang for h\u00e5ndtering af sikkerhedsbrud, som skal f\u00f8lges. Materialet, blanketten samt en vejledning findes p\u00e5 medarbejderportalen [her](https://atpdk.sharepoint.com/sites/Fagligt/SitePages/Saadan-anmelder-du-et-persondatabrud.aspx?web=1).\n",
+      "parent_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "children_ids": []
+    },
+    {
+      "id": "6541db1c-74a5-587d-8b8e-65a521480d52",
+      "level": 1,
+      "heading": "Overf\u00f8rsel af personoplysninger til tredjelande",
+      "text": "",
+      "parent_id": null,
+      "children_ids": ["df95d841-eda8-57f9-8801-b09ce7a9acfc"]
+    },
+    {
+      "id": "df95d841-eda8-57f9-8801-b09ce7a9acfc",
+      "level": 2,
+      "heading": "Databeskyttelsesreglerne",
+      "text": "",
+      "parent_id": "6541db1c-74a5-587d-8b8e-65a521480d52",
+      "children_ids": [
+        "9ef839c0-b294-537c-8ef4-02ed69790088",
+        "8990df1b-84e5-5191-87d4-59a4bea83941",
+        "f1c0d45b-0311-505d-b34e-1f0bef4e28c7"
+      ]
+    },
+    {
+      "id": "9ef839c0-b294-537c-8ef4-02ed69790088",
+      "level": 3,
+      "heading": "Overf\u00f8rselsgrundlag",
+      "text": "I ATP skal vi v\u00e6re opm\u00e6rksomme p\u00e5 eventuel overf\u00f8rsel af personoplysninger til tredjelande, dvs. lande uden for EU/E\u00d8S. Det kan f.eks. ske ved, at vi anvender et IT-system, som hostes eller kan tilg\u00e5s af en leverand\u00f8r i et tredjeland. Det kan ogs\u00e5 ske ved, at en ordning udbetaler et bel\u00f8b til et medlems/en borgers bankkonto i et tredjeland, eller ved at P&I skal sende KYC-dokumentation for egne medarbejdere til en virksomhed i et tredjeland i forbindelse med et samarbejde.\n\nN\u00e5r personoplysninger overf\u00f8res til tredjelande, dvs. lande uden for EU/E\u00d8S, skal der forud for overf\u00f8rslen etableres et overf\u00f8rselsgrundlag. Et overf\u00f8rselsgrundlag g\u00e5r kort sagt ud p\u00e5, at det skal sikres, at behandlingen af personoplysninger uden for EU/E\u00d8S sker p\u00e5 en sikker m\u00e5de, efter at oplysningerne er overf\u00f8rt (eller - i det mindste - at de personer, som det handler om, har accepteret usikkerheden).\n\nDer er flere forskellige former for overf\u00f8rselsgrundlag, som lidt forsimplet kan deles op i 3 grupper.\n\n1. en sikring gennem modtagerlandets egne regler\n2. en sikring gennem forskellige former for aftaler med modtageren (eks. EU-Kommissionens standardkontrakter), eller\n3. en accept af risikoen (f.eks. et samtykke, en n\u00f8dvendig behandling pga. en kontrakt eller andre undtagelser).\n\nReglerne skal opfyldes uanset karakteren, m\u00e6ngden, modtageren af personoplysningerne osv. Reglerne g\u00e6lder s\u00e5ledes b\u00e5de i det tilf\u00e6lde, at der overf\u00f8res oplysninger til andre dataansvarlige s\u00e5 som en udenlandsk myndighed eller samarbejdspartner, eller hvor der overf\u00f8res oplysninger til en leverand\u00f8r, som alene handler p\u00e5 vegne og efter instruks fra ATP. Det er desuden v\u00e6sentligt at huske, at reglerne ikke kun g\u00e6lder i forholdet mellem ATP og eksterne parter, men ogs\u00e5 internt mellem ATP og datterselskaber, hvis et datterselskab er placeret i et tredjeland. Herudover bem\u00e6rkes, at de \u00f8vrige databeskyttelsesregler, herunder de grundl\u00e6ggende principper, retsgrundlaget mv. tillige skal v\u00e6re opfyldt.\n",
+      "parent_id": "df95d841-eda8-57f9-8801-b09ce7a9acfc",
+      "children_ids": []
+    },
+    {
+      "id": "8990df1b-84e5-5191-87d4-59a4bea83941",
+      "level": 3,
+      "heading": "De fire essentielle garantier",
+      "text": "Udover etableringen af et overf\u00f8rselsgrundlag skal ATP forud for en overf\u00f8rsel sikre, at de fire essentielle garantier er overholdt. De fire essentielle garantier er udledt af praksis fra EU-Domstolen og Den Europ\u00e6iske Menneskerettighedsdomstol. Databeskyttelsesr\u00e5det[[5]](#footnote-5) har opstillet fire essentielle europ\u00e6iske garantier, der altid skal efterleves i forbindelse med tredjelandsoverf\u00f8rsler.\n\nI praksis betyder det, at det forud for en overf\u00f8rsel af personoplysninger til et tredjeland konkret skal vurderes, om de fire garantier er overholdt, eller om en eller flere af garantierne giver anledning til bekymring. Det kan selvsagt v\u00e6re vanskeligt at vurdere garantierne, men i tilf\u00e6lde af usikkerhed b\u00f8r yderligere information indhentes. Vurderes det herefter, at en eller flere af garantierne er beh\u00e6ftet med usikkerhed, b\u00f8r overf\u00f8rslen ikke finde sted.\n\nDe fire essentielle europ\u00e6iske garantier \u2013 som alle skal v\u00e6re opfyldt - er som f\u00f8lger:\n\n1. Myndigheders adgang til og brug af personoplysninger fra EU skal ske p\u00e5 grundlag af klare, pr\u00e6cise og tilg\u00e6ngelige regler (f.eks. har tredjelandet vedtaget databeskyttelseslovgivning).\n2. Myndigheders adgang til og brug af personoplysninger fra EU skal v\u00e6re n\u00f8dvendig og proportional (dvs. der skal v\u00e6re balance mellem form\u00e5let (national sikkerhed) og indgrebet i de registreredes ret til beskyttelse af deres privatliv).\n3. Der skal v\u00e6re en uafh\u00e6ngig og effektiv tilsynsmyndighed i tredjelandet.\n4. Der skal v\u00e6re tilg\u00e6ngelige og effektive retsmidler for de registrerede i tredjelandet (f.eks. klageadgang, domstolspr\u00f8velse mv.).\n",
+      "parent_id": "df95d841-eda8-57f9-8801-b09ce7a9acfc",
+      "children_ids": []
+    },
+    {
+      "id": "f1c0d45b-0311-505d-b34e-1f0bef4e28c7",
+      "level": 3,
+      "heading": "Metode",
+      "text": "Metoden for vurdering af mulighed og lovlighed for overf\u00f8rsel af personoplysninger til et tredjeland er f\u00f8lgende.\n\n1. Er de fire essentielle garantier overholdt?\n   - Hvis nej = overf\u00f8rsel kan ikke finde sted.\n   - Hvis ja = videre til sp\u00f8rgsm\u00e5l 2 nedenfor.\n1. Er der etableret et overf\u00f8rselsgrundlag?\n   - Hvis ja = overf\u00f8rsel kan finde sted.\n   - Hvis nej = skal overf\u00f8rselsgrundlaget etableres p\u00e5 baggrund af f\u00f8lgende overvejelser:\n     - Hvad er karakteren af de personoplysninger, som overf\u00f8res?\n       - Jo mere indgribende, jo mere \"solidt\" b\u00f8r overf\u00f8rselsgrundlaget v\u00e6re. For oplysninger i mailsignaturen er der tale om almindelige ikke-f\u00f8lsomme og ikke-fortrolige personoplysninger, hvor der ikke er behov for \u00f8get beskyttelse, mens der for f.eks. f\u00f8lsomme personoplysninger, s\u00e5som helbredsforhold, eller for oplysninger om CPR-numre eller strafbare forhold, er et \u00f8get beskyttelsesbehov.\n     - Hvad er hyppigheden for overf\u00f8rslen - dagligt, ugentligt, m\u00e5nedligt, \u00e5rligt?\n       - Hyppige overf\u00f8rsler kan tale for, at overf\u00f8rselsgrundlaget skal have en mere fast form, f.eks. standardkontrakterne.\n",
+      "parent_id": "df95d841-eda8-57f9-8801-b09ce7a9acfc",
+      "children_ids": ["a5c98240-cad5-5869-9333-12bdc8a1f315"]
+    },
+    {
+      "id": "a5c98240-cad5-5869-9333-12bdc8a1f315",
+      "level": 2,
+      "heading": "S\u00e5dan g\u00f8r vi i ATP",
+      "text": "Ovenn\u00e6vnte krav om etablering af overf\u00f8rselsgrundlag og opfyldelse af de fire essentielle garantier skal v\u00e6re opfyldt i alle tilf\u00e6lde af overf\u00f8rsler af personoplysninger til tredjelande uanset overf\u00f8rslens hyppighed og uanset m\u00e6ngden eller typen af overf\u00f8rte personoplysninger mv.\n\nI forl\u00e6ngelse heraf har ATP have nogle forretningsm\u00e6ssige begr\u00e6nsninger for, om der kan ske overf\u00f8rsel af personoplysninger til tredjelande. F.eks. har ATP en cloudmodel, hvor den enkelte it-l\u00f8sning, som p\u00e5t\u00e6nkes indk\u00f8bt, vurderes.\n\nKontakt Koncernindk\u00f8b for indk\u00f8b af systemer over 50.000 kr., som herefter vil sikre inddragelse af Security og Koncernjura. For indk\u00f8b af systemer under 50.000 kr., henvend dig til Security.\n",
+      "parent_id": "f1c0d45b-0311-505d-b34e-1f0bef4e28c7",
+      "children_ids": []
+    },
+    {
+      "id": "3b4ea5cc-8fc7-5cbc-98d7-d9c82eee9bf5",
+      "level": 1,
+      "heading": "Behandlingssikkerhed",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "90c8dd38-4416-5bff-aada-5b083511413a",
+        "f4830e6d-ef1e-5890-ab2e-65655a2f359d"
+      ]
+    },
+    {
+      "id": "90c8dd38-4416-5bff-aada-5b083511413a",
+      "level": 2,
+      "heading": "Databeskyttelsesreglerne",
+      "text": "ATP har ansvaret for behandlingen af personoplysninger og har derfor en forpligtelse til at tilvejebringe og sikre et passende teknisk og organisatorisk sikkerhedsniveau for at beskytte personoplysningerne.\n\nHvorn\u00e5r et sikkerhedsniveau er \u201dpassende\u201d beror p\u00e5 en konkret vurdering af behandlingsaktiviteten. Som vejledende pejlem\u00e6rke kan n\u00e6vnes, at et passende sikkerhedsniveau vil afh\u00e6nge af, hvilke og hvor store risici der er for sikkerhedsbrud og dermed for, at fysiske personers rettigheder og frihedsrettigheder kr\u00e6nkes. Med andre ord skal sikkerhedsniveauet modsvare de risici (f.eks. risiko for phishing, malware, uvedkommendes adgang eller uautoriseret videregivelse), der er ved en given behandlingsaktivitet.\n\nFastl\u00e6ggelsen af sikkerhedsniveauet skal ske ud fra en samlet vurdering af det aktuelle tekniske niveau, implementeringsomkostninger og den p\u00e5g\u00e6ldende behandlings karakter, omfang, sammenh\u00e6ng og form\u00e5l samt risiciene af varierende sandsynlighed og alvor for fysiske personers rettigheder og frihedsrettigheder.\n\nFor at etablere et passende sikkerhedsniveau skal det afd\u00e6kkes, hvilke risici der er forbundet med behandlingen, og dette g\u00f8res i form af en risikovurdering efter databeskyttelsesforordningens artikel 32, der kortl\u00e6gger de konkrete risici op imod det etablerede sikkerhedsniveau. I mods\u00e6tning til en it-risikovurdering, hvor fokus er p\u00e5 ATP\u2019s risici, er fokus i den databeskyttelsesretlige risikovurdering de fysiske personer, hvis personoplysninger behandles, og som risikerer kompromittering og kr\u00e6nkelse af deres integritet. N\u00e5r risiciene er identificeret, skal der gennemf\u00f8res foranstaltninger, der kan mitigere/begr\u00e6nse disse risici. Dette kan f.eks. ske i form af kryptering, funktionsadskillelse, evne til at sikre vedvarende fortrolighed, integritet og tilg\u00e6ngelighed, evne til at genoprette tilg\u00e6ngeligheden til personoplysninger i tilf\u00e6lde af en h\u00e6ndelse, en procedure for afpr\u00f8vning og evaluering af tekniske og organisatoriske sikkerhedsforanstaltninger mv.\n",
+      "parent_id": "3b4ea5cc-8fc7-5cbc-98d7-d9c82eee9bf5",
+      "children_ids": []
+    },
+    {
+      "id": "f4830e6d-ef1e-5890-ab2e-65655a2f359d",
+      "level": 2,
+      "heading": "S\u00e5dan g\u00f8r vi i ATP",
+      "text": "ATP\u2019s har stor erfaring i kortl\u00e6gning af systemer, flow og processer og har derfor anlagt en pragmatisk tilgang til risikovurderingen i forhold til behandlingssikkerheden. For at sikre risikovurderingen i forhold til behandlingssikkerhed er relevante sp\u00f8rgsm\u00e5l til brug for vurderingen bl.a. implementeret it-risikovurderingen, som faciliteres af Security p\u00e5 baggrund af et foruddefineret trusselskatalog over konkrete trusselsscenarier og mulige mitigerende kontroller. Resultatet af risikovurderingerne anvendes til at beregne sandsynligheden for, om en given trussel indtr\u00e6ffer samt til at vurdere, om der er behov for yderligere foranstaltninger til brug for mitigering af risiciene, og vurderingerne gentages med varierende intervaller.\n\nDet skal altid v\u00e6re forn\u00f8den sikkerhed forbundet med behandlingen af personoplysninger. Uanset, om du arbejder med afg\u00f8relsessager, digitalisering, forretningsudvikling eller andet, skal du have fokus p\u00e5 behandlingssikkerheden, b\u00e5de den eksisterende og i forbindelse med nye tiltag. Er du i tvivl om, hvorvidt der er etableret et tilstr\u00e6kkeligt sikkerhedsniveau, skal du tage fat i din leder, som herefter vil bringe sp\u00f8rgsm\u00e5let videre.\n",
+      "parent_id": "3b4ea5cc-8fc7-5cbc-98d7-d9c82eee9bf5",
+      "children_ids": []
+    },
+    {
+      "id": "7bf5d1a2-9e26-5e60-9926-9d1bb8471611",
+      "level": 1,
+      "heading": "H\u00e5ndbogens DEL II \u2013 behandling af personoplysninger i forretningsomr\u00e5derne",
+      "text": "Del II i H\u00e5ndbogen beskriver de forhold for behandling af personoplysninger, som er s\u00e6rligt relevante for de enkelte omr\u00e5der i ATP.\n",
+      "parent_id": null,
+      "children_ids": []
+    },
+    {
+      "id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "level": 1,
+      "heading": "Behandling af personoplysninger I Administrationsforretningen",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "8444cc0f-01ca-5776-9ea2-e0812cde7157",
+        "8309d349-5d48-5034-ab6a-878286c472b3",
+        "05052f21-327a-54bb-beff-fe0fde1f5d3d",
+        "3f96f282-c5bd-5e47-88af-bd6465115237",
+        "d7d3a6cd-224d-5e5b-b968-103edf1ecdfc",
+        "02a29bbc-fe7b-5a2e-b18f-c878a67d5a9c"
+      ]
+    },
+    {
+      "id": "8444cc0f-01ca-5776-9ea2-e0812cde7157",
+      "level": 2,
+      "heading": "Generelt om behandlingen",
+      "text": "Administrationsforretningen best\u00e5r af en r\u00e6kke ordninger, som er henlagt til ATP ved lov eller aftale. Administrationsforretningens ordninger behandler personoplysninger med det form\u00e5l at udf\u00f8re ATP\u2019s lovm\u00e6ssige myndighedsopgaver, som best\u00e5r i levering af teknisk og administrativ bistand til de ordninger, som er henlagt til ATP ved lov eller aftale. Lov- eller aftalegrundlaget for de respektive ordninger definerer, med hvilket form\u00e5l ordningerne behandler personoplysninger.\n\nGenerelt set er form\u00e5let med ordningerne at opkr\u00e6ve bidrag og udbetale ydelser og tilskud. Hver enkelt ordning har egne \u201dkunder\u201d, dvs. medlemmer eller borgere m.fl., hvortil ordningen har til form\u00e5l at varetage sine opgaver. F.eks. har ATP Livslang Pension til opgave at sikre indbetaling af bidrag og senere at administrere udbetaling til pensionisterne. Som andet eksempel kan n\u00e6vnes AUB, som bl.a. har til form\u00e5l at udbetale tilskud til offentlige og private arbejdsgivere, der har udbetalt l\u00f8n til elever under skoleophold og uddannelse.\n\nFor de fleste ordninger udg\u00f8r kategorierne af personer, som undergives behandling: 1) l\u00f8nmodtagere og 2) arbejdsgivere (som ogs\u00e5 kan v\u00e6re at betragte som en fysisk person afh\u00e6ngig af virksomhedskonstruktionen, f.eks. en enkeltmandsvirksomhed med personlig h\u00e6ftelse). Nogle ordninger behandler ogs\u00e5 personoplysninger vedr\u00f8rende andre kategorier af personer. F.eks. behandler UDK ogs\u00e5 oplysninger om borgeres relationer, f.eks. nuv\u00e6rende eller tidligere \u00e6gtef\u00e6lle eller samlever, hvis ydelsen er betinget af indt\u00e6gt fra relationen.\n",
+      "parent_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "children_ids": []
+    },
+    {
+      "id": "8309d349-5d48-5034-ab6a-878286c472b3",
+      "level": 2,
+      "heading": "S\u00e6rlovenes betydning for behandlingen af personoplysninger",
+      "text": "N\u00e5r det skal vurderes, hvilke kategorier af personer og hvilke kategorier og specifikke typer af personoplysninger som er n\u00f8dvendige at behandle i den p\u00e5g\u00e6ldende ordning, er det v\u00e6sentligt som det f\u00f8rste at analysere den eller de s\u00e6rlove, som danner grundlag for ordningen. S\u00e6rlovene fastl\u00e6gger, hvilke kategorier af personoplysninger der kan behandles, hvilke specifikke typer af personoplysninger der kan indhentes, behandles og videregives, ligesom de beskriver, hvem oplysninger kan eller skal indhentes fra og videregives til samt eventuelle restriktioner.\n\nS\u00e6rlovene vil ofte indeholde en formulering om, at der fra n\u00e6rmere angivne kilder kan indhentes \u201dn\u00f8dvendige oplysninger\u201d. I disse tilf\u00e6lde er det s\u00e5ledes op til den enkelte ordning at vurdere, hvilke personoplysninger der er strengt n\u00f8dvendige for administrationen af ordningen. I den forbindelse er det v\u00e6sentligt, at der alene indhentes og behandles de personoplysninger, som er \u201dneed to have\u201d, og s\u00e5ledes ikke de personoplysninger, som er \u201dnice-to-have\u201d. I de fleste tilf\u00e6lde vil det v\u00e6re n\u00f8dvendigt at behandle identifikationsoplysninger s\u00e5 som navn, adresse og cpr-nummer samt indt\u00e6gtsoplysninger, s\u00e5fremt udbetalingen er indkomstafh\u00e6ngig. Endelig vil det for nogle ordninger v\u00e6re n\u00f8dvendigt at behandle f\u00f8lsomme personoplysninger for at kunne varetage den konkrete sagsbehandling. F.eks. er det n\u00f8dvendigt for AES at behandle helbredsoplysninger for at kunne tr\u00e6ffe afg\u00f8relse i sager om erhvervssygdomme.\n\nI almindelighed vil s\u00e6rlovene s\u00e5ledes have gjort udt\u00f8mmende op med behandlingen. Men findes svarene ikke, eller er s\u00e6rlovene uklare, m\u00e5 det vurderes, om behandlingen kan ske i medf\u00f8r af databeskyttelsesreglerne direkte.\n",
+      "parent_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "children_ids": []
+    },
+    {
+      "id": "05052f21-327a-54bb-beff-fe0fde1f5d3d",
+      "level": 2,
+      "heading": "Privacy by design",
+      "text": "Ordningerne i Administrationsforretningen er, som n\u00e6vnt under afsnit 1.2, selvst\u00e6ndige dataansvarlige, hvilket betyder, at ordningerne selv har ansvaret for at sikre korrekt h\u00e5ndtering af personoplysninger. Dette indeb\u00e6rer, at ordningerne skal indt\u00e6nke og implementere databeskyttelsesregler i processer og sagsgange \u2013 og ikke mindst s\u00f8rge for at dokumentere det. Dette er s\u00e6rligt relevant i forhold til udvidelse af eksisterende ordninger, f.eks. da AUB fik tilf\u00f8rt Praktikplads-AUB i 2018 eller ved etablering af nye ordninger i ATP Koncernen, f.eks. oprettelsen af LFM i 2019.\n\nDer skal f.eks. udarbejdes regler for sletning, som \u2013 idet omfang det er muligt \u2013 skal underst\u00f8ttes systemm\u00e6ssigt. For ordningerne i P&E, som systemunderst\u00f8ttes af ATP\u2019s it-platform, er der udarbejdet \u201dRegler for opbevaring og sanering af data i ATP\u201d, som per ordning under iagttagelse af eventuelle s\u00e6rregler om frister mmv. beskriver rutinerne for sletning. [\u201dRegler for opbevaring og sanering af data\u201d](https://atpdk.sharepoint.com/sites/Fagligt/SitePages/Sanering-af-data-i-ATP.aspx) findes p\u00e5 medarbejderportalen. UDK er systemunderst\u00f8ttet anderledes ved eget systemlandskab, hvor flere fagspor har egen underst\u00f8ttelse, men ogs\u00e5 ved f\u00e6lles databaser. UDK er ikke omfattet af \u201dRegler for opbevaring og sanering af data i ATP\u201d, men sletning er implementeret i systemunderst\u00f8ttelsen.\n\nSletteregler er \u2013 og vil som led i saneringsprojektet - s\u00e5ledes i vidt omfang implementeret i systemunderst\u00f8ttelsen for P&E og UDK, s\u00e5ledes at sletning sikres automatisk. Hertil kommer dog, at ordningerne ogs\u00e5 kan have personoplysninger liggende decentralt eller have manuel h\u00e5ndtering, som kr\u00e6ver s\u00e6rskilte overvejelser i forhold til sletning s\u00e5 som instrukser for sletning.\n\nI forhold til rettigheder har ordningerne s\u00e6rskilte procedurer for h\u00e5ndteringen, hvis der modtages en anmodning om ud\u00f8velse af en rettighed. Herudover findes skabeloner til brug for besvarelsen, l\u00e6s mere herom i afsnit 5.1. Foruds\u00e6tningen for ud\u00f8velse af en rettighed er, at den registrerede forinden har f\u00e5et information om behandlingen af p\u00e5g\u00e6ldendes personoplysninger. Ordningerne skal derfor sikre opfyldelse af oplysningspligten, som beskrevet i afsnit 5.1.1 ovenfor.\n",
+      "parent_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "children_ids": []
+    },
+    {
+      "id": "3f96f282-c5bd-5e47-88af-bd6465115237",
+      "level": 2,
+      "heading": "Videregivelse og sikker kommunikation",
+      "text": "Da ordningerne behandler b\u00e5de fortrolige og f\u00f8lsomme personoplysninger, er \u201dUdlevering af personoplysninger til andre\u201d og \u201dSikker kommunikation\u201d s\u00e6rligt vigtige. Der henvises til H\u00e5ndbogens afsnit 3 og 4.\n",
+      "parent_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "children_ids": []
+    },
+    {
+      "id": "d7d3a6cd-224d-5e5b-b968-103edf1ecdfc",
+      "level": 2,
+      "heading": "Optagelse af telefonsamtaler",
+      "text": "I Administrationsforretningen optages telefonsamtaler med medlemmer/borgere, der kontakter ATP for vejledning eller for at sp\u00f8rge til konkrete sager. Telefonoptagelserne optages for at f\u00f8re statistik og anvendes til interne uddannelsesform\u00e5l af medarbejdere.\n\nDatatilsynet har tidligere udtalt, at optagelse af telefonsamtaler kr\u00e6ver forudg\u00e5ende samtykke. Det er ikke tilstr\u00e6kkeligt, at borgeren har mulighed for at frabede sig optagelse af telefonsamtalen til kunder\u00e5dgiveren. Der er derfor et krav, at der i telefonbetjeningen indhentes et forudg\u00e5ende samtykke fra medlemmet/borgeren, der ringer ind. Samtykket kan indhentes i form af et tastevalg. Samtykket skal v\u00e6re frivilligt, og der skal ikke v\u00e6re konsekvenser forbundet med medlemmets/borgerens n\u00e6gtelse af samtykke, ligesom det ikke m\u00e5 lagres p\u00e5 p\u00e5g\u00e6ldendes sag, hvorvidt samtykke er afgivet eller afsl\u00e5et. Der g\u00e6lder ganske f\u00e5 undtagelser til kravet om forudg\u00e5ende samtykke, f.eks. i forbindelse med v\u00e6rdipapirhandler, hvilket omtales under afsnit 11.2 nedenfor.\n\nDe optagede telefonsamtaler skal slettes, n\u00e5r de ikke l\u00e6ngere tjener et sagligt form\u00e5l, f.eks. n\u00e5r n\u00e6stkommende interne uddannelsessession er overst\u00e5et, eller n\u00e5r statistikkerne er endeligt gennemf\u00f8rt. Herudover skal det sikres, at de personer, som ringer til ATP, modtager information om behandlingen af deres personoplysninger, jf. 5.1.1 om oplysningspligten.\n",
+      "parent_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "children_ids": []
+    },
+    {
+      "id": "02a29bbc-fe7b-5a2e-b18f-c878a67d5a9c",
+      "level": 2,
+      "heading": "Personaleadministration",
+      "text": "Vedr\u00f8rende behandling af personoplysninger som led i personaleadministration decentralt i de enkelte ordninger henvises til afsnit 15 nedenfor.\n",
+      "parent_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "children_ids": []
+    },
+    {
+      "id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "level": 1,
+      "heading": "Behandling af personoplysninger I Pensions & investments (P&I)",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "9185b2ef-53a5-58f8-98f5-92aab9757b31",
+        "4294295f-4600-5a0d-9cc1-ec043a0a53ed",
+        "e1eacb9f-d484-521a-a861-1ecacdcecfcb",
+        "af519ef4-9aa5-59f6-808c-fe3cad9539d4",
+        "8825ca04-ab9a-542d-8ba4-5b93f657c839"
+      ]
+    },
+    {
+      "id": "9185b2ef-53a5-58f8-98f5-92aab9757b31",
+      "level": 2,
+      "heading": "Generelt om behandlingen",
+      "text": "I P&I behandles personoplysninger med det form\u00e5l at forvalte og investere ATP\u2019s formue forsvarligt til gavn for ATP\u2019s medlemmer. Baggrunden for behandlingen bygger p\u00e5 regler i ATP-loven.\n\nBehandlingen af personoplysninger i P&I er som udgangspunkt begr\u00e6nset til navn, kontaktoplysninger, stillingsbetegnelser og arbejdsgiver p\u00e5 vores samarbejdspartnere og modparter. Herudover vil vi behandle oplysninger om vores samarbejdspartneres gennemf\u00f8rte transaktioner. I forbindelse med due diligence-processer kan vi dog ogs\u00e5 komme i besiddelse af CV\u2019er p\u00e5 ledelsesmedlemmer, der bl.a. indeholder oplysninger om uddannelsesniveau samt nuv\u00e6rende og tidligere besk\u00e6ftigelse.\n\nS\u00e5 l\u00e6nge en handel er aktuel, en due diligence-proces er uafsluttet, et samarbejdsforhold er aktuelt, og der i \u00f8vrigt best\u00e5r et opbevarings- og dokumentationsbehov, kan vi lovligt opbevare personoplysningerne. Der kan ikke ops\u00e6ttes generelle sletterutiner, idet det m\u00e5 vurderes konkret.\n\nSektionerne i P&I har hver is\u00e6r oversigter over og instrukser for behandlingen af netop de typer af personoplysninger, som er relevante for dem.\n",
+      "parent_id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "children_ids": []
+    },
+    {
+      "id": "4294295f-4600-5a0d-9cc1-ec043a0a53ed",
+      "level": 2,
+      "heading": "Optagelse af telefonsamtaler",
+      "text": "Konkrete handler og dialog forbundet hermed optages for efterf\u00f8lgende at kunne dokumenteres. Datatilsynet har tidligere udtalt, at optagelse af telefonsamtaler undtagelsesvist kan ske uden forudg\u00e5ende samtykke, f.eks. i forbindelse med v\u00e6rdipapirhandel. Af denne grund indhentes ikke samtykke forud for telefonoptagelser af handler eller dialog forbundet med handler i P&I. Endelig skal optagelserne slettes, n\u00e5r der ikke l\u00e6ngere er et dokumentationsbehov, f.eks. n\u00e5r handlen er endeligt tilendebragt, og muligheden for at g\u00f8re et eventuelt retskrav g\u00e6ldende er oph\u00f8rt.\n",
+      "parent_id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "children_ids": []
+    },
+    {
+      "id": "e1eacb9f-d484-521a-a861-1ecacdcecfcb",
+      "level": 2,
+      "heading": "Overf\u00f8rsel af personoplysninger til tredjelande",
+      "text": "I P&I vil der sommetider blive overf\u00f8rt personoplysninger til tredjelande i forbindelse med kontakt til og handler med personer uden for EU/E\u00d8S. \u201dOverf\u00f8rsel af personoplysninger til tredjelande\u201d er derfor s\u00e6rlig v\u00e6sentlig. Der henvises til H\u00e5ndbogens afsnit 8. Herom kan n\u00e6vnes, at overf\u00f8rslen normalvis vil kunne ske med henvisning til, at overf\u00f8rsel er n\u00f8dvendig for indg\u00e5else eller opfyldelse af en kontrakt, der i den registreredes interesse (dvs. den ansatte i ATP) indg\u00e5s mellem den dataansvarlige (dvs. ATP) og en anden juridisk person (dvs. handelsrelationen) (databeskyttelsesforordningens artikel 49, stk. 1, litra c) eller med henvisning til, at et retskrav kan fastl\u00e6gges, g\u00f8res g\u00e6ldende eller forsvares (f.eks. hvis der m\u00e5tte opst\u00e5 en tvist i relation til en handelsrelation, eller fordi overf\u00f8rslen beror p\u00e5 en retlig forpligtelse) (databeskyttelsesforordningens artikel 49, stk. 1, litra e).\n",
+      "parent_id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "children_ids": []
+    },
+    {
+      "id": "af519ef4-9aa5-59f6-808c-fe3cad9539d4",
+      "level": 2,
+      "heading": "Aktuarfunktionen",
+      "text": "Aktuarfunktionen er den af de tv\u00e6rg\u00e5ende enheder, som behandler mange personoplysninger og p\u00e5 en s\u00e6rlig m\u00e5de, fordi der er tale om historiske data. Derfor beskrives behandlingen s\u00e6rskilt.\n\nFor ATP- og AES-ordningerne foretager aktuarerne statistiske sammenstillinger af data og udarbejder beregninger p\u00e5 udvalgte historiske data. Historiske data er data, som ikke har sin berettigelse i produktionssystemer, fordi medlemmet/borgeren ikke l\u00e6ngere er aktivt, og data derved ikke \u00e6ndres. Typerne af data udg\u00f8r bl.a. cpr-nummer, k\u00f8n, d\u00f8dsdato, f\u00f8dselsdato, civilstand, landekode, l\u00f8bende pension og \u00e9ngangsydelser, indbetalinger, CVR-nr., virksomhedsnavn og beregningsgrundlag, herunder diagnose, skadesnummer og sygdomskoder og oplysning om afg\u00f8relse/anke. Data opbevares i database, hvortil der er adgangsbegr\u00e6nsning.\n\nFor de historiske data har aktuarerne en r\u00e6kke krav til n\u00f8jagtigheden, idet det er et krav, at data ikke er fejlbeh\u00e6ftede, at data, som er fra forskellige tidsperioder, er konsistente, og at data er indsamlet rettidigt og konsistent over tid.\n\nDa beregningerne har relevans i \u00e5rr\u00e6kker, vil det v\u00e6re n\u00f8dvendigt at bevare disse i l\u00e6ngerevarende perioder. Det er ikke muligt at opstille specifikke sletteregler, hvorfor dette m\u00e5 vurderes konkret. Materiale kan opbevares, s\u00e5 l\u00e6nge det er n\u00f8dvendigt og tjener et dokumentationsm\u00e6ssigt behov. F.eks. opbevares identifikationsoplysninger om arbejdsgivere, herunder brancheoplysninger, permanent i et passiv-register med det form\u00e5l at kunne dokumentere besk\u00e6ftigelse for l\u00f8nmodtagere samt til aktuarm\u00e6ssige statistiske form\u00e5l.\n",
+      "parent_id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "children_ids": []
+    },
+    {
+      "id": "8825ca04-ab9a-542d-8ba4-5b93f657c839",
+      "level": 2,
+      "heading": "Personaleadministration",
+      "text": "For behandling af personoplysninger som led i personaleadministration generelt henvises til afsnit 15 nedenfor.\n\nS\u00e6rligt for P&I\u2019s personaleadministration indsamles og behandles f\u00f8lgende yderligere personoplysninger.\n\n- Insiderlog \u2013 log over, hvilke medarbejdere der har opn\u00e5et intern viden.\n- oplysninger relateret til KYC-vurderinger - handelsrelationer opstiller krav om freml\u00e6ggelse af s\u00e5dan dokumentation. I forbindelse med onboarding indhentes derfor paskopier, kreditkortoplysninger mv. for de medarbejdere, der skal tegne ATP, for at im\u00f8dekomme vores handelsrelationers krav.\n- Medarbejderes egne ans\u00f8gninger om handler samt tilh\u00f8rende handelsnotaer mv.\n- Materiale relateret til fit & proper-vurderinger, herunder straffeattest.\n\nIndhentelse og behandling af straffeattest kr\u00e6ver forudg\u00e5ende samtykke for medarbejderen (databeskyttelseslovens \u00a7 8), men de \u00f8vrige personoplysninger kan behandles p\u00e5 baggrund af opfyldelse af ans\u00e6ttelseskontrakten med medarbejderen (databeskyttelsesforordningens artikel 6, stk. 1, litra b) og for at overholde arbejdsretlige forpligtelser og forf\u00f8lge ATP\u2019s legitime interesser (databeskyttelseslovens \u00a7 12).\n",
+      "parent_id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "children_ids": []
+    },
+    {
+      "id": "cad3059c-3466-53f7-a020-6d74edea052c",
+      "level": 1,
+      "heading": "Behandling af personoplysninger for tv\u00e6rg\u00e5ende enheder",
+      "text": "",
+      "parent_id": null,
+      "children_ids": [
+        "9e7c7955-9590-580c-9521-e0684acccbd5",
+        "04367a3c-b76a-5f13-9309-a2b285aa28df",
+        "b6eadf61-1ad3-5233-94b8-bfc95e209444"
+      ]
+    },
+    {
+      "id": "9e7c7955-9590-580c-9521-e0684acccbd5",
+      "level": 2,
+      "heading": "Generelt om behandlingen",
+      "text": "De \u201dtv\u00e6rg\u00e5ende enheder\u201d (ekskl. Koncern HR, som er s\u00e6rskilt beskrevet under afsnit 15) skal i denne kontekst forst\u00e5s som de funktioner, der r\u00e5dgiver, vejleder, yder service, overv\u00e5ger eller p\u00e5 anden vis auditerer p\u00e5 tv\u00e6rs af hele eller dele af ATP Koncernen uden at v\u00e6re tilknyttet en specifik ordning i Administrationsforretningen eller afdeling i P&I eller et datterselskab. Der kan v\u00e6re tale om tv\u00e6rg\u00e5ende enheder i Administrationsforretningen, P&I eller koncernen, der findes som b\u00e5de 1st.-, 2nd.- og 3rd.-line-funktioner.\n\nKoncernstrategi & Forretningsanalyse, Kommunikation & Eksterne Relationer samt Corporate Functions s\u00e5 som Koncernjura, Koncernindk\u00f8b, Koncern\u00f8konomi udg\u00f8r visse 1st.-line-funktioner. Operationel Risikostyring & Compliance, herunder DPO-funktionen, Aktuarfunktion, Security udg\u00f8r hovedparten af 2nd.-line-funktionerne, mens Intern Revision udg\u00f8r en 3rd.-line-funktion. Hertil kommer ogs\u00e5 de \u00f8vrige tv\u00e6rg\u00e5ende funktioner s\u00e5 som tv\u00e6rg\u00e5ende interne komit\u00e9er, udvalg og forskellige fora, herunder KORI, KVU, LVU, Lederforum og Det Tv\u00e6rg\u00e5ende Arkitekturboard.\n\nDe tv\u00e6rg\u00e5ende enheder i ATP behandler personoplysninger i varierende omfang. Flere af de tv\u00e6rg\u00e5ende enheder har kontakt med mange medarbejdere internt og i \u00f8vrigt en del kontakt med eksterne udenfor ATP, herunder eksempelvis leverand\u00f8rer, opdragsgivere, samarbejdspartnere, tilsynsmyndigheder, journalister og \u00f8vrige interessenter. Behandlingen i relation til disse kategorier af personer vil i udgangspunktet v\u00e6re begr\u00e6nset til navn, kontaktoplysninger, stillingsbetegnelse og arbejdsgiver. Personoplysninger vedr\u00f8rende disse kategorier af personer skal slettes, n\u00e5r behandlingen af personoplysninger ikke l\u00e6ngere er n\u00f8dvendige for at opfylde form\u00e5let, hvormed de er indsamlet. Det vil f.eks. v\u00e6re i de tilf\u00e6lde, hvor en konkret r\u00e5dgivning er afsluttet, hvor der ikke l\u00e6ngere er et kontraktuelt forhold mellem ATP og den p\u00e5g\u00e6ldende leverand\u00f8r, der ikke kan g\u00f8res juridiske krav g\u00e6ldende, og ingen anden kontakt er vurderet at v\u00e6re relevant for ATP, hvorfor et fortsat opbevarings- eller dokumentationsbehov ikke vurderes at v\u00e6re aktuelt.\n\nDe tv\u00e6rg\u00e5ende enheder kan dog ogs\u00e5 komme i besiddelse af fortrolige og f\u00f8lsomme personoplysninger, s\u00e6rligt i forbindelse med intern r\u00e5dgivning, vejledning mv. af forretningsenhederne i ATP om konkrete sager. I den forbindelse er det v\u00e6sentligt, at udvekslede personoplysninger via e-mails slettes, n\u00e5r sagen er endeligt h\u00e5ndteret, og relevante oplysninger er lagret i de specifikke fagsystemer.\n",
+      "parent_id": "cad3059c-3466-53f7-a020-6d74edea052c",
+      "children_ids": []
+    },
+    {
+      "id": "04367a3c-b76a-5f13-9309-a2b285aa28df",
+      "level": 2,
+      "heading": "Statistik, analyse og registersamk\u00f8ring",
+      "text": "Visse tv\u00e6rg\u00e5ende enheder foretager sammenstilling af personoplysninger fra sagsbehandlingen for at udarbejde statistikker og analyser med det form\u00e5l at forbedre ATP\u2019s produkter, optimere sagsgange- og processer og til brug for rapporteringer.\n\nDet g\u00e6lder som almindeligt princip i databeskyttelsesreglerne, at senere anvendelse af oplysninger \u2013 som oprindeligt er indhentet som led i sagsbehandlingen - i statistisk eller analytisk \u00f8jemed ikke vil v\u00e6re uforenelig med det oprindelige form\u00e5l med indsamlingen og behandlingen af personoplysninger. Dette foruds\u00e6tter selvsagt, at behandlingen i forbindelse med udarbejdelse af statistikkerne og analyserne i \u00f8vrigt efterlever de grundl\u00e6ggende principper om n\u00f8dvendighed og dataminimering mv.\n\nEn s\u00e6rlig form for datasammenstilling og analyse udf\u00f8res i Den F\u00e6lles Dataenhed i UDK (herefter \u201dDFD\u201d). DFD stiller registersamk\u00f8rte data til r\u00e5dighed for UDK og andre myndigheders kontrolarbejde s\u00e5 som kommunerne og SU. Registersamk\u00f8ring bruges til at finde forskellige typer af fejludbetalinger, f.eks. fejl i sagsbehandlingen fra myndigheden, fejl eller misforst\u00e5elser hos borgeren, der ofte skyldes komplekse sager, eller bevidst snyd fra borgeren. Til brug for registersamk\u00f8ringerne anvender DFD personoplysninger i registre, som myndighederne i forvejen anvender i det daglige arbejde med sagsbehandling. Det kan v\u00e6re oplysninger om bop\u00e6l fra cpr-registret, oplysninger om indt\u00e6gt eller formue fra Skattestyrelsen, oplysninger om boliger fra BBR-registret eller oplysninger fra den udbetalende myndigheds egne registre. Registersamk\u00f8ring er en form for sorteringsv\u00e6rkt\u00f8j, hvor der opstilles forskellige kriterier, der uds\u00f8ges p\u00e5 baggrund af, og DFD udvikler s\u00f8gekriterier ud fra generelle erfaringer fra kontrolarbejdet, statistiske analyser og m\u00f8nsteranalyser fra afgjorte kontrolsager.\n\nI databeskyttelseshenseende er UDK (i praksis DFD) dataansvarlig for selve registersamk\u00f8ringen, mens den modtagende myndighed af resultatet af samk\u00f8ringen er selvst\u00e6ndig dataansvarlig fra modtagelsestidspunktet. UDK-loven opstiller specifikke rammer for DFD\u2019s arbejde i relation til registersamk\u00f8ringen og den behandling af personoplysninger, som finder sted i forbindelse hermed. Bl.a. er det i lovbem\u00e6rkningerne begrundet, hvorfor DFD imod det altovervejende udgangspunkt ikke skal opfylde oplysningspligten for de borgere, som er genstand for registersamk\u00f8ringen.\n",
+      "parent_id": "cad3059c-3466-53f7-a020-6d74edea052c",
+      "children_ids": []
+    },
+    {
+      "id": "b6eadf61-1ad3-5233-94b8-bfc95e209444",
+      "level": 2,
+      "heading": "Udvikling",
+      "text": "Det er en del af ATP\u2019s dna altid at fors\u00f8ge at forbedre, optimere og udvikle vores produkter og services til gavn for brugerne. Udvikling, nye eller \u00e6ndrede processer og sagsgange vil ofte indeb\u00e6re, at personoplysninger behandles (indsamles, opbevares, videregives mv.) p\u00e5 en ny m\u00e5de, eller at der indsamles nye personoplysninger til et nyt eller \u00e6ndret form\u00e5l. Det kan b\u00e5de v\u00e6re ATP selv, der tager initiativ til ny udvikling, men det kan lige s\u00e5 vel v\u00e6re, at \u00e6ndringen opst\u00e5r p\u00e5 baggrund af en lov\u00e6ndring, f.eks. om indsamling af personoplysninger fra nye kilder eller videregivelse af personoplysninger til nye modtagere. I forbindelse med nye udviklingsaktiviteter skal vi v\u00e6re s\u00e6rligt opm\u00e6rksomme p\u00e5 kravene om udarbejdelse af konsekvensanalyse, risikovurdering og krigsreglen.\n",
+      "parent_id": "cad3059c-3466-53f7-a020-6d74edea052c",
+      "children_ids": [
+        "e0296c37-87ed-51f9-afe5-29267d12d567",
+        "5b65683b-e247-5bdb-890a-44a84c40b996",
+        "847a567f-5be5-545d-9fc6-d783a39eb0ef",
+        "f4a6d849-2d88-5fd0-8b50-5724668e7bc3"
+      ]
+    },
+    {
+      "id": "e0296c37-87ed-51f9-afe5-29267d12d567",
+      "level": 3,
+      "heading": "Konsekvensanalyse eller forudg\u00e5ende screening",
+      "text": "En konsekvensanalyse (ogs\u00e5 kaldes Data Processing Impact Assessment/DPIA) skal udarbejdes, hvis en type behandling, navnlig ved brug af nye teknologier og i medf\u00f8r af sin karakter, omfang, sammenh\u00e6ng og form\u00e5l, sandsynligvis vil indeb\u00e6re en h\u00f8j risiko for fysiske personers rettigheder og frihedsrettigheder.\n\nForm\u00e5let med en konsekvensanalyse vedr\u00f8rende databeskyttelse er at vurdere de h\u00f8je risicis specifikke sandsynlighed og alvor under hensyntagen til behandlingens karakter, omfang, sammenh\u00e6ng og form\u00e5l samt risikokilderne. Konsekvensanalysen skal navnlig omfatte de foranstaltninger, garantier og mekanismer, der er planlagt til begr\u00e6nsning af den risiko, der er identificeret ved behandlingen af personoplysninger, til sikring af beskyttelsen af personoplysninger og p\u00e5visning af overholdelse af databeskyttelsesreglerne. Til brug for vurdering af risici og konsekvenser og identificering af mitigerende foranstaltninger udarbejdes en systematisk beskrivelse af de planlagte behandlingsaktiviteter i l\u00f8sningen samt form\u00e5lene med behandlingen. Derudover foretages en beskrivelse af n\u00f8dvendigheden og proportionaliteten i behandlingen samt behandlingshjemlerne for ATP\u2019s behandling af personoplysningerne.\n\nEn konsekvensanalyse vil i almindelighed skulle udarbejdes, hvis der sker en systematisk og omfattende vurdering af personlige forhold vedr\u00f8rende fysiske personer, der er baseret p\u00e5 automatisk behandling, herunder profilering. Den skal ligeledes udarbejdes, hvis der sker behandling i stort omfang af f\u00f8lsomme personoplysninger, eller hvis der sker systematisk overv\u00e5gning af et offentligt tilg\u00e6ngeligt omr\u00e5de i stort omfang. En konsekvensanalyse er navnlig p\u00e5kr\u00e6vet, n\u00e5r der anskaffes nye systemer eller laves v\u00e6sentlige \u00e6ndringer af eksisterende systemer, men kan ogs\u00e5 v\u00e6re relevant i andre sammenh\u00e6nge.\n\nDet kan ofte v\u00e6re vanskeligt at vurdere, om en ny udviklingsaktivitet kr\u00e6ver udarbejdelse af en konsekvensanalyse. I de situationer skal der foretages en forudg\u00e5ende screening af, hvorvidt en konsekvensanalyse er p\u00e5kr\u00e6vet. En forudg\u00e5ende screening indeholder visse af elementerne fra en konsekvensanalyse, men er kortere og har til form\u00e5l at identificere typerne, m\u00e6ngden og flowet i behandlingen af personoplysningerne samt p\u00e5virkningen af privatlivets fred.\n\nInddrag Koncernjura, som har udarbejdet skabeloner til brug for udarbejdelse af henholdsvis en konsekvensanalyse og en forudg\u00e5ende screening. Fsva. systemer er processen normalt den, at Security laver en screening af l\u00f8sningen, hvor basisoplysninger om l\u00f8sningen indsamles, og der laves en overordnet it-risikovurdering. Hvis der er tale om h\u00f8j/meget h\u00f8j konsekvens for individet, henvises til Koncernjura med henblik p\u00e5 udarbejdelse af en konsekvensanalyse.\n",
+      "parent_id": "b6eadf61-1ad3-5233-94b8-bfc95e209444",
+      "children_ids": []
+    },
+    {
+      "id": "5b65683b-e247-5bdb-890a-44a84c40b996",
+      "level": 3,
+      "heading": "Risikovurdering",
+      "text": "Udover en konsekvensanalyse eller en forudg\u00e5ende screening heraf er det tillige et krav, at der for behandlingsaktiviteter, systemm\u00e6ssige s\u00e5 vel som procesm\u00e6ssige, udarbejdes en risikovurdering i forhold til behandlingssikkerheden. Der henvises til afsnit 9 om behandlingssikkerhed.\n",
+      "parent_id": "b6eadf61-1ad3-5233-94b8-bfc95e209444",
+      "children_ids": []
+    },
+    {
+      "id": "847a567f-5be5-545d-9fc6-d783a39eb0ef",
+      "level": 3,
+      "heading": "Krigsreglen",
+      "text": "Databeskyttelseslovens \u00a7 3, stk. 9, er et udtryk for den s\u00e5kaldte \u201dkrigsregel\u201d. Form\u00e5let med reglen er at sikre, at visse personoplysninger opbevares p\u00e5 servere i Danmark af hensyn til statens sikkerhed, og at der skal sikres tilg\u00e6ngelighed og jurisdiktion for danske retsh\u00e5ndh\u00e6vende myndigheder og ATP. Reglen skal sikre, at det i tilf\u00e6lde af krig er danske myndigheder, der er kompetente til at h\u00e5ndh\u00e6ve lov og ret og har adgang til de p\u00e5g\u00e6ldende systemer og servere p\u00e5 det sted, hvor personoplysningerne fysisk befinder sig uden at skulle v\u00e6re afh\u00e6ngig af en evt. samarbejdsvillig leverand\u00f8r i et andet land.\n\nEfter reglen kan justitsministeren efter forhandling med vedkommende minister (som for ATP\u2019s vedkommende i de fleste tilf\u00e6lde vil v\u00e6re besk\u00e6ftigelsesministeren) beslutte, at konkrete it-systemer, som f\u00f8res for den offentlige forvaltning[[6]](#footnote-6), helt eller delvist alene m\u00e5 opbevares inden for Danmarks gr\u00e6nser. De it-systemer, som m\u00e5tte omfattes af krigsreglen, oplistes p\u00e5 et bilag til en bekendtg\u00f8relse, som udstedes i henhold til reglen.\n\nHvis ATP skal indk\u00f8be nyt it-system, sende et eksisterende it-system i (gen)udbud eller outsource et helt eller dele af et it-system, skal det vurderes, om it-systemet er omfattet af krigsreglen ud fra overvejelser om bl.a. typen og omfanget af personoplysninger i systemet, konsekvenserne ved kompromittering af personoplysningerne, tab af funktionalitet samt muligheden for reetablering ved anden leverand\u00f8r. Hvis ATP ud fra en samlet vurdering finder, at systemet er omfattet af krigsreglen, skal sagen forel\u00e6gges for justitsministeren, der i samarbejde med vedkommende minister beslutter, om systemet skal oplistes p\u00e5 bilaget til bekendtg\u00f8relsen. I givet fald m\u00e5 personoplysningerne alene opbevares i Danmark, herunder p\u00e5 ATP\u2019s egne lokationer eller hos leverand\u00f8rer i Danmark.\n\nInddrag Koncernjura, som har udarbejdet en skabelon til brug for vurderingen af, om et it-system er omfattet af krigsreglen.\n",
+      "parent_id": "b6eadf61-1ad3-5233-94b8-bfc95e209444",
+      "children_ids": []
+    },
+    {
+      "id": "f4a6d849-2d88-5fd0-8b50-5724668e7bc3",
+      "level": 3,
+      "heading": "Personoplysninger til testform\u00e5l",
+      "text": "Mange af de tv\u00e6rg\u00e5ende enheder vil have behov for at bruge personoplysninger til testform\u00e5l, f.eks. i forbindelse med udviklingen af nye systemer.\n\nDet er vigtigt, at der etableres en ensartet proces for brug af testdata i ATP, herunder sikker opbevaring og adgangsstyring til anvendte n\u00f8gler/koder. Ved overf\u00f8rsel/etablering af data til testform\u00e5l skal der v\u00e6re tale om et reelt testmilj\u00f8, hvor der ikke m\u00e5 ske sagsbehandling.\n\nI det omfang det er muligt at anvende konstruerede[[7]](#footnote-7) eller (uigenkaldeligt) anonymiserede personoplysninger, forpligter databeskyttelsesreglerne os til at v\u00e6lge denne mulighed. Er dette ikke muligt, er vi forpligtet til at anvende andre sikkerhedsforanstaltninger for at beskytte personoplysninger, f.eks. pseudonymiserede[[8]](#footnote-8) eller aggregerede[[9]](#footnote-9) personoplysninger. S\u00e5fremt testen ikke vil v\u00e6re retvisende ved anvendelse af enten konstruerede, anonymiserede eller forvanskede/maskerede personoplysninger, kan test p\u00e5 \u201drigtige\u201d personoplysninger ske, forudsat dette sker under sikre og kontrollerede testmilj\u00f8er, hvortil kun udvalgte medarbejdere har adgang, og hvor testdata slettes efter gennemf\u00f8rslerne \u2013 dette kr\u00e6ver dog forudg\u00e5ende dispensation fra Drifts- og Projektrisiko, jf. retningslinjer om informationssikkerhed pkt. 14.3.3.\n\nProduktionsdata m\u00e5 i \u00f8vrigt kun kopieres til og anvendes i pilot-/pre-prod.-milj\u00f8er, hvis der er implementeret identisk og samme sikkerhed som i produktionsmilj\u00f8et i forhold til ops\u00e6tning, rolle/rettigheder, logning mv. Output fra testmilj\u00f8et m\u00e5 aldrig komme frem til borgeren, f.eks. i form af breve.\n\nIf\u00f8lge retningslinjer for Informationssikkerhed pkt. 14.3.3, som er tilg\u00e6ngelig p\u00e5 medarbejderportalen [her](https://atpdk.sharepoint.com/sites/Praktisk/SitePages/Informationssikkerhed.aspx?web=1), er ovenst\u00e5ende udm\u00f8ntet i specifikke krav, som skal f\u00f8lges i forbindelse med test.\n",
+      "parent_id": "b6eadf61-1ad3-5233-94b8-bfc95e209444",
+      "children_ids": [
+        "90955c1b-92a6-52f7-85f3-dbdb69123513",
+        "404faa6d-b72f-575b-a46b-c226fe96eeb2"
+      ]
+    },
+    {
+      "id": "90955c1b-92a6-52f7-85f3-dbdb69123513",
+      "level": 2,
+      "heading": "Regnskabsmateriale",
+      "text": "For s\u00e5 vidt ang\u00e5r personoplysninger der relaterer sig til regnskabsmateriale, herunder l\u00f8nudbetalinger hos Koncern\u00f8konomi, skal der ske opbevaring i medf\u00f8r af bogf\u00f8ringslovens regler, hvorefter regnskabsmateriale skal opbevares i 5 \u00e5r fra udgangen af det relevante regnskabs\u00e5r.\n",
+      "parent_id": "f4a6d849-2d88-5fd0-8b50-5724668e7bc3",
+      "children_ids": []
+    },
+    {
+      "id": "404faa6d-b72f-575b-a46b-c226fe96eeb2",
+      "level": 2,
+      "heading": "Personaleadministration",
+      "text": "Vedr\u00f8rende behandling af personoplysninger som led i personaleadministration decentralt i de enkelte tv\u00e6rg\u00e5ende enheder henvises til afsnit 15 nedenfor.\n",
+      "parent_id": "f4a6d849-2d88-5fd0-8b50-5724668e7bc3",
+      "children_ids": []
+    },
+    {
+      "id": "c2476178-a26c-5411-84e2-60e8f7229a5a",
+      "level": 1,
+      "heading": "Behandling af personoplysninger I FORBINDELSE MED betjeningen af bestyrelser og repr\u00e6sentantskab",
+      "text": "Som led i betjeningen af bestyrelser og repr\u00e6sentantskabet skal ogs\u00e5 kun de n\u00f8dvendige personoplysninger behandles. Der behandles navn, kontaktoplysninger samt oplysninger om nuv\u00e6rende og tidligere erhverv, ligesom der behandles oplysninger relateret til fit & proper-vurderinger. Det skal sikres, at der l\u00f8bende sker ajourf\u00f8ring og sletning af personoplysninger, som ikke l\u00e6ngere er n\u00f8dvendige, f.eks. sletning af et afg\u00e5ende bestyrelsesmedlem fra vores register.\n\nFor s\u00e5 vidt ang\u00e5r bestyrelses- og repr\u00e6sentantskabsmaterialet kan der heri optr\u00e6de personoplysninger i form af typisk navne og underskrifter og resum\u00e9er af udtalelser og lignende. Materialet kan opbevares, s\u00e5 l\u00e6nge det er n\u00f8dvendigt og tjener et dokumentationsm\u00e6ssigt behov. Der kan ikke ops\u00e6ttes en generel tidsfrist for sletning af materialet, idet det m\u00e5 bero p\u00e5 en konkret vurdering. Materialet skal opbevares p\u00e5 bestemte drev samt i Admincontrol, hvor der er adgangsstyring.\n\nOplysninger relateret til udbetaling af bestyrelses- og repr\u00e6sentantskabsmedlemmernes honorarer indg\u00e5r i ATP\u2019s regnskabsmateriale, som i henhold til bogf\u00f8ringsloven skal opbevares i 5 \u00e5r efter afslutningen af det regnskabs\u00e5r, som regnskabsmaterialet vedr\u00f8rer.\n",
+      "parent_id": null,
+      "children_ids": []
+    },
+    {
+      "id": "c15afa11-025c-5f39-ab08-38da4c5aaf08",
+      "level": 1,
+      "heading": "Behandling af personoplysninger i ATP\u2019s datterselskaber",
+      "text": "De af ATP\u2019s datterselskaber, som behandler personoplysninger, er begr\u00e6nset til ATP Ejendomme og PEP. Begge datterselskaber behandler de f\u00e5 personoplysninger, som findes i mailsignaturer fra deres samarbejdspartnere mv., dvs. navn, arbejdsmail, arbejdsmobilnummer, stillingsbetegnelse og ans\u00e6ttelsessted. ATP Ejendomme har dog ogs\u00e5 oplysninger om private lejere for nogle f\u00e5 ejendomme, mens PEP har en liste over modtagere af nyhedsbreve.\n\nRegnskabsmateriale opbevares i henhold til bogf\u00f8ringslovens regler, dvs. i 5 \u00e5r efter afslutningen af det regnskabs\u00e5r, som regnskabsmaterialet vedr\u00f8rer.\n\nVedr\u00f8rende behandling af personoplysninger som led i personaleadministration decentralt i datterselskaberne henvises til afsnit 15 nedenfor, herunder jobans\u00f8gninger med CV\u2019er, som m\u00e5tte sendes til datterselskaberne direkte.\n\nBehandling af personoplysninger hos datterselskaberne skal i \u00f8vrigt ske i overensstemmelse med denne H\u00e5ndbog, herunder s\u00e6rligt H\u00e5ndbogens del 1.\n",
+      "parent_id": null,
+      "children_ids": []
+    },
+    {
+      "id": "84219a8b-adb9-5c79-bf50-ceae1cda9415",
+      "level": 1,
+      "heading": "Behandling af personoplysninger i forbindelse med personaleadministration",
+      "text": "",
+      "parent_id": null,
+      "children_ids": ["ae36044c-59bc-57ae-b9ba-e8fff7d6d4d5"]
+    },
+    {
+      "id": "ae36044c-59bc-57ae-b9ba-e8fff7d6d4d5",
+      "level": 2,
+      "heading": "Ans\u00e6ttelsesfasen",
+      "text": "",
+      "parent_id": "84219a8b-adb9-5c79-bf50-ceae1cda9415",
+      "children_ids": ["4a1774a0-91d2-530c-911c-45a42234e598"]
+    },
+    {
+      "id": "4a1774a0-91d2-530c-911c-45a42234e598",
+      "level": 3,
+      "heading": "Ans\u00f8gninger",
+      "text": "Jobans\u00f8gningerne og CV'erne kan indeholde personoplysninger, der ikke er n\u00f8dvendige for ans\u00e6ttelsesprocessen. S\u00e5danne personoplysninger kan v\u00e6re oplysninger om helbred, CPR-numre og oplysninger om fagforeningsm\u00e6ssigt tilh\u00f8rsforhold. Det b\u00f8r i videst muligt omfang sikres, at jobans\u00f8gerne, f.eks. via information om brugen af rekrutteringssystemet, er blevet informeret om, at de kun skal indsende de n\u00f8dvendige og relevante personoplysninger. Af denne grund har HR indarbejdet en vejledende tekst i HR Manager, hvor jobs\u00f8gende opfordres til kun at indsende n\u00f8dvendige og relevante oplysninger og f.eks. ikke cpr-nummer.\n\nDe personoplysninger, som fremg\u00e5r af ans\u00f8gningerne og CV\u2019erne, er sendt p\u00e5 den jobs\u00f8gendes eget aktive initiativ, og indsamlingen af oplysningerne anses i disse tilf\u00e6lde for at bero p\u00e5 den jobs\u00f8gendes samtykke. Uagtet ikke alle oplysninger er n\u00f8dvendige for at tr\u00e6ffe beslutning om mulig ans\u00e6ttelse, er det almindeligt antaget, at der ikke eksisterer en pligt for arbejdsgiveren til under rekrutteringsprocessen at tage stilling til sp\u00f8rgsm\u00e5let om sletning, f\u00f8r rekrutteringsrunden er afsluttet.\n",
+      "parent_id": "ae36044c-59bc-57ae-b9ba-e8fff7d6d4d5",
+      "children_ids": [
+        "076f1382-7e31-5db7-b9e9-34a850fd87fe",
+        "bcb2aa09-fc44-52ee-99ee-9c4f27728da4"
+      ]
+    },
+    {
+      "id": "076f1382-7e31-5db7-b9e9-34a850fd87fe",
+      "level": 4,
+      "heading": "Opbevaring af ans\u00f8gninger",
+      "text": "Som udgangspunkt skal ans\u00f8gningsmaterialet slettes efter ans\u00e6ttelsesprocessens oph\u00f8r. I nogle tilf\u00e6lde kan det dog v\u00e6re sagligt og n\u00f8dvendigt at opbevare ans\u00f8gningsmaterialet i en periode efter ans\u00e6ttelsesprocessens oph\u00f8r, hvis der f.eks. er risiko for, at vi bliver m\u00f8dt med et krav om godtg\u00f8relse for ulovlig forskelsbehandling i ans\u00e6ttelsesprocessen.\n\nDet f\u00f8lger af Datatilsynets praksis, at der af dokumentationshensyn kan opbevares indkomne jobans\u00f8gninger i 6 m\u00e5neder efter afslag, uden at den jobs\u00f8gende har givet et samtykke hertil. Af den \u00e5rsag opbevares indkomne ans\u00f8gninger i 6 m\u00e5neder i HR Manager efter rekrutteringsprocessen er afsluttet.\n",
+      "parent_id": "4a1774a0-91d2-530c-911c-45a42234e598",
+      "children_ids": []
+    },
+    {
+      "id": "bcb2aa09-fc44-52ee-99ee-9c4f27728da4",
+      "level": 4,
+      "heading": "Uopfordrede ans\u00f8gninger",
+      "text": "Det er HR\u2019s holdning, at uopfordrede ans\u00f8gninger ikke modtages i ATP. Skulle en jobs\u00f8gende henvende sig eller fremsende en ans\u00f8gning, skal p\u00e5g\u00e6ldende derfor orienteres om, ATP ikke modtager uopfordrede ans\u00f8gninger, men at p\u00e5g\u00e6ldende er velkommen til at tilknytte sig ATP\u2019s jobagent. Herudover er det ogs\u00e5 en mulighed for at oprette en forbindelse til p\u00e5g\u00e6ldende via LinkedIn for at bevare kontakten med henblik p\u00e5 en eventuel senere jobmulighed.\n",
+      "parent_id": "4a1774a0-91d2-530c-911c-45a42234e598",
+      "children_ids": [
+        "26c32ade-bdb8-53ac-9754-30971a18ccae",
+        "872090cb-a92e-511a-ae74-f788a86295aa"
+      ]
+    },
+    {
+      "id": "26c32ade-bdb8-53ac-9754-30971a18ccae",
+      "level": 3,
+      "heading": "Behandling af CPR-numre",
+      "text": "Cpr-numre m\u00e5 kun behandles i det omfang, det er n\u00f8dvendigt, f.eks. i forbindelse med indberetning til Skattestyrelsen af l\u00f8n. Behandling af cpr-numre vil sj\u00e6ldent v\u00e6re n\u00f8dvendigt forud for indg\u00e5elsen af ans\u00e6ttelseskontrakten, ligesom det i almindelighed ikke vil v\u00e6re n\u00f8dvendigt at angive i selve ans\u00e6ttelseskontrakten.\n",
+      "parent_id": "bcb2aa09-fc44-52ee-99ee-9c4f27728da4",
+      "children_ids": []
+    },
+    {
+      "id": "872090cb-a92e-511a-ae74-f788a86295aa",
+      "level": 3,
+      "heading": "Screening af jobkandidater",
+      "text": "ATP stiller krav om, at der af sikkerhedsm\u00e6ssige \u00e5rsager foretages en screening af den kandidat, som vurderes egnet til den ledige stilling. Dette f\u00f8lger af ATP\u2019s Politik om informationssikkerhed pkt. 7.3.1.1. Screeningen indeb\u00e6rer bl.a., at der tages kontakt til en jobs\u00f8gendes tidligere arbejdsgiver/e for at f\u00e5 bekr\u00e6ftet, at den jobs\u00f8gende har besat en konkret stilling og h\u00f8re n\u00e6rmere om den jobs\u00f8gendes arbejdsopgaver og kompetencer. Herudover indeb\u00e6rer det indhentelse af straffeattest.\n",
+      "parent_id": "bcb2aa09-fc44-52ee-99ee-9c4f27728da4",
+      "children_ids": [
+        "18f1869b-be50-5911-abd4-bdcbd2965a7b",
+        "ee42b524-0ea8-5aad-9a3f-e27e62c7717a"
+      ]
+    },
+    {
+      "id": "18f1869b-be50-5911-abd4-bdcbd2965a7b",
+      "level": 4,
+      "heading": "Indhentelse af referencer fra tidligere arbejdsgiver/e",
+      "text": "Ved kontakten med den tidligere arbejdsgiver m\u00e5 vi ikke sp\u00f8rge ind til f.eks. opsigelsesgrunden eller lignende fortrolige oplysninger, medmindre den jobs\u00f8gende selv har oplyst herom og er blevet informeret om, at vi vil f\u00f8lge op p\u00e5 s\u00e5danne oplysninger.\n\nEfterf\u00f8lgende skal vi huske at oplyse den jobs\u00f8gende om indsamlingen af de konkrete personoplysninger hos tidligere arbejdsgiver/e, hvis det er n\u00f8dvendigt at notere oplysninger fra referencen om den jobs\u00f8gende i sagssystemet.\n\nHR har udarbejdet et referenceskema med vejledning til, hvilke sp\u00f8rgsm\u00e5l der kan stilles i forbindelse med indhentelse af referencer. HR har truffet beslutning om, at der kun indhentes reference p\u00e5 den kandidat, der st\u00e5r forrest i ans\u00f8gerfeltet. Referenceskemaerne opbevares i HR Manager under rekrutteringsprocessen, og de slettes efter samme regler som \u00f8vrige kandidatoplysninger (ans\u00f8gning, CV og testresultater).\n\nATP skal i forbindelse med referenceindhentelsen opfylde b\u00e5de forvaltningsloven og databeskyttelsesreglerne. Efter forvaltningslovens \u00a7 29 m\u00e5 der i sager, der rejses ved ans\u00f8gning, s\u00e5 som en jobans\u00f8gning, som udgangspunkt ikke uden samtykke indhentes oplysninger om den jobs\u00f8gendes rent private forhold fra andre dele af forvaltningen eller fra en anden forvaltningsmyndighed. Dette skal sammenholdes med databeskyttelsesreglerne, hvorefter udgangspunktet for indhentelse af oplysninger fra tidligere arbejdsgivere er samtykke. Herom bem\u00e6rkes, at samtykket skal gives i overensstemmelse med databeskyttelsesreglernes indholdsm\u00e6ssige krav til samtykker og skal kunne dokumenteres efterf\u00f8lgende.\n",
+      "parent_id": "872090cb-a92e-511a-ae74-f788a86295aa",
+      "children_ids": []
+    },
+    {
+      "id": "ee42b524-0ea8-5aad-9a3f-e27e62c7717a",
+      "level": 4,
+      "heading": "Indhentelse og behandling af straffeattester",
+      "text": "Der m\u00e5 kun indhentes straffeattester, hvis det vurderes at v\u00e6re sagligt og proportionelt i forhold til den konkrete stilling, og hvis det er realistisk, at vedkommende kan komme i betragtning til stillingen. I almindelighed vil en oplysning om et tidligere strafbart forhold v\u00e6re relevant og sagligt, hvis ans\u00e6ttelsesforholdet er af en s\u00e5dan karakter, at der kan v\u00e6re en risiko for, at en forbrydelse af lignende karakter vil blive beg\u00e5et. Stillingsbetegnelsen vil derfor have betydning i forbindelse med vurderingen af, hvorvidt kravet om saglighed er opfyldt. Der skal foretages en konkret vurdering af, om der ud fra eventuelle strafbare handlinger er n\u00e6rliggende fare for misbrug af den s\u00f8gte stilling eller forhold, der skal kunne fratage den jobs\u00f8gende den agtelse eller tillid, der er en foruds\u00e6tning for at bestride den p\u00e5g\u00e6ldende stilling.\n\nBegrundet i hensynet til beskyttelse af den generelle sikkerhed og infrastruktursikkerhed p\u00e5 ATP\u2019s lokationer, herunder sikring af de v\u00e6rdier og data, som ATP er blevet betroet at forvalte af eksterne samarbejdspartnere, er det vurderet n\u00f8dvendigt at indhente straffeattester for kandidater, der tilbydes en ledig stilling.\n\nHR har valgt den tilgang, at det alene indhentes straffeattest p\u00e5 den kandidat, som man p\u00e5t\u00e6nker at tilbyde stillingen \u2013 i mods\u00e6tning til eksempelvis de sidste 2-3 egnede kandidater. HR har etableret en procedure for indhentelse af samtykke til private straffeattester samt for efterf\u00f8lgende behandling og sletning heraf. Straffeattesten udveksles via sikker mail, kun f\u00e5 udvalgte medarbejdere fra HR f\u00e5r adgang til attesten, og denne slettes med det samme, hvis det noteres, at den er \u201dblank\u201d.\n\nATP skal ogs\u00e5 i dette tilf\u00e6lde v\u00e6re opm\u00e6rksom p\u00e5 at overholde b\u00e5de forvaltningsloven og databeskyttelsesreglerne. Forvaltningslovens \u00a7 29 kr\u00e6ver, at der i sager, der rejses ved ans\u00f8gning, s\u00e5 som en jobans\u00f8gning, som udgangspunkt ikke uden samtykke indhentes oplysninger om den jobs\u00f8gendes rent private forhold fra andre dele af forvaltningen eller fra en anden forvaltningsmyndighed. Dette skal sammenholdes med databeskyttelsesreglerne, hvorefter indhentelse af straffeattester normalt vil kr\u00e6ve forudg\u00e5ende samtykke. Samtykket skal i \u00f8vrigt v\u00e6re i overensstemmelse med databeskyttelsesreglernes indholdsm\u00e6ssige krav til samtykker og skal kunne dokumenteres efterf\u00f8lgende.\n",
+      "parent_id": "872090cb-a92e-511a-ae74-f788a86295aa",
+      "children_ids": [
+        "9f76048e-73c2-5497-87e7-893d83fd8c19",
+        "3c74aaa8-4393-5f84-8692-0b28cdbdd117",
+        "72f0a6a8-6e89-5880-9868-8258e3e35c44",
+        "ac00eaf6-d234-59e7-a404-7c1f0d08c1dc"
+      ]
+    },
+    {
+      "id": "9f76048e-73c2-5497-87e7-893d83fd8c19",
+      "level": 3,
+      "heading": "F\u00e6rdigheds- og personlighedstest",
+      "text": "Der er muligt at anvende f\u00e6rdigheds- og/eller personlighedstest for visse stillinger, hvis det vurderes at v\u00e6re n\u00f8dvendigt for at bestride den p\u00e5g\u00e6ldende stilling. Det foreg\u00e5r i almindelighed ved, at en jobkandidat, som indkaldes til 2. jobsamtale, modtager et link til testene, som herefter kan gennemf\u00f8res hjemmefra forud for 2. samtale. Resultatet af testene pr\u00e6senteres af HR under 2. jobsamtale.\n\nS\u00e5danne test udg\u00f8r i udgangspunktet almindelige ikke-f\u00f8lsomme personoplysninger, hvorfor det ikke er n\u00f8dvendigt at indhente samtykke fra kandidaten forud for testenes gennemf\u00f8relse. Det vil imidlertid v\u00e6re n\u00f8dvendigt at indhente samtykke, hvis testene undtagelsesvist m\u00e5tte afsl\u00f8re f\u00f8lsomme personoplysninger om jobkandidaten, f.eks. tal- eller ordblind.\n\nTestrapporter i forbindelse med rekruttering f\u00f8lger samme sletterutine som ans\u00f8gninger, dvs. at testrapporterne opbevares i systemet i seks m\u00e5neder fra rekrutteringsprocessens afslutning. Opbevaring kan p\u00e5 baggrund af kandidatens samtykke forl\u00e6nges i yderligere seks m\u00e5neder.\n",
+      "parent_id": "ee42b524-0ea8-5aad-9a3f-e27e62c7717a",
+      "children_ids": []
+    },
+    {
+      "id": "3c74aaa8-4393-5f84-8692-0b28cdbdd117",
+      "level": 3,
+      "heading": "Indhentelse af helbredsoplysninger",
+      "text": "Vi m\u00e5 kun anmode om helbredsoplysninger under ans\u00e6ttelsesprocessen, hvis form\u00e5let er at belyse, om den jobs\u00f8gende lider eller har lidt af en sygdom, som kan have v\u00e6sentlig betydning for den jobs\u00f8gendes arbejdsdygtighed ved udf\u00f8relse af den jobs\u00f8gendes p\u00e5t\u00e6nkte arbejdsopgaver. Indhentelse og behandling af helbredsoplysninger i ans\u00e6ttelsesfasen kan derfor alene ske undtagelsesvist.\n",
+      "parent_id": "ee42b524-0ea8-5aad-9a3f-e27e62c7717a",
+      "children_ids": []
+    },
+    {
+      "id": "72f0a6a8-6e89-5880-9868-8258e3e35c44",
+      "level": 3,
+      "heading": "Indsamling af offentliggjorte personoplysninger",
+      "text": "Hvis den jobs\u00f8gende selv har offentliggjort personoplysninger p\u00e5 \u00e5bne profiler p\u00e5 sociale medier s\u00e5 som Facebook eller Twitter, kan vi som udgangspunkt frit behandle disse oplysninger. Behandlingen skal dog v\u00e6re saglig og relevant, hvorfor det er vigtigt at foretage en sortering af de personoplysninger, der kan indsamles via sociale medier eller lignende kanaler. Vi skal oplyse den jobs\u00f8gende om indsamlingen af de konkrete personoplysninger og kilden, hvorfra de er indsamlet.\n",
+      "parent_id": "ee42b524-0ea8-5aad-9a3f-e27e62c7717a",
+      "children_ids": []
+    },
+    {
+      "id": "ac00eaf6-d234-59e7-a404-7c1f0d08c1dc",
+      "level": 3,
+      "heading": "Jobans\u00f8gernes rettigheder",
+      "text": "If\u00f8lge databeskyttelsesforordningen har den registrerede (i dette tilf\u00e6lde jobans\u00f8gerne) under nogle n\u00e6rmere givne omst\u00e6ndigheder en r\u00e6kke rettigheder, herunder retten til indsigt, berigtigelse, sletning osv. ATP skal uden un\u00f8dig forsinkelse og senest 4 uger efter modtagelsen af anmodningen fra jobans\u00f8geren v\u00e6re i stand til at besvare s\u00e5danne anmodninger. For yderligere om rettigheder henvises til afsnit 5.\n\nFaste procedurer for h\u00e5ndtering af rettighedsanmodninger er under etablering og implementering.\n",
+      "parent_id": "ee42b524-0ea8-5aad-9a3f-e27e62c7717a",
+      "children_ids": ["45c52bbc-b789-5fdb-9142-56fd5557dc22"]
+    },
+    {
+      "id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "level": 2,
+      "heading": "Under ans\u00e6ttelsen",
+      "text": "",
+      "parent_id": "ac00eaf6-d234-59e7-a404-7c1f0d08c1dc",
+      "children_ids": [
+        "fb1b80af-da07-5650-ba14-a41d5d54cf84",
+        "9d78d9d6-c0c1-57ec-a94d-582772e8cb2a",
+        "34195991-f634-5789-bac5-6de7189c7f55",
+        "2bc1b7ba-e866-5815-b996-a1f920420092",
+        "f68179e3-6248-5133-9d21-bc67e82a79a1",
+        "3989c3a6-5776-50b3-a334-76c2667c697c",
+        "27b52fd5-5155-5bd2-b2d5-1a8af07aaa00",
+        "9ae6ca7c-1dc1-5ed7-bfce-4df50ecb73f4"
+      ]
+    },
+    {
+      "id": "fb1b80af-da07-5650-ba14-a41d5d54cf84",
+      "level": 3,
+      "heading": "L\u00f8bende test af kvalifikationer",
+      "text": "Det er muligt at foretage l\u00f8bende test af medarbejderens kvalifikationer. Ogs\u00e5 udviklingsforl\u00f8b i ATP s\u00e5 som talentprogrammet eller graduateforl\u00f8b, kan v\u00e6re forbundet med personlighedstest. Testene opbevares i op til 24 m\u00e5neder, hvorefter de slettes.\n\nHvis det er et eksternt konsulentfirma, der foretager testene, betragtes ATP stadig som dataansvarlig, og der skal indg\u00e5s en databehandleraftale med det eksterne konsulentfirma - se mere om databehandleraftaler i afsnit 6 ovenfor.\n",
+      "parent_id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "children_ids": []
+    },
+    {
+      "id": "9d78d9d6-c0c1-57ec-a94d-582772e8cb2a",
+      "level": 3,
+      "heading": "Sygefrav\u00e6r",
+      "text": "oplysning om, at medarbejderen er syg uden angivelse af \u00e5rsagen til sygdommen samt omfanget af sygefrav\u00e6ret og antal dage er almindelige ikke-f\u00f8lsomme personoplysninger, og disse oplysninger kan derfor behandles uden samtykke, se afsnit 2.2.\n\nOplysning om \u00e5rsagen til sygefrav\u00e6ret er derimod en oplysning om helbred og dermed en f\u00f8lsom personoplysning, der som udgangspunkt alene kan behandles ved indhentelse af medarbejderens udtrykkelige samtykke, se afsnit 2.3.\n\nHvis medarbejderen selv oplyser om \u00e5rsagen til sygefrav\u00e6ret, m\u00e5 vi som udgangspunkt kun behandle personoplysningerne p\u00e5 grundlag af arbejdsretlige forpligtelser eller f.eks. til brug for, at et retskrav kan fastl\u00e6gges, g\u00f8res g\u00e6ldende eller forsvares.\n",
+      "parent_id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "children_ids": []
+    },
+    {
+      "id": "34195991-f634-5789-bac5-6de7189c7f55",
+      "level": 3,
+      "heading": "Offentligg\u00f8relse af billeder og personoplysninger om medarbejderne p\u00e5 internettet",
+      "text": "Portr\u00e6tbilleder eller situationsbilleder, dvs. billeder, hvor en aktivitet eller situation er det egentlige form\u00e5l med billedet af medarbejdere, som offentligg\u00f8res p\u00e5 ATP\u2019s hjemmeside eller sider p\u00e5 sociale medier, kr\u00e6ver som udgangspunkt medarbejdernes samtykke. Bem\u00e6rk, at samtykket skal opfylde de indholdsm\u00e6ssige krav til samtykke efter databeskyttelsesreglerne.\n\nPortr\u00e6tbilleder og situationsbilleder, som alene bruges internt f.eks. p\u00e5 medarbejderportalen, kr\u00e6ver ikke medarbejderens samtykke.\n\nVi m\u00e5 som udgangspunkt offentligg\u00f8re arbejdsrelaterede oplysninger om vores medarbejdere p\u00e5 vores hjemmeside. Det er f.eks. e-mailadresse og arbejdstelefonnummer. Vi m\u00e5 derimod kun offentligg\u00f8re oplysninger af mere privat karakter, s\u00e5 som medarbejderens privatadresse, hvis medarbejderen har givet forudg\u00e5ende samtykke hertil.\n",
+      "parent_id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "children_ids": []
+    },
+    {
+      "id": "2bc1b7ba-e866-5815-b996-a1f920420092",
+      "level": 3,
+      "heading": "Hjemmearbejdspladser",
+      "text": "HR har en generel holdning om, at der ikke etableres deciderede hjemmearbejdspladser for vores medarbejdere.\n\nHvis det undtagelsesvist tillades, at medarbejderne etablerer en hjemmearbejdsplads, dvs. opstiller en pc i medarbejderens hjem med forbindelse til vores IT-system, skal vi v\u00e6re opm\u00e6rksomme p\u00e5, at Datatilsynet har opsat sikkerhedsforanstaltninger, herunder krav til:\n\n- Lagring af personoplysninger \u2013 hvis det er n\u00f8dvendigt, skal oplysningerne krypteres.\n- Udskrivning \u2013 hvis udskrivning ikke kan undg\u00e5s, skal vi fasts\u00e6tte regler herfor.\n- Retningslinjer for privat brug af hjemmearbejdspladsen\n- Fysisk sikkerhed \u2013 der kan v\u00e6re st\u00f8rre risiko for tyveri, h\u00e6rv\u00e6rk og uvedkommende adgang i hjemmet.\n- Anvendelse af opkaldslinjer \u2013 beskyttelse mod indgreb ved passwordbeskyttelse, tilbagekald og lukkede brugergrupper.\n",
+      "parent_id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "children_ids": []
+    },
+    {
+      "id": "f68179e3-6248-5133-9d21-bc67e82a79a1",
+      "level": 3,
+      "heading": "E-mailkorrespondance",
+      "text": "Mailkorrespondance, som indeholder f\u00f8lsomme og/eller fortrolige personoplysninger, b\u00f8r i videst muligt omfang begr\u00e6nses. Hvis e-mails indeholdende f\u00f8lsomme og/eller fortrolige personoplysninger skal sendes, skal det sikres, at kun de helt n\u00f8dvendige kolleger modtager oplysningerne. Det er vigtigt, at personoplysninger lagres i de systemer, hvor de h\u00f8rer til, og at personoplysninger i indbakker slettes.\n\nInternt i ATP, dvs. mellem to <xxx@atp.dk-mails>, kan der sendes sikkert. Skal der ske fremsendelse til eksterne uden for ATP, er der krav om, at mails indeholdende f\u00f8lsomme eller fortrolige personoplysninger sendes krypteret. Der henvises til afsnit 4 overfor ang\u00e5ende kryptering.\n",
+      "parent_id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "children_ids": []
+    },
+    {
+      "id": "3989c3a6-5776-50b3-a334-76c2667c697c",
+      "level": 3,
+      "heading": "Opbevaring af fysisk materiale som indeholder f\u00f8lsomme personoplysninger",
+      "text": "H\u00e5ndtering af personalesager sker i udgangspunktet i elektroniske systemer. Er det n\u00f8dvendigt at printe materiale, sker dette med follow-me-print, s\u00e5ledes at det sikres, at uvedkommende ikke f\u00e5r adgang til det. Fysisk materiale, som indeholder f\u00f8lsomme personoplysninger, opbevares afl\u00e5st. N\u00e5r det fysiske materiale med f\u00f8lsomme personoplysninger ikke l\u00e6ngere er n\u00f8dvendigt at opbevare, skal dette makuleres.\n",
+      "parent_id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "children_ids": []
+    },
+    {
+      "id": "27b52fd5-5155-5bd2-b2d5-1a8af07aaa00",
+      "level": 3,
+      "heading": "Kontrol og overv\u00e5gning af medarbejdere",
+      "text": "ATP har omkring 3000 medarbejdere, der administrerer ATP og de af ATP administrerede ordninger. Som led i administrationen af ordningerne udbetales hvert \u00e5r milliarder af kroner til store dele af den danske befolkning. Med henblik p\u00e5 at undg\u00e5 misbrug og ageren i strid med interne regler og retningslinjer foretages derfor overv\u00e5gning og kontrol af medarbejdernes adf\u00e6rd i systemerne og brug af internettet. P\u00e5 den m\u00e5de er der mulighed for at unders\u00f8ge mist\u00e6nkelig adf\u00e6rd. Unders\u00f8gelse kan f.eks. best\u00e5 i unders\u00f8gelse af medarbejderens uberettigede opslag i vores systemer, unders\u00f8gelse af medarbejderens offentlige profiler p\u00e5 sociale medier mv.\n\nHvis det viser sig, at medarbejderen har misbrugt sin stilling eller i \u00f8vrigt udvist en adf\u00e6rd, som strider mod ATP\u2019s interne regler, vil medarbejderen blive indkaldt til en tjenestelig samtale med HR, som herefter vil vurdere, hvad der videre skal ske i sagen.\n\nDa de personoplysninger, som behandles som led i unders\u00f8gelsen af det mist\u00e6nkelige forhold, kan udg\u00f8re et potentielt kriminelt forhold, skal der udvises s\u00e6rlig opm\u00e6rksomhed. Sagerne skal derfor h\u00e5ndteres af f\u00e5 udvalgte medarbejdere, og oplysninger skal lagres p\u00e5 lukkede drev, hvor kun de udvalgte har adgang til. N\u00e5r sagen er endeligt tilendebragt fra ATP\u2019s side, f.eks. n\u00e5r anmeldelse er indgivet til politiet, og et eventuelt krav er ikke l\u00e6ngere er aktuelt, skal oplysningerne p\u00e5 drevet slettes.\n\nOpm\u00e6rksomheden henledes p\u00e5 oplysningspligten, som omtalt i afsnit 5.1.1 overfor, som ogs\u00e5 g\u00e6lder i disse tilf\u00e6lde. Udgangspunktet er, at informationen om behandlingen (oplysningspligten) skal meddeles p\u00e5 tidspunktet for behandlingen. Dog indeholder databeskyttelsesloven mulighed for at undtage oplysningspligten, hvis afg\u00f8rende hensyn taler herfor. Dette kan f.eks. v\u00e6re et hensyn til forebyggelse eller afsl\u00f8ring af et muligt strafbart forhold. Muligheden for at undtage oplysningspligten er dog tidsm\u00e6ssigt begr\u00e6nset, indtil der ikke l\u00e6ngere er en hensyn, som taler for opretholdelse af hemmeligholdelsen. Det betyder, at s\u00e5 snart sagen er afsluttet, og medarbejderen indkaldes til en tjeneste samtale, hvor p\u00e5g\u00e6ldende underrettes om det unders\u00f8gte forhold, vil der ikke l\u00e6ngere v\u00e6re et hensyn til fortsat hemmeligholdelse, og informationen om behandlingen skal derfor gives p\u00e5 dette tidspunkt. HR har en skabelon for information om behandlingen til netop disse tilf\u00e6lde.\n",
+      "parent_id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "children_ids": []
+    },
+    {
+      "id": "9ae6ca7c-1dc1-5ed7-bfce-4df50ecb73f4",
+      "level": 3,
+      "heading": "ATP\u2019s whistleblowerordning",
+      "text": "For at opretholde den agtelse og trov\u00e6rdighed, som hviler p\u00e5 ATP, og med henblik p\u00e5 at v\u00e6re \u00e5ben og transparent i den m\u00e5de, som ATP forvalter midlerne, har ATP etableret en whistleblowerordning. Whistleblowerordningen giver alle ansatte mulighed for anonymt at kunne rapportere kritisable og ulovlige forhold i ATP og ATP\u2019s datterselskaber.\n\nI denne forbindelse behandles personoplysninger om de personer, som anmelderen v\u00e6lger at angive i anmeldelsen, herunder navn, kontaktoplysninger og beskrivelse af det anmeldte forhold, som kan v\u00e6re en oplysning om et potentielt strafbart forhold. Der vil ikke blive behandlet personoplysninger om den medarbejder, som anmelder, medmindre p\u00e5g\u00e6ldende aktivt v\u00e6lger at anf\u00f8re sine identitetsoplysninger i anmeldelsen. Anmeldelser i ordningen h\u00e5ndteres efter en fast procedure af Risikostyring & Compliance i samarbejde med en ekstern advokat.\n\nFor yderligere om behandling af personoplysninger i relation til whistleblowerordningen, herunder form\u00e5let, kategorier af personer, modtagere, opbevaringsperiode mv. henvises til beskrivelsen p\u00e5 medarbejderportalen [her](https://atpdk.sharepoint.com/sites/VoresATP/SitePages/Whistleblower.aspx).\n",
+      "parent_id": "45c52bbc-b789-5fdb-9142-56fd5557dc22",
+      "children_ids": ["bec453ee-3faf-5b86-b0eb-e8e18bde9ee3"]
+    },
+    {
+      "id": "bec453ee-3faf-5b86-b0eb-e8e18bde9ee3",
+      "level": 2,
+      "heading": "Efter ans\u00e6ttelsens oph\u00f8r",
+      "text": "",
+      "parent_id": "9ae6ca7c-1dc1-5ed7-bfce-4df50ecb73f4",
+      "children_ids": [
+        "84b985ac-08eb-5c77-846b-1bb07192b5c8",
+        "9abacaac-4d03-546b-8252-eda45f2c0c81"
+      ]
+    },
+    {
+      "id": "84b985ac-08eb-5c77-846b-1bb07192b5c8",
+      "level": 3,
+      "heading": "Fortsat opbevaring af personoplysninger efter fratr\u00e6delse",
+      "text": "Personalesager opbevares i 5 \u00e5r regnet fra udgangen af det \u00e5r, hvor ans\u00e6ttelsesoph\u00f8r fandt sted. Opbevaringsperioden er begrundet i for\u00e6ldelseslovens almindelige regel om for\u00e6ldelse af fordringer, der udspringer af ans\u00e6ttelsesforhold, herunder f.eks. et krav p\u00e5 l\u00f8n, en sag om usaglig opsigelse, forskelsbehandling eller berettigelse af en bortvisning.\n\nEn proces for screening af personalesager for fratr\u00e5dte medarbejdere for indhold af f\u00f8lsom karakter, herunder mulighedserkl\u00e6ring, advarsler mv., er under etablering og implementering.\n",
+      "parent_id": "bec453ee-3faf-5b86-b0eb-e8e18bde9ee3",
+      "children_ids": []
+    },
+    {
+      "id": "9abacaac-4d03-546b-8252-eda45f2c0c81",
+      "level": 3,
+      "heading": "Ekstern og intern kommunikation ved fratr\u00e6delse",
+      "text": "N\u00e5r det eksternt s\u00e5 vel som internt skal kommunikeres, at en medarbejder er fratr\u00e5dt, skal ATP alene oplyse, hvad der er relevant for modtagerne at vide. Det vil ofte kun v\u00e6re relevant for modtagerne at vide, at medarbejderen er fratr\u00e5dt p\u00e5 en angiven dato. Det vil derimod sj\u00e6ldent v\u00e6re relevant for modtagerne at kende \u00e5rsagen til fratr\u00e6delsen.\n\nVed anvendelse af en fratr\u00e5dt medarbejders e-mailkonto, er der tale om behandling af personoplysninger. Datatilsynet har fastlagt f\u00f8lgende retningslinjer for en s\u00e5dan behandling:\n\n- N\u00e5r en medarbejder har forladt arbejdspladsen og ikke l\u00e6ngere kan f\u00e5 adgang til sin personlige e-mailkonto p\u00e5 arbejdspladsen, m\u00e5 e-mailkontoen kun holdes aktiv i en periode, der\u00a0er s\u00e5 kort som mulig.\n- Periodens l\u00e6ngde fasts\u00e6ttes under hensyntagen til den fratr\u00e5dte medarbejders stilling og funktion og kan maksimalt v\u00e6re p\u00e5 12 m\u00e5neder.\n- Snarest muligt efter, at medarbejderen har forladt arbejdspladsen og ikke l\u00e6ngere kan f\u00e5 adgang til sin personlige e-mailkonto, s\u00e6ttes et autosvar p\u00e5 e-mailkontoen med besked om medarbejderens fratr\u00e6delse og eventuel anden relevant information.\n- Den aktive e-mailkonto benyttes kun til modtagelse af e-mails \u2013 hvis der modtages private e-mails, kan e-mailkontoen dog benyttes til videresendelse af disse til den fratr\u00e5dte medarbejders private e-mailkonto.\n- Oplysninger om den personlige e-mailadresse skal hurtigst muligt fjernes fra arbejdspladsens hjemmeside og andre offentligt tilg\u00e6ngelige informationssteder.\n- Kun en enkelt eller ganske f\u00e5 betroede medarbejdere b\u00f8r have adgang til den fratr\u00e5dte medarbejders personlige e-mailkonto.\n- Reglerne om de registreredes rettigheder, herunder reglerne om oplysningspligt, indsigt mv., skal iagttages, n\u00e5r en arbejdsgiver holder en fratr\u00e5dt medarbejders e-mailkonto \u00e5ben.\n- Arbejdsgivere anbefales at forholde sig til sp\u00f8rgsm\u00e5let om h\u00e5ndtering af fratr\u00e5dte medarbejderes e-mailkonti og informere medarbejderne herom, f.eks. i en personaleh\u00e5ndbog eller HR-politik.\n\nI forhold til private e-mails henledes opm\u00e6rksomheden p\u00e5 straffelovens regler om brevhemmelighed. Disse regler medf\u00f8rer i hovedtr\u00e6k, at ATP ikke m\u00e5 l\u00e6se private e-mails, selvom de findes i den fratr\u00e5dte medarbejders e-mailkonto tilh\u00f8rende ATP som arbejdsgiver. Af HR\u2019s retningslinjer, som findes [her](https://atpdk.sharepoint.com/sites/VoresATP/SitePages/Retningslinjer-for-brug-af-Internet-og-e-mails.aspx) p\u00e5 medarbejderportalen, f\u00f8lger, at medarbejdere skal markere private mails som \u201dPrivat\u201d i emnefeltet, s\u00e5ledes at det netop undg\u00e5s, at der l\u00e6ses private ikke-arbejdsrelaterede e-mails.\n\nKoncernjura, april 2019\n",
+      "parent_id": "bec453ee-3faf-5b86-b0eb-e8e18bde9ee3",
+      "children_ids": []
+    },
+    {
+      "id": "83ecc727-7ae3-5a5f-8bca-380b6cf19feb",
+      "level": 1,
+      "heading": "Fodnoter",
+      "text": "1. Dog med undtagelse af FK, hvor STAR er den dataansvarlige samt LFM, hvor LD Fonde er den dataansvarlige. [\u2191](#footnote-ref-1)\n2. For yderligere om aktindsigt henvises til [Aktindsigtsh\u00e5ndbogen](http://medarbejderportalen.prod.atp.local/proces/juridiskeretningslinjer/Aktindsigt/Sider/default.aspx) p\u00e5 medarbejderportalen. [\u2191](#footnote-ref-2)\n3. Kryptering er en sikkerhedsforanstaltning, hvor personoplysninger forvanskes eller maskeres, s\u00e5ledes at de ikke kan l\u00e6ses af udefrakommende. Krypterede oplysninger er personoplysninger, da det er muligt at dekryptere oplysningerne. Anvendes derimod irreversibel kryptering (data krypteres, og n\u00f8glen smides v\u00e6k), vil der ikke l\u00e6ngere v\u00e6re tale om personoplysninger. [\u2191](#footnote-ref-3)\n4. I det omfang det vurderes, at der ikke foreligger en databehandlerkonstruktion mellem vikar- eller konsulentbureauet, vil der v\u00e6re tale om videregivelse af personoplysninger mellem 2 dataansvarlige. I disse tilf\u00e6lde b\u00f8r der indg\u00e5s en fortrolighedsaftale/NDA mellem parterne, hvis dette ikke i forvejen er reguleret i en hovedaftale mellem parterne \u2013 dette fremg\u00e5r af vores retningslinjer for informationssikkerhed pkt. 7.3.1.2. [\u2191](#footnote-ref-4)\n5. Databeskyttelsesr\u00e5det er et uafh\u00e6ngigt EU-organ, som skal sikre en ensartet anvendelse af databeskyttelsesforordningen i hele EU. Databeskyttelsesr\u00e5det best\u00e5r af repr\u00e6sentanter for EU-medlemsstaternes tilsynsmyndigheder samt Den Europ\u00e6iske Tilsynsf\u00f8rende for Databeskyttelse og har bl.a. til form\u00e5l at vejlede om databeskyttelsesregler og tr\u00e6ffe bindende afg\u00f8relser om fortolkningen af databeskyttelsesreglerne for at sikre et ensartet niveau p\u00e5 tv\u00e6rs af medlemsstaterne. [\u2191](#footnote-ref-5)\n6. ATP er en selvejende institution, et s\u00e6rligt forvaltningsorgan, omfattet af de offentligretlige regler og dermed en del af den offentlige forvaltning. [\u2191](#footnote-ref-6)\n7. Dvs. fiktive, selvopfundne data, der ikke kan henf\u00f8res til en bestemt fysisk person, f.eks. Anders Andersen, cpr.nr. 012345-6789. [\u2191](#footnote-ref-7)\n8. Pseudonymisering er behandling af personoplysninger p\u00e5 en s\u00e5dan m\u00e5de, at personoplysningerne ikke l\u00e6ngere kan henf\u00f8res til en bestemt registreret uden brug af supplerende oplysninger, forudsat at s\u00e5danne supplerende oplysninger opbevares separat og er underlagt tekniske og organisatoriske foranstaltninger for at sikre, at personoplysningerne ikke henf\u00f8res til en identificeret eller identificerbar fysisk person. [\u2191](#footnote-ref-8)\n9. Aggregering er summarisk behandling af oplysninger om flere individer, som er blevet samlet og kombineret uden fokus p\u00e5 det enkelte individ. De er kun anonyme, hvis der ikke er nogen, der kan genkende personerne ud fra oplysningerne eller ved kombination med andre oplysninger. [\u2191](#footnote-ref-9)",
+      "parent_id": null,
+      "children_ids": []
+    }
+  ]
+}

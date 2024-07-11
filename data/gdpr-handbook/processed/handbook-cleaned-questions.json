@@ -1,0 +1,831 @@
+{
+  "questions": [
+    {
+      "question": "Hvilket princip skal følges, når man behandler personoplysninger?",
+      "section_id": "0bff0af3-414c-53e3-af87-c2fda409b903",
+      "section_heading": "Håndbog for behandling af personoplysninger i ATP Koncernen",
+      "phrases": [
+        "Behandl personoplysninger efter princippet om ”need to have” og ikke ”nice to have”"
+      ],
+      "reference_answers": [
+        "Personoplysninger skal behandles efter princippet om 'need to have' og ikke 'nice to have'."
+      ]
+    },
+    {
+      "question": "Hvem kan kontaktes for assistance vedrørende behandling af personoplysninger?",
+      "section_id": "0bff0af3-414c-53e3-af87-c2fda409b903",
+      "section_heading": "Håndbog for behandling af personoplysninger i ATP Koncernen",
+      "phrases": ["er du velkommen til at kontakte Koncernjura"],
+      "reference_answers": [
+        "Hvis du efter at have læst denne Håndbog har nogle spørgsmål, noget du ønsker at få afklaret yderligere eller har brug for assistance til at løse en problemstilling vedrørende behandling af personoplysninger, er du velkommen til at kontakte Koncernjura."
+      ]
+    },
+    {
+      "question": "Hvad skal jeg gøre ved brud på persondatasikkerheden?",
+      "section_id": "0bff0af3-414c-53e3-af87-c2fda409b903",
+      "section_heading": "Håndbog for behandling af personoplysninger i ATP Koncernen",
+      "phrases": ["straks orientere din leder"],
+      "reference_answers": [
+        "Ved brud på persondatasikkerheden skal du straks orientere din leder, som vil håndtere bruddet efter denne procedure."
+      ]
+    },
+    {
+      "question": "Hvilke typer af personoplysninger behandler ATP?",
+      "section_id": "0bff0af3-414c-53e3-af87-c2fda409b903",
+      "section_heading": "Håndbog for behandling af personoplysninger i ATP Koncernen",
+      "phrases": [
+        "personoplysninger om medlemmer og borgere samt disses relationer",
+        "personoplysninger om egne medarbejdere og bestyrelses- og repræsentantskabsmedlemmer"
+      ],
+      "reference_answers": [
+        "ATP behandler personoplysninger om medlemmer og borgere samt disses relationer. Herudover behandler ATP personoplysninger om egne medarbejdere og bestyrelses- og repræsentantskabsmedlemmer."
+      ]
+    },
+    {
+      "question": "Hvad skal du gøre med e-mails med personoplysninger, som du modtager?",
+      "section_id": "0bff0af3-414c-53e3-af87-c2fda409b903",
+      "section_heading": "Håndbog for behandling af personoplysninger i ATP Koncernen",
+      "phrases": [
+        "overføres til relevant system og herefter slettes fra indbakken"
+      ],
+      "reference_answers": [
+        "E-mails og tilhørende vedhæftninger, som du sender eller modtager, skal overføres til relevant system og herefter slettes fra indbakken."
+      ]
+    },
+    {
+      "question": "Hvad betyder personoplysninger?",
+      "section_id": "eac00a9d-b01d-50e7-9ec1-f6fcbdb7df95",
+      "section_heading": "Håndbogens DEL I – Behandling af personoplysninger på tværs af ATP",
+      "phrases": [
+        "enhver form for information om en identificeret eller identificerbar fysisk person"
+      ],
+      "reference_answers": [
+        "Personoplysninger betyder enhver form for information om en identificeret eller identificerbar fysisk person. Dette inkluderer oplysninger som navn, identifikationsnummer, lokaliseringsdata, onlineidentifikatorer eller andre elementer, der er særlige for denne persons identitet. Selv oplysninger, som ikke umiddelbart kan afkodes, betragtes som personoplysninger, hvis de i sidste ende kan henføres til en fysisk person."
+      ]
+    },
+    {
+      "question": "Hvad er en dataansvarlig?",
+      "section_id": "eac00a9d-b01d-50e7-9ec1-f6fcbdb7df95",
+      "section_heading": "Håndbogens DEL I – Behandling af personoplysninger på tværs af ATP",
+      "phrases": [
+        "den fysiske eller juridiske person, en offentlig myndighed, en institution eller et andet organ, der alene eller sammen med andre afgør, til hvilke formål og med hvilke hjælpemidler der må foretages behandling af personoplysninger"
+      ],
+      "reference_answers": [
+        "En dataansvarlig er den fysiske eller juridiske person, en offentlig myndighed, en institution eller et andet organ, der alene eller sammen med andre afgør, til hvilke formål og med hvilke hjælpemidler der må foretages behandling af personoplysninger. Dataansvarlige bestemmer, hvilke personoplysninger der skal indsamles, opbevares og eventuelt videregives, hvordan behandlingen i øvrigt skal finde sted, og hvornår personoplysningerne skal slettes."
+      ]
+    },
+    {
+      "question": "Hvad er en databehandler?",
+      "section_id": "eac00a9d-b01d-50e7-9ec1-f6fcbdb7df95",
+      "section_heading": "Håndbogens DEL I – Behandling af personoplysninger på tværs af ATP",
+      "phrases": [
+        "en fysisk eller juridisk person, en offentlig myndighed, en institution eller et andet organ, der behandler personoplysninger på den dataansvarliges vegne"
+      ],
+      "reference_answers": [
+        "En databehandler er en fysisk eller juridisk person, en offentlig myndighed, en institution eller et andet organ, der behandler personoplysninger på den dataansvarliges vegne. En databehandler har således ikke et selvstændigt formål med behandlingen af personoplysninger, men bistår den dataansvarlige og handler udelukkende på vegne og efter instruks af den dataansvarlige. F.eks. er en it-leverandør en databehandler, idet leverandøren tilrådighedsstiller et system, hvori personoplysninger fra den dataansvarlige lagres og behandles."
+      ]
+    },
+    {
+      "question": "Hvad er eksempler på identifikatorer, der kan identificer en fysisk person?",
+      "section_id": "eac00a9d-b01d-50e7-9ec1-f6fcbdb7df95",
+      "section_heading": "Håndbogens DEL I – Behandling af personoplysninger på tværs af ATP",
+      "phrases": [
+        "et navn, et identifikationsnummer, lokaliseringsdata, en onlineidentifikator"
+      ],
+      "reference_answers": [
+        "Eksempler på identifikatorer, der kan identificere en fysisk person, inkluderer navn, identifikationsnummer, lokaliseringsdata og onlineidentifikator."
+      ]
+    },
+    {
+      "question": "Hvad betyder behandling af personoplysninger?",
+      "section_id": "eac00a9d-b01d-50e7-9ec1-f6fcbdb7df95",
+      "section_heading": "Håndbogens DEL I – Behandling af personoplysninger på tværs af ATP",
+      "phrases": [
+        "enhver aktivitet eller række af aktiviteter — med eller uden brug af automatisk behandling — som personoplysninger eller en samling af personoplysninger gøres til genstand for"
+      ],
+      "reference_answers": [
+        "Behandling af personoplysninger betyder enhver aktivitet eller række af aktiviteter — med eller uden brug af automatisk behandling — som personoplysninger eller en samling af personoplysninger gøres til genstand for, f.eks. indsamling, registrering, organisering, systematisering, opbevaring, tilpasning eller ændring, genfinding, søgning, brug, videregivelse ved transmission, formidling eller enhver anden form for overladelse, sammenstilling eller samkøring, begrænsning, sletning eller tilintetgørelse."
+      ]
+    },
+    {
+      "question": "Hvad er et eksempel på almindelige personoplysninger?",
+      "section_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "section_heading": "Lovligheden af behandlingen",
+      "phrases": [
+        "navn, fødselsdato, kontaktoplysninger såsom adresse, telefonnummer og e-mail, indkomstoplysninger, oplysninger relateret til indberetning, opkrævning og udbetaling af beløb på ydelse mv."
+      ],
+      "reference_answers": [
+        "Et eksempel på almindelige personoplysninger er navn, fødselsdato, kontaktoplysninger såsom adresse, telefonnummer og e-mail."
+      ]
+    },
+    {
+      "question": "Hvad kræves der som udgangspunkt for at behandle personoplysninger om tidligere straffedomme og lovovertrædelser?",
+      "section_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "section_heading": "Lovligheden af behandlingen",
+      "phrases": [
+        "Behandling af disse personoplysninger kræver som udgangspunkt udtrykkeligt samtykke fra de registrerede"
+      ],
+      "reference_answers": [
+        "Behandling af personoplysninger om tidligere straffedomme og lovovertrædelser kræver som udgangspunkt udtrykkeligt samtykke fra de registrerede, men kan også ske, hvis det er nødvendigt for at varetage en myndighedsopgave."
+      ]
+    },
+    {
+      "question": "Hvilke typer oplysninger betragtes som følsomme personoplysninger?",
+      "section_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "section_heading": "Lovligheden af behandlingen",
+      "phrases": [
+        "Følsomme personoplysninger er oplysninger om race eller etnisk oprindelse, politisk, religiøs eller filosofisk overbevisning, fagforeningsmæssigt tilhørsforhold, genetiske og biometriske data med det formål entydigt at identificere en fysisk person, helbredsoplysninger eller oplysninger om seksuelle forhold eller seksuel orientering"
+      ],
+      "reference_answers": [
+        "Følsomme personoplysninger omfatter oplysninger om race eller etnisk oprindelse, politisk, religiøs eller filosofisk overbevisning, fagforeningsmæssigt tilhørsforhold, genetiske og biometriske data med det formål entydigt at identificere en fysisk person, helbredsoplysninger eller oplysninger om seksuelle forhold eller seksuel orientering."
+      ]
+    },
+    {
+      "question": "Hvad er formålet med at anvende CPR-numre?",
+      "section_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "section_heading": "Lovligheden af behandlingen",
+      "phrases": [
+        "Både i personalemæssig sammenhæng og i Administrationsforretningen anvendes cpr-numre for at sikre entydig identifikation af henholdsvis medarbejdere og medlemmer/borgere"
+      ],
+      "reference_answers": [
+        "Formålet med at anvende CPR-numre er at sikre entydig identifikation af medarbejdere og medlemmer/borgere både i personalemæssig sammenhæng og i Administrationsforretningen. Videregivelse af CPR-numre kan også finde sted for at leve op til en retlig forpligtelse, herunder indberetning af oplysninger til Skattestyrelsen."
+      ]
+    },
+    {
+      "question": "På hvilket grundlag kan almindelige personoplysninger behandles i Administrationsforretningen?",
+      "section_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "section_heading": "Lovligheden af behandlingen",
+      "phrases": [
+        "led i udførelsen af en myndighedsopgave, som ATP, herunder en ordning i ATP, er blevet pålagt i henhold til særlov"
+      ],
+      "reference_answers": [
+        "Almindelige personoplysninger kan i Administrationsforretningen ofte behandles som led i udførelsen af en myndighedsopgave, som ATP, herunder en ordning i ATP, er blevet pålagt i henhold til særlov."
+      ]
+    },
+    {
+      "question": "Under hvilke omstændigheder kan følsomme personoplysninger behandles?",
+      "section_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "section_heading": "Lovligheden af behandlingen",
+      "phrases": [
+        "samtykke fra de registrerede, på grundlag af arbejdsretlige forpligtelser eller til brug for, at et retskrav kan fastlægges, gøres gældende eller forsvares"
+      ],
+      "reference_answers": [
+        "Behandling af følsomme personoplysninger er som hovedregel forbudt, men kan finde sted, hvis der foreligger et samtykke fra de registrerede, på grundlag af arbejdsretlige forpligtelser eller for at fastlægge, gøre gældende eller forsvare et retskrav."
+      ]
+    },
+    {
+      "question": "Hvad bestemmer, om en oplysning skal anses for fortrolig?",
+      "section_id": "94b2bafa-b0b0-54e2-9dd8-508ae6023484",
+      "section_heading": "Lovligheden af behandlingen",
+      "phrases": [
+        "en vurdering af, om oplysningen efter den almindelige opfattelse i samfundet bør kunne forlanges unddraget offentlighedens kendskab"
+      ],
+      "reference_answers": [
+        "Afgørende for, om en oplysning skal anses for fortrolig, er en vurdering af, om oplysningen efter den almindelige opfattelse i samfundet bør kunne forlanges unddraget offentlighedens kendskab, jf. straffelovens § 152 og forvaltningslovens § 27."
+      ]
+    },
+    {
+      "question": "Til hvem må ATP udlevere personoplysninger?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": [
+        "ATP må kun udlevere personoplysninger til de personer, som er berettiget til at modtage dem."
+      ],
+      "reference_answers": [
+        "ATP må kun udlevere personoplysninger til de personer, som er berettiget til at modtage dem."
+      ]
+    },
+    {
+      "question": "Hvordan skal jeg udlevere personoplysninger til sagsparten selv?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": [
+        "skal du i udgangspunktet sende oplysninger via Digital Post"
+      ],
+      "reference_answers": [
+        "Hvis du skal udlevere personoplysninger til sagsparten selv, skal du i udgangspunktet sende oplysninger via Digital Post. Ved telefonsamtaler skal du sikre dig, at det rent faktisk er sagsparten, du taler med, for at undgå uberettiget videregivelse af oplysninger."
+      ]
+    },
+    {
+      "question": "Må jeg udlevere data til forskningsformål?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": ["skal du rette henvendelse til Koncernjura"],
+      "reference_answers": [
+        "Modtager du en anmodning om udlevering af data fra ATP-ordningen til forskningsformål, skal du rette henvendelse til Koncernjura, som herefter vil håndtere anmodningen efter en nærmere procedure."
+      ]
+    },
+    {
+      "question": "Må jeg udlevere personoplysninger over telefonen?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": [
+        "sikrer dig, at det rent faktisk er sagsparten, du taler med"
+      ],
+      "reference_answers": [
+        "Ja, men du skal sikre dig, at du rent faktisk taler med sagsparten ved at stille sagsspecifikke kontrolspørgsmål, som kun parten i en sag kender svaret på."
+      ]
+    },
+    {
+      "question": "Kan jeg udlevere personoplysninger til andre end sagsparten?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": [
+        "sikre dig, at modtageren er berettiget til at få udleveret oplysningerne"
+      ],
+      "reference_answers": [
+        "Ja, du kan udlevere personoplysninger til andre end sagsparten, men du skal sikre dig, at modtageren er berettiget til at få udleveret oplysningerne. Der skal være et retsgrundlag for behandlingen, og de grundlæggende principper for behandling af personoplysninger skal være overholdt. Hvis modtageren har en fuldmagt eller et værgemål over sagsparten, kan oplysningerne udleveres uden videre, forudsat oplysningerne er inden for fuldmagtens eller værgemålets rammer."
+      ]
+    },
+    {
+      "question": "Hvad er nødvendigt for at udlevere personoplysninger til andre end sagsparten?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": ["der skal være et retsgrundlag for behandlingen"],
+      "reference_answers": [
+        "For at udlevere personoplysninger til andre end sagsparten, skal du sikre dig, at modtageren er berettiget til at få udleveret oplysningerne. Dette indebærer, at de grundlæggende principper for behandling af personoplysninger skal være overholdt, og der skal være et retsgrundlag for behandlingen. Hvis modtageren har en fuldmagt eller et værgemål over sagsparten, kan oplysningerne udleveres uden videre, så længe de er inden for fuldmagtens eller værgemålets rammer."
+      ]
+    },
+    {
+      "question": "Hvornår kan personoplysninger udleveres problemfrit til andre end sagsparten?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": [
+        "Har pågældende en fuldmagt eller et værgemål over sagsparten, kan oplysningerne udleveres uden videre"
+      ],
+      "reference_answers": [
+        "Personoplysninger kan udleveres problemfrit til andre end sagsparten, hvis modtageren har en fuldmagt eller et værgemål over sagsparten, og oplysningerne er inden for fuldmagtens eller værgemålets rammer."
+      ]
+    },
+    {
+      "question": "Hvilke spørgsmål skal jeg stille for at sikre identiteten af modtager før udlevering af personoplysninger?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": [
+        "sagsspecifikke kontrolspørgsmål, som kun parten i en sag kender svaret på"
+      ],
+      "reference_answers": [
+        "Du skal stille sagsspecifikke kontrolspørgsmål, som kun parten i en sag kender svaret på. Det kan f.eks. være datoen for, hvornår pågældende sidst modtog et brev fra ATP, det udbetalte beløb, navnet på ægtefælle og børn, tidligere arbejdsplads og lignende."
+      ]
+    },
+    {
+      "question": "Hvad skal jeg gøre når jeg er i tvivl om identiteten af en person, der anmoder om udlevering af personoplysninger?",
+      "section_id": "06b50ef9-8c44-5835-944a-1cdbc2a46bd4",
+      "section_heading": "Udlevering af personoplysninger",
+      "phrases": ["foreslå, at den pågældende sender en skriftlig anmodning"],
+      "reference_answers": [
+        "Ved tvivl om identiteten af en person, der anmoder om udlevering af personoplysninger, bør du foreslå, at den pågældende sender en skriftlig anmodning, så du har mulighed for at sikre identiteten og grundlaget for at videregive personoplysningerne. Alternativt kan du foreslå, at du fremsender et skriftligt svar til sagspartens e-Boks."
+      ]
+    },
+    {
+      "question": "Hvordan skal jeg kommunikere med borgere og virksomheder?",
+      "section_id": "38f48bc5-6535-5565-bca1-c18fe3037fa4",
+      "section_heading": "Sikker kommunikation",
+      "phrases": ["Digital Post, som findes via e-Boks eller på borger.dk"],
+      "reference_answers": [
+        "Som hovedregel skal du anvende Digital Post via e-Boks eller borger.dk i din kommunikation med medlemmer, borgere og virksomheder for at sikre bedst mulig beskyttelse. Hvis det undtagelsesvist ikke er muligt at bruge Digital Post og du skal sende fortrolige eller følsomme personoplysninger via e-mail, skal du anvende kryptering. Er du i tvivl om indholdets karakter, skal du altid vælge at sende krypteret."
+      ]
+    },
+    {
+      "question": "Hvad skal jeg gøre, hvis personoplysninger ikke kan sendes via Digital Post?",
+      "section_id": "38f48bc5-6535-5565-bca1-c18fe3037fa4",
+      "section_heading": "Sikker kommunikation",
+      "phrases": ["skal der anvendes kryptering"],
+      "reference_answers": [
+        "Hvis personoplysninger undtagelsesvist ikke kan sendes via Digital Post, skal du anvende kryptering ved transmissionen, især hvis det drejer sig om fortrolige eller følsomme personoplysninger."
+      ]
+    },
+    {
+      "question": "Hvad skal jeg gøre, hvis jeg ikke ved om indholdet af en e-mail er fortroligt eller følsomt?",
+      "section_id": "38f48bc5-6535-5565-bca1-c18fe3037fa4",
+      "section_heading": "Sikker kommunikation",
+      "phrases": ["skal du altid vælge at sende krypteret"],
+      "reference_answers": [
+        "Er du i tvivl om, hvorvidt indholdet er fortroligt eller følsomt, skal du altid vælge at sende krypteret."
+      ]
+    },
+    {
+      "question": "Skal e-mail krypteres, når den indeholder almindelige personoplysninger?",
+      "section_id": "38f48bc5-6535-5565-bca1-c18fe3037fa4",
+      "section_heading": "Sikker kommunikation",
+      "phrases": ["gælder der ikke et tilsvarende krypteringskrav"],
+      "reference_answers": [
+        "E-mail, der indeholder almindelige personoplysninger, behøver ikke at blive krypteret, men det kan stadig være en god idé for at sikre bedst mulig beskyttelse."
+      ]
+    },
+    {
+      "question": "Hvor finder jeg vejledningen om hvordan man sender sikre e-emails?",
+      "section_id": "38f48bc5-6535-5565-bca1-c18fe3037fa4",
+      "section_heading": "Sikker kommunikation",
+      "phrases": [
+        "Se vejledningen på medarbejderportalen [her](https://atpdk.sharepoint.com/sites/Praktisk/SitePages/Saadan-sender-du-sikre,-krypterede-mails.aspx?web=1) om, hvordan du sender sikkert."
+      ],
+      "reference_answers": [
+        "Vejledningen om, hvordan man sender sikre e-mails, findes på medarbejderportalen her: https://atpdk.sharepoint.com/sites/Praktisk/SitePages/Saadan-sender-du-sikre,-krypterede-mails.aspx?web=1."
+      ]
+    },
+    {
+      "question": "Hvor hurtigt skal ATP behandle en anmodning når en borger udøver sine rettigheder?",
+      "section_id": "846fc59b-dd43-5b2d-9fd0-026ec85479cf",
+      "section_heading": "De registreredes rettigheder",
+      "phrases": [
+        "hurtigst muligt og senest indenfor en måned efter modtagelse af en anmodning",
+        "under særlige omstændigheder udvides med yderligere to måneder"
+      ],
+      "reference_answers": [
+        "ATP skal behandle en anmodning om udøvelse af rettigheder hurtigst muligt og senest indenfor en måned efter modtagelse af anmodningen."
+      ]
+    },
+    {
+      "question": "Hvilke oplysninger skal ATP mindst give, når personoplysninger indsamles hos den registrerede selv?",
+      "section_id": "846fc59b-dd43-5b2d-9fd0-026ec85479cf",
+      "section_heading": "De registreredes rettigheder",
+      "phrases": [
+        "ATP’s kontaktoplysninger",
+        "DPO’s kontaktoplysninger",
+        "Formålet med behandlingen",
+        "Retsgrundlaget for behandlingen",
+        "beskrivelse af de pågældende interesser",
+        "Modtagere eller kategorierne af modtagere",
+        "Om ATP agter at overføre personoplysninger til lande uden for EØS-området"
+      ],
+      "reference_answers": [
+        "Når ATP indsamler personoplysninger hos den registrerede selv, skal de som minimum give følgende oplysninger: ATP’s kontaktoplysninger, DPO’s kontaktoplysninger, formålet med behandlingen, retsgrundlaget for behandlingen, modtagere eller kategorier af modtagere, og om ATP agter at overføre personoplysninger til lande uden for EØS-området."
+      ]
+    },
+    {
+      "question": "Hvad indebærer retten til indsigt for den registrerede?",
+      "section_id": "846fc59b-dd43-5b2d-9fd0-026ec85479cf",
+      "section_heading": "De registreredes rettigheder",
+      "phrases": [
+        "ret til at se de personoplysninger, som behandles om den pågældende",
+        "modtage en række oplysninger om behandlingen, f.eks. formålet, retsgrundlaget, opbevaringsperioden, beskrivelse af de øvrige rettigheder"
+      ],
+      "reference_answers": [
+        "Retten til indsigt giver den registrerede mulighed for at se, hvilke personoplysninger ATP behandler om vedkommende. Den registrerede kan kontrollere, at personoplysningerne er korrekte og behandles lovligt. Retten indebærer, at den registrerede har ret til at se de behandlede personoplysninger og modtage oplysninger om behandlingen, såsom formål, retsgrundlag, opbevaringsperiode og beskrivelse af øvrige rettigheder."
+      ]
+    },
+    {
+      "question": "Hvad indebærer retten til indsigelse?",
+      "section_id": "846fc59b-dd43-5b2d-9fd0-026ec85479cf",
+      "section_heading": "De registreredes rettigheder",
+      "phrases": [
+        "Den registrerede har til enhver tid ret til – af grunde, der vedrører den pågældendes særlige situation – at gøre indsigelse mod en ellers lovlig behandling af sine personoplysninger"
+      ],
+      "reference_answers": [
+        "Retten til indsigelse indebærer, at den registrerede til enhver tid har ret til – af grunde, der vedrører den pågældendes særlige situation – at gøre indsigelse mod en ellers lovlig behandling af sine personoplysninger. Retten vil normalt kunne afvises af ATP, da behandlingen er nødvendig for at udføre en lovfæstet myndighedsopgave."
+      ]
+    },
+    {
+      "question": "Hvilke typer leverandører kan ATP antage som databehandlere?",
+      "section_id": "03c2c5bd-b1da-5e17-952e-54257ddc8aa6",
+      "section_heading": "Databehandleres håndtering af personoplysninger",
+      "phrases": [
+        "softwareudbydere, serviceudbydere og andre tredjeparter",
+        "vikarer og konsulenter"
+      ],
+      "reference_answers": [
+        "ATP kan antage softwareudbydere, serviceudbydere, vikarer, konsulenter og andre tredjeparter som databehandlere."
+      ]
+    },
+    {
+      "question": "Hvilke elementer skal en skriftlig aftale mellem ATP og en databehandler som minimum indeholde?",
+      "section_id": "03c2c5bd-b1da-5e17-952e-54257ddc8aa6",
+      "section_heading": "Databehandleres håndtering af personoplysninger",
+      "phrases": [
+        "Behandlingens karakter og formål",
+        "Genstanden for behandlingen",
+        "Hvor længe behandlingen skal varetages af databehandleren",
+        "Kategorier af personoplysninger",
+        "Kategorier af de registrerede",
+        "ATP’s rettigheder og forpligtelser",
+        "At databehandleren alene behandler personoplysningerne efter instruks fra ATP"
+      ],
+      "reference_answers": [
+        "En skriftlig aftale mellem ATP og en databehandler skal som minimum indeholde følgende elementer: behandlingens karakter og formål, genstanden for behandlingen, hvor længe behandlingen skal varetages af databehandleren, kategorier af personoplysninger, kategorier af de registrerede, ATP's rettigheder og forpligtelser, samt at databehandleren alene behandler personoplysningerne efter instruks fra ATP."
+      ]
+    },
+    {
+      "question": "Hvem skal kontaktes ved indgåelse af kontrakter for beløb på 50.000 kr. og derover?",
+      "section_id": "03c2c5bd-b1da-5e17-952e-54257ddc8aa6",
+      "section_heading": "Databehandleres håndtering af personoplysninger",
+      "phrases": [
+        "Koncernindkøb skal kontaktes i alle tilfælde, hvor der skal indgås kontrakter for 50.000 kr."
+      ],
+      "reference_answers": [
+        "Koncernindkøb skal kontaktes i alle tilfælde, hvor der skal indgås kontrakter for 50.000 kr. og derudover."
+      ]
+    },
+    {
+      "question": "Hvad skal ATP gøre, hvis der sker et sikkerhedsbrud?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": [
+        "Datatilsynet skal underrettes hurtigst muligt og senest 72 timer, efter ATP er blevet opmærksomme på bruddet.",
+        "de berørte registrerede, dvs. de personer, hvis personoplysninger er blevet kompromitteret - underrettes."
+      ],
+      "reference_answers": [
+        "Hvis der sker et sikkerhedsbrud, skal ATP underrette Datatilsynet hurtigst muligt og senest 72 timer efter, at bruddet er blevet opdaget. Derudover skal de berørte registrerede også underrettes i visse tilfælde. Medarbejdere skal straks orientere deres nærmeste leder, som vil håndtere sagen. Brud skal anmeldes via en intern blanket på medarbejderportalen, og ATP skal følge en fastlagt procedure for håndtering af sikkerhedsbrud."
+      ]
+    },
+    {
+      "question": "Jeg har sendt en mail med persondata ukrypteret. Er der tale om brud på persondatasikkerheden?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": [
+        "Vi sender en mail med fortrolige eller følsomme personoplysninger ukrypteret."
+      ],
+      "reference_answers": [
+        "Ja, der er tale om et brud på persondatasikkerheden, når du sender en mail med fortrolige eller følsomme personoplysninger ukrypteret."
+      ]
+    },
+    {
+      "question": "Hvis jeg mister mit nøglekort, er der så tale om sikkerhedsbrud?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": ["Man mister sin mobiltelefon, computer eller nøglekort."],
+      "reference_answers": [
+        "Ja, hvis du mister dit nøglekort, betragtes det som et sikkerhedsbrud ifølge ATP's retningslinjer for persondatasikkerhed."
+      ]
+    },
+    {
+      "question": "Jeg har mistet min mobintelefon. Er der tale om sikkerhedsbrud?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": ["Man mister sin mobiltelefon, computer eller nøglekort."],
+      "reference_answers": [
+        "Ja, hvis du har mistet din mobiltelefon, kan der være tale om et sikkerhedsbrud, især hvis den indeholder følsomme personoplysninger."
+      ]
+    },
+    {
+      "question": "Er der tale om sikkerhedsbrud hvis jeg glemmer at låse et arkivskab med persondata?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": [
+        "Et arkivskab, som indeholder følsomme personoplysninger, står uaflåst."
+      ],
+      "reference_answers": [
+        "Ja, hvis du glemmer at låse et arkivskab med persondata, er der tale om et sikkerhedsbrud."
+      ]
+    },
+    {
+      "question": "Er hacking et sikkerhedsbrud?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": ["Der sker hacking i vores systemer og lignende."],
+      "reference_answers": [
+        "Ja, hacking er et sikkerhedsbrud ifølge ATP's databeskyttelsesregler."
+      ]
+    },
+    {
+      "question": "Er der tale om sikkerhedsbrud når CPR er synligt breve?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": [
+        "Der i udsendte breve ved en fejl er flettet oplysninger om en anden borger ind, f.eks. ydelsesoplysninger, cpr-nummer, navn mv."
+      ],
+      "reference_answers": [
+        "Ja, der er tale om et sikkerhedsbrud, når CPR-numre er synlige på breve."
+      ]
+    },
+    {
+      "question": "Er der tale om sikkerhedsbrud når CPR er synligt breve?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": [
+        "Et cpr-nummer optræder i adressefelt og derved er synligt på fysiske breve."
+      ],
+      "reference_answers": [
+        "Ja, der er tale om et sikkerhedsbrud, når et CPR-nummer er synligt på fysiske breve."
+      ]
+    },
+    {
+      "question": "Er der tale om sikkerhedsbrud når persondata bliver offentliggjort på internttet?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": [
+        "Vi ved en fejl offentliggør et brev eller en liste over et sagsområde med personoplysninger på, f.eks. hjemmesiden."
+      ],
+      "reference_answers": [
+        "Ja, det er tale om et sikkerhedsbrud, når persondata bliver offentliggjort på internettet, som nævnt i eksemplet: 'Vi ved en fejl offentliggør et brev eller en liste over et sagsområde med personoplysninger på, f.eks. hjemmesiden.'"
+      ]
+    },
+    {
+      "question": "Er der tale om sikkerhedsbrud når en borger kan se data fra andre borgere?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": [
+        "En borger logger på sin selvbetjeningsløsning og konstaterer, at han, udover egne data, også kan tilgå en anden borgers fortrolige data.",
+        "Der i udsendte breve ved en fejl er flettet oplysninger om en anden borger ind, f.eks. ydelsesoplysninger, cpr-nummer, navn mv.",
+        "Du kommer til at sende en mail eller et fysisk brev indeholdende personoplysninger til en forkert modtager indenfor eller udenfor ATP."
+      ],
+      "reference_answers": [
+        "Ja, der er tale om et sikkerhedsbrud, når en borger kan se data fra andre borgere."
+      ]
+    },
+    {
+      "question": "Hvad skal jeg gøre, hvis jeg bliver opmærksomme på et sikkerhedsbrud?",
+      "section_id": "e49cde2b-fb28-5de4-a7e7-7dbf02e8af2b",
+      "section_heading": "Brud på persondatasikkerheden",
+      "phrases": [
+        "Hvis du bliver opmærksom på et sikkerhedsbrud, eller hvis du har mistanke til et sikkerhedsbrud, skal du derfor straks orientere din nærmeste leder, som herefter vil håndtere sagen.",
+        "Brud skal anmeldes via vores interne blanket på medarbejderportalen."
+      ],
+      "reference_answers": [
+        "Hvis du bliver opmærksom på et sikkerhedsbrud, skal du straks orientere din nærmeste leder, som herefter vil håndtere sagen. Bruddet skal anmeldes via vores interne blanket på medarbejderportalen."
+      ]
+    },
+    {
+      "question": "Hvad skal etableres forud for overførsel af personoplysninger til tredjelande?",
+      "section_id": "6541db1c-74a5-587d-8b8e-65a521480d52",
+      "section_heading": "Overførsel af personoplysninger til tredjelande",
+      "phrases": ["etableres et overførselsgrundlag"],
+      "reference_answers": [
+        "Forud for overførsel af personoplysninger til tredjelande skal der etableres et overførselsgrundlag, som sikrer, at behandlingen af personoplysninger uden for EU/EØS sker på en sikker måde."
+      ]
+    },
+    {
+      "question": "Hvilke tre grupper kan overførselsgrundlag deles op i?",
+      "section_id": "6541db1c-74a5-587d-8b8e-65a521480d52",
+      "section_heading": "Overførsel af personoplysninger til tredjelande",
+      "phrases": [
+        "1. en sikring gennem modtagerlandets egne regler",
+        "2. en sikring gennem forskellige former for aftaler med modtageren (eks. EU-Kommissionens standardkontrakter)",
+        "3. en accept af risikoen (f.eks. et samtykke, en nødvendig behandling pga. en kontrakt eller andre undtagelser)"
+      ],
+      "reference_answers": [
+        "Overførselsgrundlag kan deles op i tre grupper: 1) en sikring gennem modtagerlandets egne regler, 2) en sikring gennem forskellige former for aftaler med modtageren (eks. EU-Kommissionens standardkontrakter), eller 3) en accept af risikoen (f.eks. et samtykke, en nødvendig behandling pga. en kontrakt eller andre undtagelser)."
+      ]
+    },
+    {
+      "question": "Hvilke fire essentielle garantier skal være opfyldt forud for overførsel af personoplysninger til tredjelande?",
+      "section_id": "6541db1c-74a5-587d-8b8e-65a521480d52",
+      "section_heading": "Overførsel af personoplysninger til tredjelande",
+      "phrases": [
+        "1. Myndigheders adgang til og brug af personoplysninger fra EU skal ske på grundlag af klare, præcise og tilgængelige regler",
+        "2. Myndigheders adgang til og brug af personoplysninger fra EU skal være nødvendig og proportional",
+        "3. Der skal være en uafhængig og effektiv tilsynsmyndighed i tredjelandet",
+        "4. Der skal være tilgængelige og effektive retsmidler for de registrerede i tredjelandet"
+      ],
+      "reference_answers": [
+        "De fire essentielle europæiske garantier, der skal være opfyldt forud for overførsel af personoplysninger til tredjelande, er: 1. Myndigheders adgang til og brug af personoplysninger fra EU skal ske på grundlag af klare, præcise og tilgængelige regler. 2. Myndigheders adgang til og brug af personoplysninger fra EU skal være nødvendig og proportional. 3. Der skal være en uafhængig og effektiv tilsynsmyndighed i tredjelandet. 4. Der skal være tilgængelige og effektive retsmidler for de registrerede i tredjelandet."
+      ]
+    },
+    {
+      "question": "Hvad er et passende sikkerhedsniveau?",
+      "section_id": "3b4ea5cc-8fc7-5cbc-98d7-d9c82eee9bf5",
+      "section_heading": "Behandlingssikkerhed",
+      "phrases": [
+        "et passende sikkerhedsniveau vil afhænge af, hvilke og hvor store risici der er for sikkerhedsbrud"
+      ],
+      "reference_answers": [
+        "Et passende sikkerhedsniveau afhænger af en konkret vurdering af behandlingsaktiviteten og de risici, der er forbundet med den. Det skal modsvare de risici, såsom phishing, malware, uvedkommendes adgang eller uautoriseret videregivelse, der er ved en given behandlingsaktivitet. Fastlæggelsen af sikkerhedsniveauet sker ud fra en samlet vurdering af det aktuelle tekniske niveau, implementeringsomkostninger, behandlings karakter, omfang, sammenhæng og formål samt risiciene for fysiske personers rettigheder og frihedsrettigheder."
+      ]
+    },
+    {
+      "question": "Hvordan etableres et passende sikkerhedsniveau?",
+      "section_id": "3b4ea5cc-8fc7-5cbc-98d7-d9c82eee9bf5",
+      "section_heading": "Behandlingssikkerhed",
+      "phrases": [
+        "det afdækkes, hvilke risici der er forbundet med behandlingen, og dette gøres i form af en risikovurdering efter databeskyttelsesforordningens artikel 32"
+      ],
+      "reference_answers": [
+        "For at etablere et passende sikkerhedsniveau skal risiciene forbundet med behandlingen af personoplysninger identificeres gennem en risikovurdering efter databeskyttelsesforordningens artikel 32. Herefter skal der gennemføres foranstaltninger som kryptering, funktionsadskillelse og evne til at sikre vedvarende fortrolighed, integritet og tilgængelighed af personoplysninger."
+      ]
+    },
+    {
+      "question": "Hvad gør jeg hvis jeg er i tvivl om, hvorvidt der er etableret et tilstrækkeligt sikkerhedsniveau?",
+      "section_id": "3b4ea5cc-8fc7-5cbc-98d7-d9c82eee9bf5",
+      "section_heading": "Behandlingssikkerhed",
+      "phrases": [
+        "tage fat i din leder, som herefter vil bringe spørgsmålet videre"
+      ],
+      "reference_answers": [
+        "Hvis du er i tvivl om, hvorvidt der er etableret et tilstrækkeligt sikkerhedsniveau, skal du tage fat i din leder, som herefter vil bringe spørgsmålet videre."
+      ]
+    },
+    {
+      "question": "Hvilket formål har ATP Livslang Pension?",
+      "section_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "section_heading": "Behandling af personoplysninger I Administrationsforretningen",
+      "phrases": [
+        "ATP Livslang Pension til opgave at sikre indbetaling af bidrag og senere at administrere udbetaling til pensionisterne."
+      ],
+      "reference_answers": [
+        "Formålet med ATP Livslang Pension er at sikre indbetaling af bidrag og senere at administrere udbetaling til pensionisterne."
+      ]
+    },
+    {
+      "question": "Hvad kræver Datatilsynet forud for optagelse af telefonsamtaler?",
+      "section_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "section_heading": "Behandling af personoplysninger I Administrationsforretningen",
+      "phrases": ["optagelse af telefonsamtaler kræver forudgående samtykke"],
+      "reference_answers": [
+        "Datatilsynet kræver forudgående samtykke fra medlemmet/borgeren, der ringer ind, før optagelse af telefonsamtaler. Samtykket kan indhentes i form af et tastevalg. Samtykket skal være frivilligt, og der skal ikke være konsekvenser forbundet med nægtelse af samtykke, ligesom det ikke må lagres på sagen, hvorvidt samtykke er afgivet eller afslået."
+      ]
+    },
+    {
+      "question": "Hvordan vurderes det, hvilke personoplysninger der er nødvendige at behandle i en ordning?",
+      "section_id": "637b2fb3-86fb-5c7c-8f48-9f819bc90cfb",
+      "section_heading": "Behandling af personoplysninger I Administrationsforretningen",
+      "phrases": [
+        "analysere den eller de særlove, som danner grundlag for ordningen"
+      ],
+      "reference_answers": [
+        "For at vurdere, hvilke personoplysninger der er nødvendige at behandle i en ordning, skal man først analysere de særlove, som danner grundlag for ordningen. Særlovene fastlægger, hvilke kategorier af personoplysninger der kan behandles, hvilke specifikke typer af personoplysninger der kan indhentes, behandles og videregives, samt hvem oplysningerne kan eller skal indhentes fra og videregives til. Det er vigtigt, at der kun indhentes og behandles de personoplysninger, som er strengt nødvendige for administrationen af ordningen, og ikke de, som er 'nice-to-have'."
+      ]
+    },
+    {
+      "question": "Hvad er formålet med behandlingen af personoplysninger i P&I?",
+      "section_id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "section_heading": "Behandling af personoplysninger I Pensions & investments (P&I)",
+      "phrases": [
+        "formål at forvalte og investere ATP’s formue forsvarligt til gavn for ATP’s medlemmer"
+      ],
+      "reference_answers": [
+        "Formålet med behandlingen af personoplysninger i P&I er at forvalte og investere ATP’s formue forsvarligt til gavn for ATP’s medlemmer."
+      ]
+    },
+    {
+      "question": "Hvilke typer personoplysninger behandles i P&I generelt?",
+      "section_id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "section_heading": "Behandling af personoplysninger I Pensions & investments (P&I)",
+      "phrases": [
+        "navn, kontaktoplysninger, stillingsbetegnelser og arbejdsgiver",
+        "oplysninger om vores samarbejdspartneres gennemførte transaktioner",
+        "CV’er på ledelsesmedlemmer, der bl.a. indeholder oplysninger om uddannelsesniveau samt nuværende og tidligere beskæftigelse"
+      ],
+      "reference_answers": [
+        "I P&I behandles generelt personoplysninger som navn, kontaktoplysninger, stillingsbetegnelser og arbejdsgiver på samarbejdspartnere og modparter. Derudover behandles oplysninger om samarbejdspartneres gennemførte transaktioner og i forbindelse med due diligence-processer kan CV’er, herunder uddannelsesniveau samt nuværende og tidligere beskæftigelse, også behandles."
+      ]
+    },
+    {
+      "question": "Hvornår kan optagelser af telefonsamtaler slettes i P&I?",
+      "section_id": "3d816e46-4e1d-52ac-b758-c52c96f3a493",
+      "section_heading": "Behandling af personoplysninger I Pensions & investments (P&I)",
+      "phrases": [
+        "når der ikke længere er et dokumentationsbehov, f.eks. når handlen er endeligt tilendebragt, og muligheden for at gøre et eventuelt retskrav gældende er ophørt"
+      ],
+      "reference_answers": [
+        "Optagelser af telefonsamtaler i P&I kan slettes, når der ikke længere er et dokumentationsbehov, for eksempel når handlen er endeligt tilendebragt, og muligheden for at gøre et eventuelt retskrav gældende er ophørt."
+      ]
+    },
+    {
+      "question": "Hvad er formålet med en konsekvensanalyse vedrørende databeskyttelse?",
+      "section_id": "cad3059c-3466-53f7-a020-6d74edea052c",
+      "section_heading": "Behandling af personoplysninger for tværgående enheder",
+      "phrases": [
+        "Formålet med en konsekvensanalyse vedrørende databeskyttelse er at vurdere de høje risicis specifikke sandsynlighed og alvor under hensyntagen til behandlingens karakter, omfang, sammenhæng og formål samt risikokilderne."
+      ],
+      "reference_answers": [
+        "Formålet med en konsekvensanalyse vedrørende databeskyttelse er at vurdere de høje risicis specifikke sandsynlighed og alvor under hensyntagen til behandlingens karakter, omfang, sammenhæng og formål samt risikokilderne. Konsekvensanalysen skal navnlig omfatte de foranstaltninger, garantier og mekanismer, der er planlagt til begrænsning af den risiko, der er identificeret ved behandlingen af personoplysninger, til sikring af beskyttelsen af personoplysninger og påvisning af overholdelse af databeskyttelsesreglerne."
+      ]
+    },
+    {
+      "question": "Hvilke funktioner udgør visse 1st.-line-funktioner i ATP Koncernen?",
+      "section_id": "cad3059c-3466-53f7-a020-6d74edea052c",
+      "section_heading": "Behandling af personoplysninger for tværgående enheder",
+      "phrases": [
+        "Koncernstrategi & Forretningsanalyse, Kommunikation & Eksterne Relationer samt Corporate Functions så som Koncernjura, Koncernindkøb, Koncernøkonomi udgør visse 1st.-line-funktioner."
+      ],
+      "reference_answers": [
+        "Koncernstrategi & Forretningsanalyse, Kommunikation & Eksterne Relationer samt Corporate Functions som Koncernjura, Koncernindkøb, Koncernøkonomi udgør visse 1st.-line-funktioner."
+      ]
+    },
+    {
+      "question": "Hvad er formålet med registersamkøring udført af Den Fælles Dataenhed i UDK?",
+      "section_id": "cad3059c-3466-53f7-a020-6d74edea052c",
+      "section_heading": "Behandling af personoplysninger for tværgående enheder",
+      "phrases": [
+        "Registersamkøring bruges til at finde forskellige typer af fejludbetalinger, f.eks. fejl i sagsbehandlingen fra myndigheden, fejl eller misforståelser hos borgeren, der ofte skyldes komplekse sager, eller bevidst snyd fra borgeren."
+      ],
+      "reference_answers": [
+        "Formålet med registersamkøring udført af Den Fælles Dataenhed i UDK er at finde forskellige typer af fejludbetalinger, såsom fejl i sagsbehandlingen fra myndigheden, fejl eller misforståelser hos borgeren, der ofte skyldes komplekse sager, eller bevidst snyd fra borgeren."
+      ]
+    },
+    {
+      "question": "Hvilke typer personoplysninger behandles som led i betjeningen af bestyrelser og repræsentantskab?",
+      "section_id": "c2476178-a26c-5411-84e2-60e8f7229a5a",
+      "section_heading": "Behandling af personoplysninger I FORBINDELSE MED betjeningen af bestyrelser og repræsentantskab",
+      "phrases": [
+        "navn, kontaktoplysninger samt oplysninger om nuværende og tidligere erhverv",
+        "oplysninger relateret til fit & proper-vurderinger"
+      ],
+      "reference_answers": [
+        "Som led i betjeningen af bestyrelser og repræsentantskabet behandles navn, kontaktoplysninger, oplysninger om nuværende og tidligere erhverv samt oplysninger relateret til fit & proper-vurderinger."
+      ]
+    },
+    {
+      "question": "Hvor længe skal oplysninger relateret til udbetaling af bestyrelses- og repræsentantskabsmedlemmernes honorarer opbevares?",
+      "section_id": "c2476178-a26c-5411-84e2-60e8f7229a5a",
+      "section_heading": "Behandling af personoplysninger I FORBINDELSE MED betjeningen af bestyrelser og repræsentantskab",
+      "phrases": [
+        "5 år efter afslutningen af det regnskabsår, som regnskabsmaterialet vedrører"
+      ],
+      "reference_answers": [
+        "Oplysninger relateret til udbetaling af bestyrelses- og repræsentantskabsmedlemmernes honorarer skal opbevares i 5 år efter afslutningen af det regnskabsår, som regnskabsmaterialet vedrører."
+      ]
+    },
+    {
+      "question": "Hvordan skal materialet, der indeholder personoplysninger om bestyrelses- og repræsentantskabsmedlemmer, opbevares?",
+      "section_id": "c2476178-a26c-5411-84e2-60e8f7229a5a",
+      "section_heading": "Behandling af personoplysninger I FORBINDELSE MED betjeningen af bestyrelser og repræsentantskab",
+      "phrases": [
+        "opbevares på bestemte drev samt i Admincontrol, hvor der er adgangsstyring"
+      ],
+      "reference_answers": [
+        "Materialet, der indeholder personoplysninger om bestyrelses- og repræsentantskabsmedlemmer, skal opbevares på bestemte drev samt i Admincontrol, hvor der er adgangsstyring."
+      ]
+    },
+    {
+      "question": "Hvilke af ATP's datterselskaber behandler personoplysninger?",
+      "section_id": "c15afa11-025c-5f39-ab08-38da4c5aaf08",
+      "section_heading": "Behandling af personoplysninger i ATP’s datterselskaber",
+      "phrases": ["ATP Ejendomme og PEP"],
+      "reference_answers": [
+        "De af ATP’s datterselskaber, som behandler personoplysninger, er begrænset til ATP Ejendomme og PEP."
+      ]
+    },
+    {
+      "question": "Hvilken type personoplysninger behandler ATP Ejendomme ud over mailsignaturer?",
+      "section_id": "c15afa11-025c-5f39-ab08-38da4c5aaf08",
+      "section_heading": "Behandling af personoplysninger i ATP’s datterselskaber",
+      "phrases": ["oplysninger om private lejere for nogle få ejendomme"],
+      "reference_answers": [
+        "ATP Ejendomme behandler også oplysninger om private lejere for nogle få ejendomme."
+      ]
+    },
+    {
+      "question": "Hvor længe opbevares regnskabsmateriale i henhold til bogføringslovens regler?",
+      "section_id": "c15afa11-025c-5f39-ab08-38da4c5aaf08",
+      "section_heading": "Behandling af personoplysninger i ATP’s datterselskaber",
+      "phrases": [
+        "i 5 år efter afslutningen af det regnskabsår, som regnskabsmaterialet vedrører"
+      ],
+      "reference_answers": [
+        "Regnskabsmateriale opbevares i henhold til bogføringslovens regler i 5 år efter afslutningen af det regnskabsår, som regnskabsmaterialet vedrører."
+      ]
+    },
+    {
+      "question": "Hvilke typer personoplysninger må CV'er og jobansøgninger indeholde?",
+      "section_id": "84219a8b-adb9-5c79-bf50-ceae1cda9415",
+      "section_heading": "Behandling af personoplysninger i forbindelse med personaleadministration",
+      "phrases": [
+        "oplysninger om helbred, CPR-numre og oplysninger om fagforeningsmæssigt tilhørsforhold"
+      ],
+      "reference_answers": [
+        "CV'er og jobansøgninger må kun indeholde nødvendige og relevante personoplysninger, som er relevante for ansættelsesprocessen. Dette inkluderer ikke følsomme oplysninger som helbredsoplysninger, CPR-numre eller fagforeningsmæssigt tilhørsforhold."
+      ]
+    },
+    {
+      "question": "Hvor længe kan jobansøgninger opbevares efter rekrutteringsprocessen er afsluttet?",
+      "section_id": "84219a8b-adb9-5c79-bf50-ceae1cda9415",
+      "section_heading": "Behandling af personoplysninger i forbindelse med personaleadministration",
+      "phrases": ["6 måneder"],
+      "reference_answers": [
+        "Jobansøgninger kan opbevares i 6 måneder efter rekrutteringsprocessen er afsluttet, uden at den jobsøgende har givet samtykke."
+      ]
+    },
+    {
+      "question": "Hvad indebærer screeningen af jobkandidater?",
+      "section_id": "84219a8b-adb9-5c79-bf50-ceae1cda9415",
+      "section_heading": "Behandling af personoplysninger i forbindelse med personaleadministration",
+      "phrases": [
+        "kontakt til en jobsøgendes tidligere arbejdsgiver/e",
+        "indhentelse af straffeattest"
+      ],
+      "reference_answers": [
+        "Screeningen af jobkandidater hos ATP indebærer, at der af sikkerhedsmæssige årsager foretages en kontrol af den kandidat, som vurderes egnet til den ledige stilling. Dette inkluderer kontakt til tidligere arbejdsgivere for at bekræfte ansættelser og høre om arbejdsopgaver og kompetencer samt indhentelse af straffeattest. Der må dog ikke spørges ind til opsigelsesgrund eller lignende fortrolige oplysninger uden kandidatens samtykke."
+      ]
+    },
+    {
+      "question": "Hvem er dataansvarlig for FK?",
+      "section_id": "83ecc727-7ae3-5a5f-8bca-380b6cf19feb",
+      "section_heading": "Fodnoter",
+      "phrases": ["STAR er den dataansvarlige"],
+      "reference_answers": ["STAR er dataansvarlig for FK."]
+    },
+    {
+      "question": "Hvad er formålet med Databeskyttelsesrådet?",
+      "section_id": "83ecc727-7ae3-5a5f-8bca-380b6cf19feb",
+      "section_heading": "Fodnoter",
+      "phrases": [
+        "Databeskyttelsesrådet er et uafhængigt EU-organ, som skal sikre en ensartet anvendelse af databeskyttelsesforordningen i hele EU."
+      ],
+      "reference_answers": [
+        "Databeskyttelsesrådet er et uafhængigt EU-organ, som skal sikre en ensartet anvendelse af databeskyttelsesforordningen i hele EU. Databeskyttelsesrådet består af repræsentanter for EU-medlemsstaternes tilsynsmyndigheder samt Den Europæiske Tilsynsførende for Databeskyttelse og har bl.a. til formål at vejlede om databeskyttelsesregler og træffe bindende afgørelser om fortolkningen af databeskyttelsesreglerne for at sikre et ensartet niveau på tværs af medlemsstaterne."
+      ]
+    },
+    {
+      "question": "Hvad er pseudonymisering?",
+      "section_id": "83ecc727-7ae3-5a5f-8bca-380b6cf19feb",
+      "section_heading": "Fodnoter",
+      "phrases": [
+        "Pseudonymisering er behandling af personoplysninger på en sådan måde, at personoplysningerne ikke længere kan henføres til en bestemt registreret uden brug af supplerende oplysninger, forudsat at sådanne supplerende oplysninger opbevares separat og er underlagt tekniske og organisatoriske foranstaltninger for at sikre, at personoplysningerne ikke henføres til en identificeret eller identificerbar fysisk person."
+      ],
+      "reference_answers": [
+        "Pseudonymisering er behandling af personoplysninger på en sådan måde, at personoplysningerne ikke længere kan henføres til en bestemt registreret uden brug af supplerende oplysninger, forudsat at sådanne supplerende oplysninger opbevares separat og er underlagt tekniske og organisatoriske foranstaltninger for at sikre, at personoplysningerne ikke henføres til en identificeret eller identificerbar fysisk person."
+      ]
+    }
+  ]
+}
